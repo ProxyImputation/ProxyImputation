@@ -9,5 +9,10 @@ The data used in our evaluation are available through the following links:
 
 ### Narratives
 
-The narratives used in our evaluation can be found in the folder _Narratives_.
+The narratives used in our evaluation can be found in the folder _Narratives_. They have been extracted from the following WHO Data Stories:
+
+- World Health Statistics 2023: https://www.who.int/data/stories/world-health-statistics-2023-a-visual-summary
+- World Health Statistics 2021: https://www.who.int/data/stories/world-health-statistics-2021-a-visual-summary
+- World Health Statistics 2020: https://www.who.int/data/gho/whs-2020-visual-summary
+- Leading causes of death and disability: https://www.who.int/data/stories/leading-causes-of-death-and-disability-2000-2019-a-visual-summary
 
