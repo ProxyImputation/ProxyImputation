@@ -16,3 +16,6 @@ The narratives used in our evaluation can be found in the folder _Narratives_. T
 - World Health Statistics 2020: https://www.who.int/data/gho/whs-2020-visual-summary
 - Leading causes of death and disability: https://www.who.int/data/stories/leading-causes-of-death-and-disability-2000-2019-a-visual-summary
 
+### Proxies
+
+The ranked lists of proxy attributes identified by the LLM and by applying the Sentence Embedding can be found in the folder _ProxyLists_.
