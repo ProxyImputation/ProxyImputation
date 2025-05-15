@@ -1,0 +1,2278 @@
+Age-standardized death rates fires per 100000
+Government budget for malaria (USD)
+Existence of national screening program for breast cancer
+Existence of legislation for advanced care directives for people with dementia
+Existence of national radon map
+Hospital beds (per 10 000 population)
+On-premise sales restrictions on hours
+Youth survey age range - smokeless
+Standard drink defined
+Alcohol total\u00a0 (recorded + unrecorded) per capita (15+) consumption with 95%CI projections to 2020 and 2025
+Accessibility of psycho-social supports for dementia carers [Capital/capital and main cities/capital main cities rural areas]
+Most sold brand of cigarettes - price in currency reported
+Existence of standards/ guidelines/ protocols for diagnosis of dementia
+Overweight prevalence in children aged <three years (%)
+Children with fever - Percentage of children who took drug the same or next day: SP/ Fansidar
+Estimated number of dementia carers receiving respite care
+Age-standardized DALYs attributable to the environment (per 100 000 population)
+Indicator 16.2.1: Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month
+Regulatory oversight of mobile apps for quality safety and reliability
+Treatment success rate: HIV-positive TB cases
+Enabling access to education where learning facilities are limited
+People who would want a family member's TB kept secret (%)
+Lifetime prevalence of child physical abuse (%)
+Providing incentives and guidance for innovation research and evaluation of health
+Extent of implementation of  mental health services for victims of all types of violence
+Government-sponsored mHealth programmes are being evaluated
+General availability of diabetes testing (by HbA1c) at the primary health care level
+Men who have sex with men (MSM) with active syphilis (%)
+Legal obligation for schools to include alcohol use prevention
+Households with at least one insecticide-treated net for every two people (%)
+Intimate partner violence prevalence among ever partnered women (%)
+Treatment for tobacco dependence available in offices of health professionals
+Number of diarrhoea DALYs from inadequate water sanitation and hygiene
+Applicability of national motorcycle helmet law to all occupants
+UN SDG Region
+Antenatal care coverage - at least four visits (in the two or three years preceding the survey) (%)
+Stand-alone policy or plan for mental health
+Overweight prevalence in children aged < 5 years (%)
+Does the law mandate font style font size and colour of health warnings on cigarette packaging?
+Ban on display of tobacco products at points of sale
+Annual tax revenues - import duties and all other taxes (excluding corporate taxes on tobacco companies)
+Perceived trend in exports
+Age-standardized death rates prematurity and low birth rate per 100000
+National universal health coverage strategy
+Effective standards and best practices for data capture not fully established
+Effectiveness
+Radio band
+Condom use at last sexual intercourse among young people (%) [Males]
+Second-hand smoke  attributable deaths per 100'000 children under 5 years
+Number of diarrhoea deaths from inadequate water sanitation and hygiene
+DALYs attributable to the environment in children under 5 years (%)
+Ambient and household air pollution attributable death rate (per 100 000 population)
+Compliance of ban on free distribution of tobacco products in the mail or through other means
+Attributable fraction of diarrhoea to inadequate water sanitation and hygiene
+Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases
+Type of nomenclature system
+Prevalence to notification ratio (years)
+Presence of porcine cysticercosis
+Occupational noise attributable DALYs per 100'000 capita
+Children aged <5 years with ARI symptoms who took antibiotic treatment (%)
+Total dementia hospital admissions (per 100000)
+Cases started on MDR-TB treatment
+Hospital discharges alcoholic liver disease per 100000
+Children aged 6-59 months who received vitamin A supplementation (%)
+Treatment location
+Licenses issued for wholesale/distribution change since 2010
+Health care facilities with basic hygiene services (%)
+Government monopoly on production
+lack of evidence showing effectiveness of EHR
+RSUD_STANDARDS_OF_CARE
+Children aged <5 years sleeping under insecticide-treated nets (%)
+Occupational airborne particulates attributable deaths
+National smoking ban in ALL OTHER INDOOR PUBLIC PLACES
+Alcoholic psychosis incidence per 100000
+Special housing services for drug use disorders
+Percentage of principal display area mandated to be covered by health warnings - front of cigarette packaging
+Server training
+Annual revenues from alcohol excise tax in millions US$
+Majority provider of dementia carer training and education (NGO)
+Substance use policy at the national level level of integration
+Sector for inpatient treatment of alcohol dependence
+Law mandates that health warnings appear on tobacco packages
+Alcohol heavy episodic drinking (population) past 30 days (%)
+Radiation Emergencies
+Involvement of representatives of affected or targeted populations in the development and implementation of national programmes for prevention for alcohol and drugs
+Raised fasting blood glucose (>=7.0 mmol/L or on medication)(age-standardized estimate)
+Population using solid fuels (%)
+UV radiation
+Mortality rate attributed to unintentional poisoning (per 100 000 population)
+Postnatal care visit within two days of birth (in the five years preceding the survey) (%)
+Government benefits for drug use disorders subsidy or disability pension
+Existence of national reference level for dwellings and buildings with high public occupancy
+Existence of dementia-friendly initiative supporting community places for older people
+Licenses issued for retail sale change since 2010
+Existence of approved government dementia standards/ guidelines/ protocols
+Availability of mechanisms to coordinate dementia care across sectors
+Name of survey of adults - smokeless
+Plain packaging of smokeless tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).
+Schools with limited hygiene services (%)
+Number of health management & support workers
+Nurses working in mental health sector (per 100000)
+Specialized treatment facilities for alcohol use disorders
+Total (recorded+unrecorded) alcohol per capita (15+) consumption
+Percentage of the children under 15 years with blood lead levels above 5ug/dl
+Availability of generic anti-dementia medication
+TB incidence rate per 100000 population [Female]
+Treatment services
+Annual budget for tobacco control in currency reported
+Substance dependence
+Protecting people from tobacco smoke
+Annual tax revenues - total revenues
+Existence of operational policy/strategy/action plan to reduce physical inactivity
+Radon in building regulations for existing buildings i.e. renovation/remodeling/major alteration
+Health care facilities with limited water services (%)
+Climate change attributable DALYs ('000) in children under 5 years
+Formative research was conducted
+Children aged < 5 years with diarrhoea receiving oral rehydration therapy and continued feeding (%)
+Treatment success rate: previously treated TB cases
+Occupational injuries attributable deaths per 100'000 capita
+Population using no hygiene services (%)
+Age
+Existence of a universal access telephone number for pre-hospital care
+Population with household spending on health greater than 25% of total household budget (SDG 3.8.2 estimated data) (millions)
+Implementation of physical activity public awareness program
+Nursing personnel (%)
+Children aged <5 years with diarrhoea receiving ORT (%)
+Alcohol consumption of pure alcohol by type of beverage (%)
+Majority provider of respite care for dementia carers (Private sector)
+Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%)
+Pharmacotherapy used for the management of benzodiazepine withdrawal
+Population using basic sanitation services (%)
+Population with household spending on health greater than 25% of total household budget (SDG 3.8.2 estimated data) (%)
+Routine monitoring of people with dementia
+Measles - number of reported cases
+At least one national mass media campaign ran during the survey period
+Proportion of population below the international poverty line of US$1.90 per day (%)
+Treatment admissions (inpatient) alcohol dependence per 100000
+Number of geriatricians or psychogeriatricians (per 100000)
+Pre-service eLearning programmes have been evaluated
+Exports of wine (grape) in 1000s hectolitres
+Compliance of ban on non-tobacco goods AND services identified with tobacco brand names
+HIV-positive TB patients on ART (antiretroviral therapy) (%)
+Age-standardized death rates alcohol and drug use disorders per 100 000
+Affordability: Price dispersion: share of cheapest brand price in premium brand price (the higher the % the smaller the gap)
+Ban on advertising: Point of sale
+Prevention programmes for specific populations for alcohol
+Mean Non-HDL cholesterol crude
+Comprehensive correct knowledge about AIDS among young people (%) [Males]
+Treatment system for substance use disorders
+Treatment programmes for women with drug use disorders
+Country has telehealth policy or strategy
+TB incidence (new infections per 100 000 population)
+Deaths per 1 000 live births
+Use of mosquito nets - Percentage of all women age 15-49 who Slept under an ITN last night
+Prevalence of wasted children under 5 years of age   (% weight-for-height <-2 SD)
+Existence of legislation to end discrimination against carers of people with dementia
+Restriction and inspection of facilities
+Registration of naloxone for injection for opioid overdose
+Community-based interventions involving stakeholders
+Dentists (number)
+Deaths attributable to the environment (%)
+Body part
+Age-standardized death rates self-inflicted injury per 100000
+New cases: pulmonary smear unknown/not done
+Government monopoly on retail sales
+Inclusion of dementia in ministry portfolio
+Antenatal care coverage - at least one visit (in the five years preceding the survey) (%)
+Standards of care for health professionals human rights
+Population using basic drinking water services (%)
+Median availability of selected generic medicines (%) - Private
+National surveys on adult alcohol consumption
+Age-standardized NCD mortality rate  (per 100 000 population)
+Alcohol estimate of five-year change in recorded per capita (15+) consumption 2006-2010
+Sources of reporting
+Estimated number of tests performed where results were received by a person (testing volume) estimated number per 1000 population
+Testing for HIV and receiving results (ever) (%)
+Use of ???3 doses of intermittent preventive treatment in pregnancy (%)
+Monopoly on wholesale /distribution of alcoholic beverages
+Seat Type
+Population
+Incidence of tuberculosis (per 100 000 population) (HIV-positive cases)
+Alcohol-attributable fractions (15+) road traffic crash deaths (%)
+Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission based on WHO methods
+Data sources used to routinely monitor people with dementia (Facility survey or records)
+Identification of other plans in which dementia is integrated (Disability)
+Sobriety checkpoints
+Licenses issued for production change since 2010
+Budget line for substance use disorder prevention
+Majority provider of activities of daily living support services in community for dementia [public private]
+Availability of palliative and end-of-life care services in community for dementia
+Health warning labels on alcohol advertising
+Do the health warnings on other smoked tobacco packaging include a photograph or graphic?
+Imports in 1000s hectolitres
+Existence of legislation to promote community-based services for people with dementia
+Availability of social and financial protection for dementia
+Reference level for workplaces (Bq/m3)
+Estimated antiretroviral therapy coverage among people living with HIV (%)
+HIV / Hepatitis counselling and treatment
+Existence of operational policy/strategy/action plan to reduce the harmful use of alcohol
+Number of new reported cases of Buruli ulcer
+Prevalence of controlled hypertension among adults aged 30-79 years with hypertension crude
+Distribution of road traffic deaths by type of road user (%)
+Budget year
+Total density per million population: Magnetic Resonance Imaging
+Accepting attitudes (would buy fresh vegetables from shopkeeper living with HIV) (%)
+World Bank income group
+Official standards/guidelines for prevention/mitigation
+Ambient air pollution attributable deaths (per 100 000 population age-standardized)
+Existence of official protocols for radon measurements
+Relapse cases: Pulmonary bacteriologically confirmed
+Status of endemicity of visceral leishmaniasis
+Treatment success rate for patients treated for MDR-TB (%)
+Social workers working in mental health sector (per 100000)
+Treatment slots for alcohol and drug use disorders outpatient per 10 000
+Health care facilities with basic water services (%)
+Year of national implementation of regulation
+Schools with no sanitation services (%)
+Ban on brand name of non-tobacco products used for tobacco product
+Contraceptive prevalence - use of modern methods (%)
+Pharmacotherapy used for the management of alcohol withdrawal
+Education
+Crude suicide rates (per 100 000 population)
+Sponsorship originator
+Reference level for buildings with high public occupancy (Bq/m3)
+Years of life lost from mortality (YLLs)
+Provision for secondary prevention of rheumatic fever and rheumatic heart disease in more than 50% of public sector health facilities
+Patient type
+RSUD_SUBSTANCE_TYPES
+Government benefits for people with drug use disorders
+RSUD Main substance at treatment
+Radon concentration measurements for existing buildings
+Existence of dementia training for community workers
+Blood Alcohol Concentration (BAC) limit for drivers
+Estimated number of people with dementia receiving services at outpatient health centre
+Continuing professional development in treatment
+Beds for mental health in general hospitals (per 100000)
+Existence of standards/ guidelines/ protocols for advance care directives power of attorney or guardianship for people with dementia
+Domestic general government health expenditure (GGHE-D) as percentage of current health expenditure (CHE) (%)
+Appearance of tobacco products in TV and/or films
+New cases: other
+Reported number of people receiving antiretroviral therapy
+Underweight numbers among children under 5 years of age (millions)
+IHR Coordination and National IHR Focal Point Functions
+Availability of routine hospital admissions records for people with dementia for monitoring purposes
+Treatment for tobacco dependence available in hospitals
+Median consumer price ratio of selected generic medicines - Public
+Compliance with smoke-free pubs and bars law (score)
+Prevalence of daily smokeless tobacco use among adolescents (%)
+Total population pushed below a relative poverty line by household health expenditures (60% of median daily per capita consumption or income) (%)
+Do health warnings appear on each smokeless tobacco package and any outside packaging and labelling used in the retail sale?
+Representation of latest youth prevalence survey (nonsmoked)
+eLearning used for in-service training of health professionals
+Mean BMI (kg/m\u00b2) (age-standardized estimate)
+Leprosy registered prevalence rate per 1 000 000 population
+Health care facilities with limited sanitation services (%)
+Health warnings on smokeless tobacco packaging must be placed at the top of the principal display areas of the package
+Year of most recent adolescent survey
+Ban on entities other than tobacco companies/tobacco industry publicizing the Corporate Social Responsibility activities of the tobacco companies
+Lifetime prevalence of child physical neglect (%)
+National surveys on drink-driving
+Number of incident tuberculosis cases
+Occupational risk factors attributable deaths per 100'000 capita
+Comprehensive correct knowledge about AIDS among young people (%)
+Number of dentistry personnel
+Schools with limited sanitation services (%)
+Total density per 100 000 population: Health centres
+Sunbed access restrictions
+15-19 years old heavy episodic drinkers (drinkers only) %
+Number of cases of visceral leishmaniasis reported
+Off-premise sales restrictions on places
+Per capita government expenditure on health (PPP int. $)
+Number of national population surveys - maternal mortality
+Other health workers density (per 1000 population)
+Subnational smoking bans - at least one jurisdiction has a comprehensive ban in place
+Penalties for drink driving repeated offense
+Demand for family planning satisfied - modern and traditional methods (%)
+Prevalence of obesity among children and adolescents (5-19) (%)
+Pregnant women sleeping under insecticide-treated nets (%)
+Mean systolic blood pressure (crude estimate)
+Household Net Possession - Average number of ever treated nets per household (Ever treated mosquito net )
+Government expenditures on mental health as a percentage of total government expenditures on health (%)
+Under-five mortality rate (deaths per 1000 live births)
+National systems for monitoring alcohol consumption and harms
+Ban on promotional discounts
+Population with primary reliance on polluting fuels and technologies for cooking (in millions)
+Existence of national radon database
+Nursing and midwifery personnel (per 10000)
+Percentage of sites for which pyrethroid resistance was reported
+Proportion of ever-partnered women and girls aged 15\u201349 years subjected to physical and/or sexual violence by a current or former intimate partner in their lifetime
+Inclusion of basic dementia competencies in training of social workers
+Ban on Corporate Social Responsibility activities (CSR)
+Age-standardized death rates oesophagus cancer per 100000
+Majority provider of social and financial protection for dementia [public private]
+Nicotine replacement therapy - place available
+Involvement of representatives of affected or targeted populations in the development and implementation of national programmes for treatment of substance use disorders
+General availability of peak flow measurement spirometry at the primary health care level
+HIV incidence (cases per 1000 population)
+On-premise sales restrictions on places
+Congenital syphilis number of reported cases
+Compliance with ban on billboard and outdoor advertising (score)
+Number of isolates tested for ceftriaxone
+Disability-adjusted life years (DALYs) attributable to the environment
+Cheapest brand of cigarettes - price in US$ at official exchange rates
+UV radiation attributable DALYs per 100'000 capita
+Occupational carcinogens attributable deaths per 100'000 capita
+Severe wasted prevalence among children under 5 years of age (%)
+Licensing required for imports of alcoholic beverages
+Guidelines on the pharmacological treatment of substance use disorders
+Proportion of population with primary reliance on clean fuels and technologies for cooking (%)
+Treatment admissions (inpatient) alcoholic psychosis per 100000
+Government unit for substance use disorder prevention
+Donor commitments (Million constant 2009 US$)
+Public-private partnerships for eHealth
+Prompt care-seeking for children aged <5 years with fever (%)
+Alcohol regional alcohol per capita (15+) consumption (in litres of pure alcohol)
+Mental health units in general hospitals admissions (per 100000)
+Name of latest adult prevalence survey (nonsmoked)
+National smoking ban: FINES ON THE ESTABLISHMENT
+Existence of dementia national nongovernmental organization
+Restrictions on sales promotion from retailers (sales below cost)
+Early initiation of breastfeeding (in the two years preceding the survey) (%)
+Price measure types
+TB patients with known HIV status (%)
+Healthy life expectancy (HALE) at age 60 (years)
+Household Net Possession - Percentage with more than one (Ever treated mosquito net )
+Increase in poverty gap due to household health expenditures expressed as a proportion of a relative poverty line (60% of median daily per capita consumption or income) (%)
+Tax structure: Greater reliance on specific tax in mixed excise regime
+Majority provider of dementia carer training and education (Private sector)
+General availability of steroid inhalers in the public health sector
+Increase in poverty gap due to household  health expenditures expressed as a proportion of the $1.90 a-day poverty line (%)
+Hepatitis B surface antigen (HBsAg) prevalence among children under 5 years (%)
+Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
+Government benefits for alcohol use disorders subsidy or disability pension
+Total population  pushed below the $1.90 a day  poverty line by household  health expenditures (%)
+Water sanitation and hygiene attributable DALYs ('000)
+Prevalence of current tobacco use among adolescents (%)
+Population aged 15-24 years with comprehensive correct knowledge of HIV/AIDS (%)
+SUBSTANCE_ABUSE_POLICY_FRAMEWORKS
+Identification of different sectors in dementia care coordination (Housing)
+Prevention programmes for drugs
+Tobacco excises increased over the survey period
+Testing and counselling facilities reporting period
+Wasted numbers among children under 5 years of age (millions)
+SDG 3.9.2 WASH deaths
+Inclusion of radon in national cancer control strategy
+Number of deaths among children ages 5 to 9 years
+Number of National surveillance sites in each country providing data to GLASS: outpatient facility category
+Existence of a current dementia research plan/programme
+General availability of thiazide diuretics in the public health sector
+Law mandates that health warnings appear on other smoked tobacco packages
+Existence of dementia training for financial service staff
+Population using safely managed drinking-water services (%)
+Economic status
+Proportion of children in grades 2/3 achieving at least a minimum proficiency level in reading (%)
+Alcohol-related injury mortality per 1000
+Financing methods for treatment for alcohol use disorders
+Insitutional educational policy does not include eLearning as an approach to teaching health sciences
+Point prevalence (%) drug use disorders 15+ years
+Number of suspected yaws cases reported
+Ban on sale of duty-free or excise-free cigarettes
+Number of infant deaths
+Prevalence of condom use by adults during higher-risk sex (15-49) (%)
+SUBSTANCE_ABUSE_POLICY_ADOPTION_LEVELS
+Compliance with ban on advertising at point of sale (score)
+Population practising open defecation (%)
+General availability of retinal photocoagulation in the public health system
+Establishment of National Coordination Centre (NCC)
+Stunting prevalence in children aged < 5 years (%)
+Number of diarrhoea DALYs from inadequate sanitation
+Lack of suitable courses available
+Dental Assistants and Therapists (number)
+Lack of evidence over cost-effectiveness
+Average - taxes as a % of cigarette price - total tax
+Lack of national or international standards for interoperability of EHR
+Smear-positive tuberculosis treatment-success rate (%)
+Contraceptive prevalence - use of modern and traditional methods (%)
+Percentage of principal display area mandated to be covered by health warnings - back of smokeless tobacco packaging
+Proportion of isolates with decreased susceptibility or resistance (DS/R) to extended-spectrum cephalosporins reported to WHO-GASP
+Compliance of ban on sponsored events
+Condom use at last high-risk sex (%) [Males]
+Availability of funding for dementia-specific research plan/programme
+Condom use at last high-risk sex (%) [Females]
+Reference level for dwellings (Bq/m3)
+Causes
+Inclusion of dementia workforce training as a specific action of the dementia plan
+Number of new HIV infections
+Total density per million population: Positron Emission tomography
+Surveillance
+Dementia-specific hospice care beds (per 10000 population)
+Alcohol regional prevalence of alcohol use disorders (%)
+Region
+Population using safely managed drinking water services (%)
+Household air pollution attributable DALYs (per 100 000 population)
+Mental hospitals (per 100000)
+Proportion of children aged 6-23 months who receive a minimum acceptable diet
+Plain packaging of other smoked tobacco products is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).
+Availability of activities of daily living support services in community for dementia
+Total net official development assistance to medical research and basic health sectors per capita (US$) by recipient country
+Identification of different sectors in dementia care coordination (Other)
+National smoking ban: NUMBER OF PLACES SMOKE-FREE
+Insufficient incentives for data sharing
+Distribution of causes of death among children aged < 5 years (%)
+Compliance with ban on sponsorship (contributions and/or publicity of contributions) (score)
+Which governs the sharing of digital data between health professionals in other health services in the same country through the use of an EHR
+Availability of dementia care coordination standards/ guidelines/ protocols
+Existence of subnational regulation
+Compliance with ban on free distribution in mail or through other means (score)
+Countries that have passed legislation on Universal Health Coverage (UHC)
+Treatment for tobacco dependence in health clinics or other primary care facilities cost covered
+Pregnant women sleeping under insecticide-treated net (%)
+Projection of deaths per 100 000 population
+strategy refers to the use of ICT to support UHC
+Population using unimproved sanitation services (%)
+Subnational advertising promotion and sponsorship bans - at least one jurisdiction has a comprehensive ban in place
+Existence of evidence-based national guidelines/protocols/standards for the management of major NCDs through a primary care approach
+Estimated number of people (all ages) living with HIV
+Majority provider of psycho-social supports for dementia carers (Private sector)
+General availability of aspirin (100 mg) in the public health sector
+Regular reports on epidemiological and service delivery data for substance use
+Number of pharmaceutical technicians/assistants
+Sales of spirits in 1000s hectolitres
+Age-standardized suicide rates (per 100 000 population)
+Years of life lost from mortality (YLLs) (per 100 000 population)
+ICD-11 implementation progress level
+Legal blood alcohol concentration (BAC) limits
+Number of maternal deaths
+New cases: Pulmonary smear-positive
+Number of laboratory health workers
+Retreatment cases: treatment after default (pulmonary smear and/or culture positive)
+Motorcycle Occupant Type
+Alcohol-related road traffic crashes with fatalities (% of all road traffic crashes with fatalities)
+Neonatal mortality rate (per 1000 live births)
+Case detection rate (%)
+Seat-belt wearing rate (%)
+Domestic private health expenditure (PVT-D) per capita in US$
+Insufficiently active (crude estimate)
+Implementation level of dementia standards/ guidelines/ protocols (National)
+Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease cancer diabetes or chronic respiratory disease
+Screening and brief intervention for substance use in primary health care
+Dentistry personnel density (per 1000 population)
+Donor/ non-public development funding for eHealth
+Law requires fines for violations of advertising bans
+Ambient air pollution attributable death rate (per 100 000 population)
+Ban on advertising: International magazines and newspapers
+Opioid agonist pharmacotherapy for the treatment of opioid dependence (maintenance)
+Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population)
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%)
+Cause of death
+Compliance with smoke-free restaurants law (score)
+Electronic availability of data sources used to routinely monitor people with dementia
+Mandatory mitigation measures if legal value is exceeded (existing buildings)
+Neonatal tetanus - number of reported cases
+Country
+Proportion of vaccination cards seen (%)
+Bupropion - legally sold
+UHC Service Coverage sub-index on reproductive maternal newborn and child health
+Compliance of ban on smoking in GOVERNMENT FACILITIES
+External health expenditure (EXT) as percentage of current health expenditure (CHE) (%)
+Functioning national AMR surveillance plan
+Lead attributable DALYs per 100'000 capita
+The quit line number must appear on smokeless tobacco packaging or labelling
+Household air pollution attributable deaths
+Average - taxes as a % of cigarette price - ad valorem excise
+Ban on deceitful terms on smokeless tobacco packaging
+National smoking ban in INDOOR OFFICES
+Number of deaths among children ages 10 to 14 years
+New cases: Pulmonary smear-negative/unknown/not done and other new cases
+Sector for outpatient treatment of drug dependence
+Licensing required for exports of alcoholic beverages
+Existence of an operational multisectoral national NCD policy strategy or action plan that integrates several NCDs and their risk factors
+Which allows individuals electronic access to their own health-related data when held in an EHR
+Number of personal care workers
+Number of people operated for trachomatous trichiasis
+ndx - number of people dying between ages x and x+n
+Alcohol former drinkers (%)
+Population with basic handwashing facilities at home (%)
+Full immunization coverage among one-year-olds (%)
+Estimated antiretroviral therapy coverage among children
+Bupropion - place available
+Antenatal care coverage - at least one visit (%)
+Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%)
+Polio immunization coverage among one-year-olds (%)
+Prevention/counselling at workplaces for those with alcohol problems
+Estimates of number of homicides
+Median availability of selected generic medicines (%) - Public
+Schools with no water services (%)
+Youth violence: Extent of implementation of life-skills and social development programmes
+Number of isolates tested for cefixime
+Implementation level [national/subnational] of dementia research plan/programme
+Number of licensed qualified anaesthesiologists actively working
+Cytisine - cost covered
+Existence of dementia-friendly initiative supporting social opportunities
+Compliance of ban on smoking in INDOOR OFFICES
+Population sleeping under a bed net(%)
+National smoking ban in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES
+Age-standardized death rates colon and rectum cancers per 100000
+Physicians density (per 1000 population)
+Guidelines on pharmacological treatment for substance use disorders
+Deaths due to malaria (per 100 000 population)
+Alcohol-related road traffic crashes per 100000 population
+Counselling to children in families with alcohol problems
+Five-year change in government resources for prevention for substance use
+Campaign aired on television and/or radio
+Population  pushed below the $3.10 a day  poverty line by household  health expenditures (%)
+Treatment success rate: new TB cases
+Compliance with bans on direct advertising
+Road traffic crash deaths age-standardized death rates (15+) per 100000 population
+Representativeness of most recent adolescent survey
+Estimated population-based prevalence of depression
+Youth indicator 2 rate
+Special treatment programmes for gambling disorder
+Subnational bans on advertising promotion and sponsorship - at least one jurisdiction has a comprehensive ban in place
+Employment services for alcohol use disorders
+Previously treated  cases excluding relapse
+Inclusion of basic dementia competencies in training of specialists
+Proportion of private funding
+Schools with basic water services (%)
+Percentage of sub-national regions covered by dementia plan
+Buprenorphine/naloxone used for detoxification or maintenance
+People who report TB is spread through coughing (%)
+Number of imported cases of cutaneous leishmaniasis reported
+Existence of respite care for dementia carers
+Total expenditure on dementia research (local currency self-report)
+Number of conventional insecticide-treated nets (ITNs) sold or delivered
+Representativeness of youth survey
+Estimated number of people receiving activities of daily living support services in community for dementia
+Availability of routine outpatient intervention and treatment records for people with dementia for monitoring purposes
+Country has  national policy or strategy regulating the use of big data in the health sector
+Adolescent fertility rate (births per 1000 women aged 15-19 years)
+Availability and status of dementia reporting in the past two years
+Japanese encephalitis - number of reported cases
+Births attended by skilled health personnel (in the two or three years preceding the survey) (%)
+Data used to routinely monitor people with dementia can be disaggregated
+Accessibility of financial benefits/social protection for dementia carers [Capital/capital and main cities/capital main cities rural areas]
+Annual tax revenues - currency
+Early initiation of breastfeeding (in the five years preceding the survey) (%)
+Human resources
+Existence of a set of national NCD indicators and has set time-bound national targets for these indicators
+Compliance with bans on promotion and sponsorship
+Distribution of years of life lost by broader causes (%) - Injuries
+Identification of other plans in which dementia is integrated (NCD)
+Compulsory treatment for people with alcohol use disorders in the criminal justice system
+Estimate of current cigarette smoking prevalence (%) (age-standardized rate)
+Subnational bans on tobacco advertising promotion and sponsorship
+Existence of a register of patients who had rheumatic fever and rheumatic heart disease
+Confirmed cases of RR-/MDR-TB
+Epidemiological data collection system for substance use disorders
+Prevalence of thinness among children and adolescents BMI < -2 standard deviations below the median (crude estimate) (%)
+Regional prevalence AAFs (15+) road traffic crash deaths (%)
+Penalties for marketing infringements
+Excise tax as a per cent of the total retail price for 1 litre of pure alcohol
+Occupational injuries attributable deaths
+Government health budget (USD)
+Proportion of girls and women aged 15-49 years who have undergone female genital mutilation/cutting (FMG/C) (%)
+Radon in building regulations for new buildings
+Groups and agencies for the prevention of substance use disorders
+Increase in poverty gap  due to household  health expenditures at the $3.10a day poverty line in cents of international dollars
+Confidentiality of people in treatment for substance use disorders
+Wasting prevalence in children aged < 5 years (%)
+Ambient air pollution attributable DALYs  (per 100 000 population)
+Existence of dementia representative in ministry
+Existence of any national radon activity
+Severe wasting prevalence in children aged < 5 years (%)
+Number of dentists
+Restriction and inspection of sunbed facilities
+Most sold brand of cigarettes - price in PPP$
+Household air pollution attributable DALYs (per 100 000 age-standardized)
+Counselling to pregnant women with alcohol problems
+Lead attributable deaths
+Occupational carcinogens attributable DALYs per 100'000 capita
+Total number of notified TB cases
+Do health warnings on smokeless tobacco packaging describe the harmful effects of tobacco use on health?
+Exclusive breastfeeding under 6 months (%)
+Number of laboratory technicians/assistants
+Radon subquestions
+SUBSTANCE_ABUSE_BEVERAGE_TYPES
+New leprosy child case detection rate (less than 15 years of age) per 1 000 000 child population
+Existence of a road safety lead agency
+Total environment attributable DALYs ('000) in children under 5 years
+Laboratory
+Individuals have the legal right to specify which health-related data from their EHR can be shared with health professionals of their choice
+Number of suspected meningitis cases reported
+GBD Region
+Targets for monitoring implementation of dementia national plan
+Relapse cases: Pulmonary clinically diagnosed
+Prescription requirements for buprenorphine/naloxone
+Administration type
+BCG immunization coverage among children aged 1 year (%)
+Which governs the sharing of digital data between health professionals  in health services in other countries through the use of an EHR
+Public-funded alcohol research/monitoring programmes
+Year the law was enacted (latest revision)
+Campaign utilized media planning
+Ban on appearance of tobacco products in TV and/or films
+All-cause inpatient cases
+Age-standardized death rates mouth and oropharynx cancer per 100000
+Number of suspected meningitis deaths reported
+Wealth Quintile
+Data collection on Foetal Alcohol Syndome
+Information education prevention
+Reported currency
+General availability of insulin in the public health sector
+Are the health warnings on other smoked tobacco packaging written in the principal language(s) of the country?
+Alcohol consumers past 12 months (%)
+Majority provider of diagnostic services in community for dementia [public private]
+Existence of operational policy/strategy/action plan for cardiovascular diseases
+Household Net Possession - Average number of ITNs per household (Insecticide treated mosquito nets (ITNs) )
+Compliance with ban on appearance of tobacco products in TV and/or films (score)
+Total density per million population: Linear Accelerator
+Country has national policy or strategy on the use of social media by government organizations
+Age-standardized DALYs colon and rectum cancers per 100000
+Chemical
+Other smoked tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark
+Number of reported cases of poliomyelitis by wild poliovirus (WPV)
+Identification of different sectors in dementia care coordination  (Health)
+Educational attainment in treatment
+Dementia nongovernmental organization office branches (Sub-national)
+Use of nomenclature system
+SUBSTANCE_ABUSE_ADVERTISING_TYPES
+Compliance of ban on brand name of non-tobacco products used for tobacco product
+Inclusion of universal health coverage as a guiding principle of the dementia plan
+Sex
+Number of pharmacists
+Buprenorphine used for detoxification or maintenance
+Congenital syphilis rate per 100 000 live births
+Second-line drug susceptibility testing (DST) available
+Mental health outpatient facilities (per 100000)
+Status of elimination of trachoma as a public health problem
+Testing for HIV and receiving results in the last 12 months among sexually active young people (%) [Males]
+Lack of infrastructure
+Mortality rate attributed to CV disease cancer diabetes or CR disease (%)
+Pharmacotherapy with methadone
+Deaths due to HIV/AIDS (per 100 000 population)
+Availability of atleast one adult hygiene products for people with dementia
+National drinking guidelines
+Has systems for follow-up/recall to deliver long-term penicillin prophylaxis to patients with rheumatic fever and rheumatic heart disease
+Alcohol abstainers past 12 months (%)
+Prevalence of daily smokeless tobacco use among adults (%)
+Contributions from the Global Fund (USD)
+Premium brand of cigarettes - price in international dollars
+Level of enforcement of BAC limits
+Prevalence of overweight among children and adolescents BMI > +1 standard deviations above the median (crude estimate) (%)
+Number of diarrhoea deaths from inadequate hygiene
+Confirmed cases of MDR-TB started treatment for MDR-TB (%)
+Proportion ofpublic private partnerships funding
+Economic status (wealth quintile)
+Estimated percentage of hospitals following national dementia standards
+Total net official development assistance to medical research and basic health sectors per capita (constant 2014 US$) by recipient
+Adult smokeless tobacco use indicator definition
+Compliance with ban on advertising on national television and radio (score)
+Pyrethroid resistance reported for at least one site
+Nursing and midwifery personnel  (number)
+Number of isolates tested for extended-spectrum cephalosporins
+Domestic general government health expenditure (GGHE-D) per capita in US$
+Smokeless tobacco packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas
+Number of standard alcoholic drinks displayed on containers
+Cytisine - legally sold
+Women of reproductive age (15\u221249 years) who are married or in-union who have their need for family planning satisfied with modern methods (%) UNPD
+Environmental and public health workers density (per 1000 population)
+National system of data collection based on health service delivery
+Alcohol-related crimes (% of all crimes)
+Pharmacists  (per 10000)
+Status of pinta endemicity
+Hospital discharges alcohol-related injuries and poisoning per 100000
+Occupational ergonomic stressors attributable deaths per 100'000 capita
+Mean HDL cholesterol crude
+Existence of dementia training for volunteers
+Organochlorine resistance reported for at least one site
+ICT Development Index (IDI) rank
+Dementia nongovernmental organization equipped with office
+SUBSTANCE_ABUSE_MEASURE_IMPORTANCE_TYPE
+Percentage of principal display area mandated to be covered by health warnings - front and back of smokeless tobacco packaging
+Antenatal care attendees who were positive for syphilis (%)
+Sector for substitution maintenance therapy of opioid dependence
+Law requires fines for violations of promotion and sponsorship bans
+Ban on internet sales of tobacco products
+Price measures
+Estimated number of people receiving psychosocial and rehabilitation services in community for dementia
+Existence of psycho-social supports for dementia carers
+Number of deaths due to tuberculosis excluding HIV
+Alcohol drinkers only per capita (15+)consumption in litres of pure alcohol
+Inclusion of empowerment as a guiding principle of the dementia plan
+Law mandates that health warnings appear on smokeless tobacco packages
+Number of other health workers
+Availability of psychosocial and rehabilitation services in community for dementia
+General availability of colon cancer screening at the primary health care level
+Advertising restrictions on billboards
+Age-standardized DALYs cerebrovascular disease per 100000
+Dementia integrated into other national research plan/programme
+To address patient safety and quality of care based on data quality data transmission standards or clinical competency criteria
+Alcohol recorded per capita (15+) consumption (in litres of pure alcohol) three-year average with 95%CI
+Adult day centre places (per 10000 population)
+Attributable fraction of diarrhoea to inadequate water
+Estimated number of malaria cases
+Households impoverished by out-of-pocket payments (relative poverty line reflecting basic needs: food housing utilities) (%)
+Age-standardized DALYs liver cancer per 100000
+Condom use at last sexual intercourse among young people (%)
+Treatment for tobacco dependence available in health clinics or other primary care facilities
+Availability of estimates on large  health expenditures as a share of total expenditure or income
+Age (3 groups)
+Handwashing with soap after cleaning child's stool (%)
+Alcohol total  (recorded + unrecorded) per capita (15+) consumption with 95%CI projections to 2025
+Relapse cases (pre-2013 definition)
+15-19 years old total alcohol consumption in litres of pure alcohol
+DALYs attributable to ambient air pollution (age-standardized)
+Extent of implementation of child protection services
+Data collection on alcohol-related health indicators
+Main sector for treatment for drug use disorders
+Existence of dementia carer support services
+Number of community and traditional health workers
+Coordination
+Prevalence of underweight among adults BMI < 18 (crude estimate) (%)
+Water sanitation and hygiene attributable deaths ('000) in children under 5 years
+Duty paid or excise stamp on alcohol container
+Total tetanus - number of reported cases
+Infant mortality rate (deaths per 1000 live births)
+Climate change attributable deaths
+Off-premise sales restrictions on outlet density
+Geriatric-specific hospital beds (per 10000 population)
+Existence of dedicated resources for dementia carer support services
+Wealth decile
+Preterm birth rate (per 100 live births)
+Treatment setting for substance use disorders most common
+Children aged <5 years wasted for age (%)
+Does the law mandate font style font size and colour of health warnings on smokeless tobacco packaging?
+Existence of operational policy/strategy/action plan for diabetes
+Condom use at last high-risk sex (%)
+Disability-adjusted life years (DALYs) attributable to the environment (%)
+Malaria outpatient cases
+On-premise sales restrictions on outlet density
+Country has national policy or strategy regulating the use of big data by private companies
+lx - number of people left alive at age x
+Climate change attributable DALYs ('000)
+Number of traditional medicine practitioners
+Occupational risk factors attributable DALYs ('000)
+Subnational bans on tobacco advertising promotion and sponsorship authority exists
+General availability of oral morphine in the public health sector
+Care facilities [hospice centres]
+Adult mortality rate (probability of dying between 15 and 60 years per 1000 population)
+Outpatient health centres
+Law requires fines for violations of direct advertising bans
+Off-premise sales restrictions at petrol stations
+Use of mosquito nets - Percentage of all women age 15-49 who Slept under any net last night
+Treatment for tobacco dependence in the community cost covered
+Employment services for drug use disorders
+Smokeless tobacco packaging and labelling must display qualitative information on relevant constituents and emissions
+Off-premise sales restrictions on hours
+Composite coverage index (%)
+Reported number of children receiving antiretroviral therapy month and year of report
+Out-of-pocket expenditure (OOP) per capita in PPP int$
+Implementation level [national/subnational] of dementia legislation
+Comprehensive and regular reporting of alcohol situation
+Sales of beer in 1000s hectolitres
+Data sources used to routinely monitor people with dementia (Clinical records)
+Antenatal care attendees positive for syphilis who received treatment (%)
+Population using limited hygiene services (%)
+Health warnings on cigarette packaging law requires or establishes fines for violations
+Prevalence of overweight among adults BMI &GreaterEqual; 25 (age-standardized estimate) (%)
+Under-five mortality rate (probability of dying by age 5 per 1000 live births)
+Health warning labels on under-age drinking
+Opioid agonist pharmacotherapy for the treatment of opioid dependence (detoxification or maintenance)
+Occupational ergonomic stressors attributable DALYs per 100'000 capita
+To protect the privacy of individuals' health-related  data held in electronic format as an EHR
+Postnatal care visit within two days of birth (in the x years preceding the survey) (%)
+National Health Emergency Framework
+Prevalence of obesity among adults (%)
+Stunting prevalence among children under 5 years of age (%)
+Process evaluation was employed to assess implementation of the campaign
+General availability of diabetes testing (by blood glucose measurement OGTT) at the primary health care level
+Lack of evidence that eLearning is effective
+Total number of published dementia research output
+Number of full-time equivalent staff in national agency
+Malaria - number of reported confirmed cases
+Ban on tobacco companies funding or making contributions (including in-kind contributions) to smoking prevention media campaigns including those directed at youth
+Premium brand of cigarettes - price in US$ at official exchange rates
+Monitoring
+Compliance of ban on smoking in PUBS AND BARS
+National smoking ban in UNIVERSITIES
+TB drug resistance
+Ban on tobacco companies/tobacco industry publicizing their \u201cCorporate Social Responsibility\u201d activities
+Availability of national list of approved medical devices for procurement or reimbursement
+Alcohol use is banned
+Participation rate in organized learning (one year before the official primary entry age) (%)
+Household air pollution attributable deaths in children under 5 years
+Testing and counselling facilities estimated number per 100 000 adult population
+Proportion of isolates with decreased susceptibility or resistance (DS/R) to ceftriaxone reported to WHO-GASP
+Ban on any form of contribution (financial or other support) to any event activity or individual
+Existence of dementia sub-national plan(s)
+Compliance of ban on smoking in RESTAURANTS
+Water sanitation and hygiene attributable DALYs ('000) in children under 5 years
+Prescription requirements for methadone
+Women and girls aged 15-49 years participating in activities during menstruation (%)
+Health Service Provision
+New cases tested for RR-/MDR-TB (%)
+Existence of a national drink-driving law
+Proportion of health facilities with a core set of relevant essential medicines available and affordable on a sustainable basis
+Does the law mandate specific health warnings on cigarette packaging?
+Existence of training/education on prevention/mitigation
+Which allows individuals to demand that their own data be corrected  when held in an EHR if it is known to be inaccurate
+HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%)
+Births by caesarean section (%)
+Open access interventions for drugs
+Total environment attributable deaths ('000) in children under 5 years
+Number of female leprosy new cases
+Mortality rate among children ages 5 to 9 years (per 1000 children aged 5)
+Mortality rate among children ages 10 to 14 years (per 1000 children aged 10)
+Leprosy - New leprosy cases with G2D rate per 1 000 000 population
+Existence of any policies to reduce population salt consumption
+Excise duty (average) per hectolitre in Euros
+Prevalence of overweight among adults BMI &GreaterEqual; 25 (crude estimate) (%)
+Existence of national reference level for workplaces
+Postnatal care visit within two days of birth (in the three years preceding the survey) (%)
+Health warnings on other smoked tobacco packaging law applys to products whether manufactured domestically imported AND for duty-free sale
+Availability of at least one anti-dementia medication approved for on-label use reimbursement
+Proportion of women aged 20-24 years who were married or in a union by age 18 (%)
+Identification of other research plans in which dementia is integrated (Mental health)
+Prevention programmes for specific populations for drugs
+Inclusion of dementia in a branch of government [health ageing social services mental health noncommunicable disease]
+People living with HIV with suppressed viral load (%)
+Excise tax on alcoholic beverages
+Age-standardized DALYs alcohol and drug use disorders per 100 000
+Availability of naloxone
+Specific populations
+Leprosy - Number of cases registered for treatment
+Average price 750 mls Wine in US$
+Antenatal care coverage - at least one visit among girls aged 15-19 (%)
+Other smoked tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors
+Sales of wine in 1000s hectolitres
+National eHealth strategy refers to objectives of UHC
+Level of adoption of national alcohol policy
+Number of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission
+Dentists (per 10000)
+Stunting prevalence in children aged < 3 years (%)
+Number of incident tuberculosis cases  (HIV-positive cases)
+Advertising restrictions on cable television
+Out-of-pocket expenditure (OOP) per capita in US$
+Methadone used for detoxification or maintenance
+Voluntary treatment for people with alcohol use disorders in the criminal justice system
+People living with HIV who know their HIV-positive status (%)
+Births attended by skilled health personnel (in the five years preceding the survey) (%)
+Smokeless tobacco packaging and labelling must not use descriptors depicting flavours
+Occupational injuries attributable DALYs ('000)
+Ill-defined causes in cause-of-death registration (%)
+15-19 years old abstainers lifetime (%)
+Existence of national radon survey(s)
+Compliance with regulations on smoke-free environments (national legislation)
+Advertising restrictions in print media
+National smoking ban in HEALTH-CARE FACILITIES
+15-19 years old former drinkers (%)
+Data collected on harm from alcohol at workplace
+Excise tax as a per cent of the retail price of alcoholic beverages
+Institutions offer in-service training to health professionals on ICT for health
+Age-standardized death rates drownings per 100000
+Identification of different sectors in dementia care coordination (Private sector)
+Report with epidemiological data on lcohol use and AUDs
+Mean BMI (kg/m&#xb2;) (crude estimate)
+Prevention activities for substance use disorders main focus
+National smoking ban: FINES ON THE PATRON
+Condom use at last sexual intercourse among young people (%) [Females]
+Health care facilities with limited hygiene services (%)
+Implementation level [national/subnational] of dementia risk reduction campaign
+Prevalence of current smokeless tobacco use among adolescents (%)
+Inclusion of dementia diagnosis care and support as a specific action of the dementia plan
+Households with out-of-pocket payments greater than 40% of capacity to pay for health care (food housing and utilities approach - developed by WHO/Europe) (%)
+Age-standardized DALYs poisoning per 100000
+Legal obligation for schools to interact with parents regarding education and well-being
+Ban on deceitful terms on other smoked tobacco packaging
+Title of most recent survey of adults
+Income level
+Tx - person-years lived above age x
+Early initiation of breastfeeding (in the two or three years preceding the survey) (%)
+General availability of thrombolytic therapy in the public health system
+Government unit/official responsible for treatment of substance use disorders
+Dementia nongovernmental organization office branches (National only)
+Self-help groups for substance use disorders
+Status of bejel endemicity
+Cigarette packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark
+Existence of an NCD surveillance and monitoring system in place to enable reporting against the nine global NCD targets
+Alcohol heavy episodic drinking (15+) past 30 days (%) age-standardized with 95%CI
+Alcohol recorded per capita (15+) consumption (in litres of pure alcohol)
+Hib (Hib3) immunization coverage among 1-year-olds (%)
+Number of national population surveys - child anthropometry
+Availability of cardiovascular risk stratification in 50% or more primary health care facilities
+Regional prevalence AAFs all-cause deaths (%)
+Identification of other research plans in which dementia is integrated (Ageing)
+Prevalence of anaemia in pregnant women (aged 15-49) (%)
+A minimum price policy is implemented
+Year of latest youth prevalence survey (nonsmoked)
+Existence of a national seat-belt law
+Ban on tobacco vending machines
+Sectors represented in national alcohol policy
+Implementation level [national/subnational] of dementia carer support services
+Access restrictions
+Out-of-pocket expenditure as a percentage of private expenditure on health
+Number of new reported cases of human African trypanosomiasis (T.b. rhodesiense)
+Population using safely managed sanitation services (%)
+Community residential facilities (per 100000)
+System of monitoring alcohol involvement in forensic pathology
+Total fertility rate (per woman)
+Overweight numbers among children under 5 years of age (millions)
+IHR SPAR Capacity Level
+Stunting numbers among children under 5 years of age (millions)
+Population using unimproved drinking water services (%)
+Proportion of children in grades 2/3 achieving at least a minimum proficiency level in mathematics (%)
+Births by caesarean section (in the two or three years preceding the survey) (%)
+Cataract surgical coverage of adults aged 50 and over (%)
+Majority provider of respite care for dementia carers (NGO)
+Youth smokeless tobacco use indicator rate
+Proportion of isolates with resistance to azithromycin reported to WHO-GASP
+Social security expenditure on health as a percentage of general government expenditure on health
+Sector for the treatment of alcohol-induced psychoses and other alcohol-induced psychiatric conditions
+Identification of other plans in which dementia is integrated (Ageing)
+Ban on appearance of tobacco brands in TV and/or films (product placement)
+Raising taxes on tobacco
+Total expenditure on dementia implementation research (local currency self-report)
+Inclusion of human rights as a guiding principle of the dementia plan
+Information requirements
+RSUD_NGOS
+Taxation of ethanol production
+Total density per 100 000 population: Specialized hospitals
+Access to a toll-free quit line
+Inclusion of equity as a guiding principle of the dementia plan
+Identification of different sectors in dementia care coordination (Social)
+Households pushed below or further below a relative poverty line (reflecting basic needs: food housing utilities) by out-of-pocket payments (%)
+Reported use of earmarked tobacco taxes
+Frequency
+Alcohol total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2)
+Estimated number of dementia carers receiving information on legal rights
+Accessibility of behaviour and psychological management in community for dementia [Capital/capital and main cities/capital main cities rural areas]
+Alcohol use disorders (15+) 12 month prevalence (%) with 95%
+Service delivery data collection system for substance use disorders
+Perceived trend in production
+Monopoly on imports of alcoholic beverages
+Number of local clinical laboratories in each country performing AST to support national AMR surveillance sites
+Mean Non-HDL cholesterol age-standardized
+Presence of formal agreement/joint plan for dementia care coordination
+Campaign was pre-tested
+Majority provider of information on legal rights for dementia carers (Private sector)
+Existence of at least one functioning risk reduction campaign
+Number of people who received treatment with antibiotics for trachoma
+Establishment of national reference laboratory (NRL)
+Data in national radon database
+Alcohol total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol)
+Number of deaths attributed to non-communicable diseases by type of disease and sex
+Compliance with smoke-free universities law (score)
+Treatment programmes for children and adolescents with alcohol use disorders
+Disability-adjusted life years (DALYs) (per 100 000 population)
+Legislation
+Premium brand of cigarettes - currency reported
+Driver Type
+Compliance with ban on promotional discounts (score)
+Women and girls aged 15-49 years using single-use menstrual materials (%)
+Estimated number of people receiving behaviour and psychological management services in community for dementia
+Total density per million females aged from 50 to 69 years old: Mammography units
+RSUD_GROUPS
+Average - taxes as a % of cigarette price - specific excise
+General government expenditure on health as a percentage of total expenditure on health
+Social costs of alcohol use in millions US$
+Occupational risk factors attributable deaths
+Prevalence of current tobacco smoking among adolescents (%)
+Involvement of representatives of affected or targeted populations in the development and formulation of policies and strategies for treatment of substance use disorders
+Testing for HIV and receiving results (ever) (%) [Females]
+Occupational injuries attributable DALYs per 100'000 capita
+External resources for health as a percentage of total expenditure on health
+Tuberculosis - new and relapse cases
+Legal
+General availability of nicotine replacement therapy in the public health sector
+Ambient air pollution attributable DALYs  (per 100 000 population age-standardized)
+Sex workers with active syphilis (%)
+Compliance with ban on appearance of tobacco brands in TV and/or films (score)
+Inclusion of multisectoral collaboration as a guiding principles of the dementia plan
+External health expenditure (EXT) per capita in PPP int$
+Implementation level [national/subnational] of dementia awareness campaign
+Are the health warnings on cigarette packaging written in the principal language(s) of the country?
+On-premise sales restrictions to intoxicated persons
+Diphtheria - number of reported cases
+Suicide mortality rate (per 100 000 population)
+Financing method for substance use disorder treatment
+Percentage of principal display area mandated to be covered by health warnings - front and back of cigarette packaging
+Pharmacists  (number)
+Do the health warnings on cigarette packaging include a photograph or graphic?
+Majority provider of information on legal rights for dementia carers (NGO)
+Availability of routine antipsychotic prescription records for people with dementia for monitoring purposes
+Compliance of ban on appearance of tobacco products in TV and/or films
+Hospice centre beds (per 10 000 population)
+Number of physicians
+Age limits off-premise sales
+Number of confirmed yaws cases reported
+Does the law mandate specific health warnings on smokeless tobacco packaging?
+Completeness of cause-of-death data (%)
+Households with at least one insecticide-treated net (%)
+General availability of diabetes testing (by blood glucose measurement OGTT or HbA1c) at the primary health care level
+Community health workers density (per 10 000 population)
+Monitoring tobacco use and prevention policies
+Magnetic flux density (microT)
+Proportion of population using at least basic sanitation services (%)
+Estimated number of dementia carers receiving financial benefits/social protection
+Health warnings on cigarette packaging do not remove or diminish the liability of the tobacco industry
+Off-premise sales restrictions on days
+Dracunculiasis certification status of countries at the beginning of the year
+Compliance with smoke-free health-care facilities law (score)
+Privacy and security laws need to be in place
+Yellow fever - number of reported cases
+Authorization/accreditation required for official radon measurement providers
+New or unknown treatment history cases: Pulmonary clinically diagnosed
+Specialized treatment services for substance use disorders and TB
+Distribution of years of life lost by major cause group
+Majority provider of dementia carer training and education (Public sector)
+Tertiary institutions provide students of health sciences with training on eHealth
+Tax structure: Minimum specific tax applied in ad valorem or mixed excise regime
+Poliomyelitis - number of reported cases
+Capacity
+Births by caesarean section (in the five years preceding the survey) (%)
+Sector for inpatient treatment of drug dependence
+Competing educational priorities
+TB incidence rate per 100000 population [Male]
+Sector for outpatient treatment of alcohol dependence
+Testing and counselling facilities reported number
+Detection of marketing infringements
+Mean fasting blood glucose (mmol/l) (age-standardized estimate)
+Use of mosquito nets - Percentage of all women age 15-49 who Slept under an ever treated net last night
+Gross national income per capita (Atlas method)
+Alcohol regional per capita (15+) consumption (in litres of pure alcohol)
+Food Safety
+Compulsory treatment for people with drug use disorders in the criminal justice system
+Majority provider of psycho-social supports for dementia carers (NGO)
+National surveys on heavy espisodic drinking
+Other smoked tobacco packaging and labelling must not use descriptors depicting flavours
+Surveys research
+Inclusion of improved information system as a specific action of the dementia plan
+Retreatment cases: other
+Age-standardized death rates road traffic accidents per 100000
+Total number of surveillance sites reporting to GLASS
+nLx - person-years lived between ages x and x+n
+Monitoring system
+Sponsored events
+13-15-years old any alcoholic beverage consumed in past 30 days (%)
+Population using limited sanitation services (%)
+Number of community health workers
+Total fertility rate (births per woman)
+Existence of operational policy/strategy/action plan to reduce unhealthy diet related to NCDs
+Compliance of ban on advertising on national TV and radio
+Total density per million population: Telecobalt Unit
+Domestic private health expenditure (PVT-D) per capita in PPP int$
+Government unit/official responsible for prevention for substance use
+Liver cirrhosis age-standardized death rates (15+) per 100000 population
+Number of laboratory scientists
+eLearning is used in pre-service education to teach health sciences students
+Regional prevalence AAFs (15+) liver cirrhosis deaths (%)
+Estimated number of people with dementia receiving services at outpatient social centre
+Existence of national speed limits
+Mental health units in general hospitals (per 100000)
+Standards of care for health professionals
+Occupational carcinogens attributable deaths
+Unit in the Ministry of Health responsible for the management of medical devices
+Raised fasting blood glucose (>= 7.0 mmol/L or on medication) (crude estimate)
+Biomedical engineers density (per 10 000 population)
+Age-standardized death rates (15+ years) poisoning per 100000
+Exports of spirits in 1000s hectolitres
+Methadone used for the treatment of opioid dependence
+Second-hand smoke attributable deaths
+Age-standardized death rates (15+ years) violence per 100000
+Mean total cholesterol  crude
+Restrictions on alcohol use in public places
+Enforcing bans on tobacco advertising promotion and sponsorship
+nqx - probability of dying between ages x and x+n
+Buprenorphine used for the treatment of opioid dependence
+Inclusion of support for dementia carers and families as a specific action of the dementia plan
+Proportion of newborns who have postnatal contact with a health provider within 2 days of delivery (%)
+Health warnings on cigarette packaging must be placed at the top of the principal display areas of the package
+Age range of most recent adolescent survey
+Percentage of principal display area mandated to be covered by health warnings - front of other smoked tobacco packaging
+Educational attainment in prevention
+Accessibility of activities of daily living support services in community for dementia [Capital/capital and main cities/capital main cities rural areas]
+Care-seeking by type of patient and source of care (%)
+Government expenditures on mental hospitals as a percentage of total government expenditures on mental health (%)
+Number of insecticide classes to which resistance was reported
+Health warnings on other smoked tobacco packaging must be placed at the top of the principal display areas of the package
+eLearning programmes for in-service training of health professionals have been evaluated
+Identification of different sectors in dementia care coordination (Civil society)
+All-cause inpatient deaths
+Legislation type
+Disability-adjusted life years (DALYs)
+Financing methods for treatment for drug use disorders
+Postnatal care visit within two days of birth - born outside a health facility (in the three years preceding the survey) (%)
+Smokeless tobacco packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors
+Availability of diagnostic services in community for dementia
+Cause
+Domestic private health expenditure (PVT-D) as percentage of current health expenditure (CHE) (%)
+Prevalence of underweight among adults BMI < 18 (age-standardized estimate) (%)
+Occupational airborne particulates attributable DALYs per 100'000 capita
+Existence of any subnational radon activity
+Prevalence of current e-cigarette use among adolescents (%)
+Proportion of donor/non public development funding
+EQA provided for bacterial identification and AST
+Smokeless tobacco packaging and labelling must not display quantitative information on emission yields (such as tar nicotine and carbon monoxide) including when used as part of a brand name or trademark
+Most sold brand of cigarettes - taxes as a % of price - import duties
+Number of cases of yaws reported
+Representativeness of survey of youth - smokeless
+Number of reported deaths from cholera
+Population using limited drinking water services (%)
+Specialist medical practitioners (number)
+Majority provider of psycho-social supports for dementia carers (Public sector)
+Majority provider of behaviour and psychological management in community for dementia [public private]
+Reported number of tests performed where results were received by a person (testing volume) reporting period
+Prevention programmes
+nMx - age-specific death rate between ages x and x+n
+Overall compliance with regulations on smoke-free environments (score)
+Existence of dementia-friendly initiative to improve accessibility of public transportation
+Timeframe for maintenance treatment of opioid dependence
+Legislative provision for compulsory treatment
+Existence of an Operational Unit Branch or Dept. in Ministry of Health with responsibility for NCDs
+Alcohol harmful use (15+) 12 month prevalence (%) with 95%CI
+Recommendations for screening and brief interventions for substance use in primary health care
+Awareness activities
+Age limits on-premise service
+Children with fever - Percentage of children who took drug the same or next day: Combination with artemisinin
+Health care facilities with no hygiene services (%)
+Girls aged 15 years old that received the recommended doses of HPV vaccine (%)
+Facility type
+Comprehensive correct knowledge about AIDS (%)
+Server training on a regular basis
+Out-of-pocket expenditure as percentage of current health expenditure (CHE) (%)
+Tax structure: Uniform excise tax
+Population in areas that warrant treatment with antibiotics facial cleanliness and environmental improvement for elimination of trachoma as a public health problem
+Dementia integrated into other national plan
+Providing oversight and enforcement of data ownership
+Providing guidance on privacy and security
+Existence of a diabetes registry
+Stillbirth rate (per 1000 total births)
+Compliance with smoke-free education facilities except universities law (score)
+Health warning labels on alcohol containers
+Number of registered vehicles
+Community-based interventions/projects involving stakeholders
+Mumps - number of reported cases
+Number of neonatal deaths
+Population pushed below a relative poverty line by household health expenditures (60% of median daily per capita consumption or income) (%)
+Framework of national alcohol policy
+Total population  pushed below the $3.10 a day  poverty line by household  health expenditures (%)
+Inclusion of radon measurements in property transactions
+Availability of routine outpatient visit records for people with dementia for monitoring purposes
+Beds in mental hospitals (per 100000)
+Response
+Production in 1000s hectolitres
+Median consumer price ratio of selected generic medicines - Private
+Domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) (%)
+Care sector
+Domestic general government health expenditure (GGHE-D) per capita in PPP int$
+Population with household spending on health greater than 10% of total household budget (SDG 3.8.2 estimated data) (millions)
+Ambient air pollution attributable DALYs
+Inclusion of basic dementia competencies in training of pharmaceutical personnel
+Promoting the development and adoption of mHealth
+Contraceptive prevalence - modern and traditional methods (%)
+Health professionals mostly involved in treatment of substance use disorders
+Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan (current US$ millions)
+year
+Age-standardized DALYs self-inflicted injury per 100000
+Number of new reported cases of human African trypanosomiasis (T.b. gambiense)
+Specialized treatment services for drug use disoders and HIV/AIDS
+Percentage of individuals using the Internet
+Occupational carcinogens attributable DALYs ('000)
+Age range of most recent survey of adults
+Restrictions on sales promotion from producers (parties events)
+Age-standardized death rates liver cirrhosis per 100000
+Number of neurologists (per 100000)
+Five years change in international cooperation for prevention for substance use
+Adult indicator 1 definition
+Number of national population surveys - child mortality
+Are the health warnings on cigarette packaging rotating?
+Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in reading (%)
+Climate change attributable deaths per 100'000 capita
+Total population  pushed below the $1.90 a day  poverty line by household  health expenditures (millions)
+Treatment success rate: XDR-TB cases
+Accessibility of dementia carer training and education [Capital/capital and main cities/capital main cities rural areas]
+Donor disbursements (Million constant 2009 US$)
+Compliance of ban on promotional discounts
+Demand for family planning satisfied - use of modern methods (%)
+Country has national EHR
+National smoking ban in PUBLIC TRANSPORT
+Counselling
+Number of reported cases of tuberculosis
+EQA provided to local laboratories participating in GLASS
+Cigarette packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas
+Exposed
+Mortality rate attributed to household and ambient air pollution (per 100 000 population)
+Compliance with smoke-free public transport law (score)
+Heavy episodic drinking (youth 15 -19 years) past 30 days (%)
+Average of 13 International Health Regulations core capacity scores
+Outpatient visits (per 100000)
+Age-standardized DALYs diabetes mellitus per 100000
+Alcoholic beverage legally defined
+Estimate of current tobacco use prevalence (%)
+Accepting attitudes (would buy fresh vegetables from shopkeeper living with HIV) (%) [Females]
+Number of diarrhoea deaths from inadequate sanitation
+Incidence of tuberculosis (per 100 000 population per year)
+Type of national cervical cancer screening program
+Plain packaging of cigarettes is mandatory (ie. the use of logos colours brand images or promotional information on packaging other than brand names and product names displayed in a standard colour and font style is prohibited).
+Per capita total expenditure on health (PPP int. $)
+Electric field (V/m)
+Compliance of ban on advertising on billboards and outdoor advertising
+National smoking ban in RESTAURANTS
+Prevention programmes for alcohol
+Women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods (%)
+Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular
+Adult smokeless tobacco use indicator rate
+Accepting attitudes (would buy fresh vegetables from shopkeeper living with HIV) (%) [Males]
+General availability of bone marrow transplantation in the public health system
+Accessibility of psychosocial and rehabilitation services in community for dementia [Capital/capital and main cities/capital main cities rural areas]
+Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths
+Existence of national HPV vaccination programme
+Compliance of ban on smoking in PUBLIC TRANSPORT
+Laboratories providing tuberculosis diagnostic services using culture (per 5 million population)
+Number of reported cases of cholera
+RSUD_PROGRAMMES
+New types of alcoholic beverages emerging
+Civil registration coverage of cause-of-death (%)
+Pertussis - number of reported cases
+Climate change  attributable deaths per 100'000 children under 5 years
+Malaria diagnostic use in children aged <5 years with fever (%)
+Youth indicator 1 rate
+Confidentiality of health records on substance use disorders  protected by law
+Identification of different sectors in dementia care coordination (Employment)
+Total alcohol per capita consumption in adults aged 15+ (litres of pure alcohol)
+Sector for residential long-term rehabilitation of alcohol use disorders
+Are the health warnings on smokeless tobacco packaging written in the principal language(s) of the country?
+Existence of national radon risk communication strategy
+Continuing professional development in prevention
+Self-help groups
+General availability of total cholesterol measurement at the primary health care level
+Procurement of medical devices carried out at the national level
+RSUD_DRUG_PRESCRIPTION
+Buprenorphine/naloxone used for the treatment of opioid dependence
+RSUD_SUBSTANCE_TYPE_DISORDERS
+Number of imported cases of visceral leishmaniasis reported
+Inclusion of dementia risk reduction as a specific action of the dementia plan
+Mean total cholesterol  age-standardized
+Cigarette packaging and labelling must not use figurative or other signs including colors or numbers as substitutes for prohibited misleading terms and descriptors
+Policy or strategy makes specific reference tothe use of social media in the health domain
+Ambient air pollution  attributable DALYs per 100'000 children under 5 years
+General availability of beta blockers in the public health sector
+Zoonosis
+Antiretroviral therapy coverage among people with HIV infection eligible for ART according to 2010 guidelines (%)
+Prompt treatment of children aged <5 years with fever with antimalarial medicines (%)
+Psychiatrists working in mental health sector (per 100000)
+Prevalence of current e-cigarette use among adults (%)
+Most sold brand of cigarettes - price in US$ at official exchange rates
+Alcohol-related road traffic crashes with fatalities per 100000  population
+Sector for inpatient detoxification of drug use disorders
+Compliance of ban on smoking in UNIVERSITIES
+Specialized treatment facilities for drug use disorders
+Cheapest brand of cigarettes - currency reported
+Existence of a formal pre-hospital care system
+National guidelines for implementing effective community-based interventions
+Prevalence of obesity among adults BMI &GreaterEqual; 30 (age-standardized estimate) (%)
+Medical and Pathology Laboratory scientists  (number)
+General availability of bronchodilators in the public health sector
+Prevalence of anaemia in children aged 6\u201359 months (%)
+Existence of a national child-restraint law
+Electric field (kV/m)
+Proportion of isolates with resistance to ciprofloxacin reported to WHO-GASP
+Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis
+Percentage of principal display area mandated to be covered by health warnings - back of cigarette packaging
+RSUD_GOVERNMENT_BENEFITS
+Standards of treatment and care for public specialized treatment facilities
+Alcohol-attributable fractions all-cause deaths (%)
+SUBSTANCE_ABUSE_COORDINATING_ENTITIES
+Campaign was part of a comprehensive tobacco control programme
+Existence of dementia-friendly initiative to improve accessibility of public spaces
+Obesity prevalence in non-pregnant women aged 15-49 years BMI >= 30 (%)
+All-cause outpatient cases
+Relapse cases: extrapulmonary
+Prevalence of anaemia in non-pregnant women (aged 15-49) (%)
+Neonates protected at birth against neonatal tetanus (PAB) (%)
+Subnational smoking bans - authority exists
+Data sources used to routinely monitor people with dementia (Household surveys)
+Existence of national policies on saturated fatty acids / trans-fats
+Age-standardized death rates violence per 100000
+Random breath testing (RBT) use
+Government benefits for people with alcohol use disorders
+Intimate partner violence: Extent of implementation  of dating violence prevention programmes
+Leprosy - Number of new leprosy cases among children (less than 15 years of age)
+Gov. expenditure on malaria (USD)
+Do health warnings appear on each cigarette package and any outside packaging and labelling used in the retail sale?
+Risk Communication
+Clinical guidelines for brief interventions
+Total expenditure on dementia basic research (local currency self-report)
+Comprehensive correct knowledge about AIDS (%) [Females]
+Dementia nongovernmental organization office branches (Local)
+Warning about the dangers of tobacco
+Poverty headcount ratio at $1.25 a day (PPP) (% of population)
+Supervision requirements for methadone administration
+Cigarette packaging and labelling must not display expiry dates
+Care facilities [long-term care]
+UHC Service Coverage sub-index on noncommunicable diseases
+Age-standardized death rates (15+ years) alcoholic liver disease per 100000
+Household Net Possession - Average number of nets per household (Any type of mosquito net )
+Number of national surveillance sites in each country providing data to GLASS: hospital category
+International Statistical Classification of Diseases and Related Health Problems (ICD)
+Treatment for tobacco dependence in hospitals cost covered
+Percentage of population who slept under an insecticide-treated net (%)
+People who report TB is spread through coughing (%) [Males]
+Dementia nongovernmental organization's involvement in policy development
+Dementia nongovernmental organization staff primarily salaried/volunteer
+Goe question
+Implementation level [national/subnational] of dementia care coordination
+Total density per 100 000 population: Health posts
+On-premise sales restrictions on days
+Health care facilities with basic sanitation services (%)
+National smoking ban in GOVERNMENT FACILITIES
+National regulator approval of anti-dementia medication
+Licence required for production
+Mortality rate attributed to unsafe water unsafe sanitation and lack of hygiene (per 100 000 population)
+Density of outpatient health centres (per 100000 population)
+Treatment programmes for children and adolescents with drug use disorders
+Screening and brief interventions for substance use and substance use disorders
+Tuberculosis treatment coverage
+Children aged <5 years sleeping under insecticide-treated net (%)
+Proportion of isolates with decreased susceptibility or resistance (DS/R) to cefixime reported to WHO-GASP
+Programmes diverting clients from the justice system towards treatment
+Alcohol-attributable Years of Life Lost (YLL) score
+Programmes readily available
+Psychoactive substance causing entry into treatment
+Length of stay for inpatient short-term treatment days
+Alcohol total per capita (15+) consumption (in litres of pure alcohol) with 95%CI
+Age-standardized DALYs falls per 100000
+Which allows individuals to demand the deletion of health-related data from their EHR
+Average of 13 International Health Regulations core capacity scores SPAR version
+Total expenditure on health as a percentage of gross domestic product
+Registration of medications for opioid dependence
+Comprehensive correct knowledge about AIDS (%) [Males]
+Law requires helmet to be fastened
+The quit line number must appear on other smoked tobacco packaging or labelling
+Overall compliance with bans on promotion and sponsorship (score)
+Legislative status
+Antenatal care coverage - at least four visits (in the five years preceding the survey) (%)
+Restrictions on sponsorship of youth events
+Treatment programmes for women with alcohol use disorders
+Years of healthy life lost due to disability (YLDs) (per 100 000 population)
+Availability of dementia-friendly initiatives that improve accessibility
+Does the law mandate specific health warnings on other smoked tobacco packaging?
+Population using at least basic sanitation services (%)
+Existence of national screening program for cervical cancer
+Household air pollution attributable death rate (per 100 000 population)
+Accessibility of information on legal rights for dementia carers [Capital/capital and main cities/capital main cities rural areas]
+Years of healthy life lost due to disability (YLDs)
+Availability of  atleast one assistive technology for people with dementia
+Ministry/office that takes primary responsibility for treatment of substance use disorders
+Total density per million population: Radiotherapy units
+Age (2 groups)
+Age-standardized DALYs prematurity and low birth rate per 100000
+Ban on entities other than tobacco companies/the tobacco industry publicizing the CSR activities of the tobacco companies/industry
+Prevalence of daily tobacco smoking among adolescents (%)
+Ambient air pollution attributable YLLs
+Contributions from the Wolrdbank (USD)
+Dental Prosthetic Technicians (number)
+Age-standardized DALYs other unintentional injuries per 100000
+Open access services for substance use disorders
+Regional prevalence AAFs (15+) cancer
+Ambient air pollution  attributable deaths per 100'000 children under 5 years
+Prevalence of current smokeless tobacco use among adults (%)
+Lead attributable deaths per 100'000 capita
+Population using at least basic drinking-water services (%)
+Average - taxes as a % of cigarette price - import duties
+15-years old first drink at 13 years or younger (%)
+Proportion of population with >25% household expenditures on health (%)
+Methadone formulation used for the treatment of opiod dependence
+Gender inequality index rank
+Prevalence of obesity among adults BMI &GreaterEqual; 30 (crude estimate) (%)
+TB mortality (deaths per 100 000 population)
+Mean HDL cholesterol age-standardized
+Congenital Rubella Syndrome - number of reported cases
+Ambient air pollution attributable death rate (per 100 000 population age-standardized)
+Place of residence
+People who would want a family member's TB kept secret (%) [Males]
+How many health warnings are approved by the law for cigarette packaging?
+Tax structure: Excise tax proportion of price
+Advertising restrictions on social media
+Risk communication
+Prevalence of daily cigarette smoking among adolescents (%)
+National smoking ban: FINES FOR VIOLATIONS
+Majority provider of psychosocial and rehabilitation services in community for dementia [public private]
+Compliance with ban on indentifying non-tobacco products with tobacco brand names (score)
+Increase in poverty gap  due to household  health expenditures at the $1.90 a day poverty line in cents of international dollars
+Existence of tax on sugar-sweetened beverages
+National guidelines for the prevention and reduction of alcohol-related harm in schools
+Point prevalence (%) alcohol use disorders 15+ years
+Low birth weight (in thousands)
+Existence of any policies on marketing of foods to children
+Research into new analytical methods needs occur to meet the challenges of working with big data
+Sunbed facility safety requirements
+Life expectancy at age 60 (years)
+Prevalence of hypertension among adults aged 30-79 years age-standardized
+Cellular subscribers (per 100 population)
+Persons with alcohol use disorders receiving treatment (%)
+Rubella - number of reported cases
+Availability of behaviour and psychological management in community for dementia
+Malaria incidence (per 1 000 population at risk)
+Ethanol tax deducted from excise tax
+UHC Service Coverage sub-index on infectious diseases
+Treatment for tobacco dependence in offices of health professionals cost covered
+Life expectancy at birth (years)
+Lack of demand for eLearning programmes
+Number of pharmaceutical personnel
+Licence required for retail sales
+Children aged < 5 years with pneumonia symptoms taken to a health facility (%)
+Accessibility of palliative and end-of-life care services in community for dementia [Capital/capital and main cities/capital main cities rural areas]
+Competing health system priorities
+Existence of a set of time-bound national targets based on WHO guidance
+Data Source
+People who report TB is spread through coughing (%) [Females]
+Underweight prevalence among children under 5 years of age (%)
+Pharmacotherapy used for the management of cannabis withdrawal
+Infant mortality rate (probability of dying between birth and age 1 per 1000 live births)
+Budget line for substance use disorder treatment
+Sector for residential long-term rehabilitation of drug use disorders
+Alcohol unrecorded per capita (15+) consumption (in litres of pure alcohol)
+Alcoholic excise tax revenue as a per cent of government revenue
+TB incidence rate per 100000 population
+Postgraduate training programme in treatment
+Existence of national reference level for buildings with high public occupancy
+Inclusion of dementia training and education for non-health workers
+Medical doctors not further defined (number)
+Ambient air pollution attributable DALYs  in children under 5 years
+General availability of breast cancer screening (by palpation or mammogram) at the primary health care level
+Prevalence of underweight children under 5 years of age   (% weight-for-age <-2 SD) (%)
+Strategy includes objectives as to how telehealth contributes to UHC
+Tax incentives for production of other alcoholic beverages
+Sector for inpatient detoxification of alcohol use disorders
+Number of under-five deaths
+Proportion of population with primary reliance on fuels and technologies for cooking by fuel type (%)
+Lack of capacity
+Programmes for the prevention of substance use disorders for special populations
+Age-standardized DALYs road traffic accidents per 100000
+Population using basic hygiene services (%)
+Percentage of men (15+ years) exposed to second-hand smoke
+New leprosy case detection rate per 1 000 000 population
+Coverage of national cervical cancer screening program (%)
+Number of households sprayed at least once
+Number of cause-of-death registration years available
+Education Level
+Availability of technical specifications of medical devices to support procurement or donations
+Annual tax revenues - value added tax (vat) and other sales taxes
+Density of hospice centres (per 100000 population)
+Estimated MDR-TB cases among notified pulmonary TB cases
+UV radiation attributable deaths
+AMR GLASS Category
+Legislation on alcohol testing at workplaces
+Extent of implementation of medico-legal services for victims of sexual violence
+Definition of drink-driving by BAC
+Proportion of people living with HIV currently receiving ART (15+ years) (%)
+Prevalence of insufficient physical activity among adults aged 18+ years (age-standardized estimate) (%)
+Specialized treatment facilities for substance use disorders
+Most sold brand of cigarettes - taxes as a % of price - ad valorem excise
+Adult day centres
+Current health expenditure (CHE) per capita in PPP int$
+Training requirements
+Prices for alcoholic beverages (average US$)
+Food safety
+Cholera case fatality rate
+New HIV infections (per 1000 uninfected population)
+Representativeness of survey of adults - smokeless
+Penalty Type
+Title of most recent adolescent survey
+Age-standardized death rates falls per 100000
+Does the law mandate font style font size and colour of health warnings on other smoked tobacco packaging?
+Sunbed public information requirements
+Total density per 100 000 population: Hospitals
+Adult indicator 2 definition
+Population with primary reliance on fuels and technologies)for cooking by fuel type (in millions)
+Schools with basic sanitation services (%)
+National survey on substance use among children and adolescents
+Status of endemicity of onchocerciasis
+Brief interventions as health promotion/disease prevention
+Children aged < 5 years with pneumonia symptoms taken to a healthcare provider (%)
+Number of biomedical technicians
+Affordability - percentage of GDP per capita required to purchase 2000 cigarettes of the most sold brand
+Infrastructure
+Alcohol-related disease mortality per 100000 (15+ years)
+Year of latest adult prevalence survey (nonsmoked)
+Existence of legislation for supported decision making for people with dementia
+Pregnant women tested for HIV during antenatal care visit or labour and received results (%)
+Buprenorphine provision in clinical and community-based settings
+Proportion of people living with HIV currently receiving ART (%)
+Most sold brand of cigarettes - taxes as a % of price - specific excise
+Population with primary reliance on clean fuels and technologies for cooking (in millions)
+Household air pollution attributable deaths per 100'000 capita
+Hepatitis B (HepB3) immunization coverage among 1-year-olds (%)
+Human development index rank
+Human Resources
+Implementation level of dementia standards/ guidelines/ protocols (Sub-national)
+Annual incidence of dracunculiasis cases
+Compliance of ban on advertising on local magazines and newspapers
+Density of pharmaceutical personnel (per 10 000 population)
+WHO region
+Government objectives on tobacco control exist
+RSUD_PUBLIC_PRIVATE_SETTINGS
+Existence of dementia-friendly initiative for assistance with home modification
+Health warning labels on pregnancy
+Number of surveillance sites reporting to GLASS: In- and outpatient facilities
+Government support for community action
+Wasting prevalence in children aged < 3 years (%)
+Ban on advertising: Local magazines and newspapers
+To define medical jurisdiction liability or reimbursement of eHealth services such as telehealth
+Main substance at treatment entry
+Tax structure: Retail price used as base of ad valorem component in ad valorem or mixed excise regime (or retail price exclusive of VAT)
+Estimated number of road traffic deaths
+Occupational ergonomic stressors attributable deaths
+People who would want a family member's TB kept secret (%) [Females]
+Name of survey of adults
+Ban on advertising: National TV and radio
+15-19 years old current drinkers (%)
+Concentrations of fine particulate matter (PM2.5)
+Ban on non-tobacco goods AND services identified with tobacco brand names
+Identification of different sectors in dementia care coordination (Education)
+Estimate of current tobacco smoking prevalence (%) (age-standardized rate)
+Public funds designated for alcohol research/monitoring programmes in Euros
+Severe wasted numbers among children under 5 years of age (millions)
+Attributable fraction of diarrhoea to inadequate sanitation
+Density of residential long-term care facilities (per 100000 population)
+Which allows for the sharing of personal and health data between research entities
+Service delivery data collection for substance use
+Age-standardized death rates ischaemic heart disease per 100000
+IPT and Anti-malarial Treatment - Percentage who took 2+ doses SP/Fansidar
+Mobile-cellular telephone subscriptions per 100 inhabitants
+Occupational airborne particulates attributable DALYs ('000)
+Carbamate resistance reported for at least one site
+The quit line number must appear on cigarette packaging or labelling
+Number of cases of cutaneous leishmaniasis reported
+Exports of beer (barley) in 1000s hectolitres
+Prevalence of previous diagnosis of hypertension among adults aged 30-79 with hypertension crude
+Number of diarrhoea DALYs from inadequate hygiene
+Proportion of public funding
+Representation of latest adult prevalence survey (nonsmoked)
+Specific absorption rate (SAR) (W/kg)
+Number of dental technicians/assistants
+Governement benefits for persons with substance use disorders
+National agency for tobacco control exists
+Average price 500 mls Spirits in US$
+Restrictions on product placement in films/movies
+Age-standardized death rates breast cancer per 100000
+Alcohol tourist consumption (in litres of pure alcohol)
+Registration of medications for alcohol dependence and withdrawal
+Reported number of children receiving antiretroviral therapy
+Substance use policy at the national level
+Points of entry
+Non-partner sexual violence prevalence (%)
+Estimated number of malaria deaths
+Year of most recent survey of adults
+Consumer information on alcohol and health at points of sale
+General availability of urine testing for albumin
+Midwifery personnel (number)
+National eHealth strategy
+Radiotherapy units (per 1 000 000 population)
+Mental health plan
+HIV Hepatitis counselling and treatment availability in specialized facilities and services
+Legislative provision for treatment and rehabilitation of substance use disorders
+Births attended by skilled health personnel (%)
+Perceived trend in alcohol-related harm and consequences
+Interventions projects training
+Majority provider of information  on financial benefits/social protection for dementia carers (Public sector)
+Generalist medical practitioners (number)
+Mean fasting plasma glucose for adults 25+ years (age-standardized) (%)
+Majority provider of respite care for dementia carers (Public sector)
+Health technology (medical device) national policy
+How many health warnings are approved by the law for other smoked tobacco packaging?
+Number of children aged 6\u201359 months with anaemia (thousands)
+Residence Area Type
+Number of national population surveys -  adult health
+Prevalence of anaemia in women of reproductive age (aged 15-49) (%)
+Age-standardized DALYs mouth and oropharynx cancer per 100000
+Existence of dementia training for legal professionals
+Children aged <5 years with diarrhoea receiving ORS (%)
+Healthy life expectancy (HALE) at birth (years)
+Age range of latest youth prevalence survey (nonsmoked)
+Estimated road traffic death rate (per 100 000 population)
+Percentage of children under 15 years exposed to second-hand smoke
+Existence of standards/ guidelines/ protocols for other post-diagnostic supports of people with dementia
+New cases: extrapulmonary
+Alcohol recorded per capita (15+) consumption (in litres of pure alcohol) three-year average
+Number of incident tuberculosis cases in children aged 0 - 14
+Raised blood pressure (SBP>=140 OR DBP>=90) (crude estimate)
+Adult survey age range - smokeless
+Compliance with ban on use of brand name of non-tobacco product for tobacco product (score)
+Household air pollution attributable DALYs
+Nursing and midwifery personnel density (per 10 000 population)
+Lead attributable DALYs per 100'000 children under 5 years
+Nomination of National Focal Point (NFP)
+Environmental and Occupational Health Inspectors and Associates  (number)
+Number of new G2D leprosy cases
+Basis for NHA estimate
+Private expenditure on health as a percentage of total expenditure on health
+Overweight prevalence in children aged <five years (%)
+Adult indicator 1 rate
+Outpatient social centres
+Existence of at least one functioning dementia awareness campaign
+Essential list of medicines pharmacotherapy for substance use disorders
+Prevalence of obesity among children and adolescents BMI > +2 standard deviations above the median (crude estimate) (%)
+National System Type
+Nicotine replacement therapy on the Essential Medicines List
+Health care facilities with no water services (%)
+Identification of other research plans in which dementia is integrated (NCD)
+Restrictions on sales promotion from owners of pubs and bars (alcohol for free)
+Do health warnings appear on each other smoked tobacco package and any outside packaging and labelling used in the retail sale?
+Legislation and Financing
+SUBSTANCE_ABUSE_BAC_GROUPS
+Households with at least one insecticide-treated net (ITNs) or indoor residual spraying (IRS)(%)
+Women and girls aged 15-49 years using menstrual materials (%)
+Existence of operational policy/strategy/action plan for oral health
+Prevalence of daily e-cigarette use among adults (%)
+Health warnings on smokeless tobacco packaging must not be obscured in any way including by required markings such as tax stamps
+General availability of sulphonylurea(s) in the public health sector
+Open access interventions for alcohol
+Alcohol dependence (15+ ) 12-month prevalence (%) with 95%CI
+Ban on advertising: Internet
+Pharmaceutical Technicians and Assistants  (number)
+Health warnings on other smoked tobacco packaging must not be obscured in any way including by required markings such as tax stamps
+Nicotine replacement therapy - legally sold
+Length of stay for inpatient long-term residential treatment days
+School type
+Required anti-tobacco ads for any visual entertainment media product that depicts tobacco products use or images
+AIDS-related mortality (deaths per 1000 population)
+Schools with limited water services (%)
+Age-standardized death rates diabetes mellitus per 100000
+Density of environment and public health workers (per 10 000 population)
+Ministry/office that takes primary responsibility for prevention for substance use
+Existence of national radon regulations
+Prevalence of current tobacco use among adults (%)
+Maximum speed limits
+Existence of population-based cancer registry
+Existence of dementia national plan
+Estimated number of people receiving palliative and end-of-life care services in community for dementia
+General availability of ACE inhibitors in the public health sector
+Medical and Pathology Laboratory Technicians  (number)
+Maintenance access restrictions
+Estimated number of children needing antiretroviral therapy based on WHO methods
+Compliance of ban on smoking in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES
+Existence of dementia training for school children
+Other smoked tobacco packaging and labelling must not display expiry dates
+Existence of standards/ guidelines/ protocols of care in hospital for people with dementia
+Heavy episodic drinking (youth 15 -19 years) drinkers only past 30 days (%)
+Restrictions on product placement on national television
+Health warning labels on drink-driving
+Ban on advertising: International TV and radio (broadcast from abroad including satellite)
+National radon concentration levels
+Average price 500 mls Beer in US$
+Alcohol regional prevalence of alcohol dependence (%)
+Estimated number of dementia carers receiving training and education
+Underweight prevalence in children aged < 5 years (%)
+Average - taxes as a % of cigarette price - other taxes
+eLearning courses accredited by continuing medical education or professional licensing bodies
+Inclusion of research and innovation as a specific action of the dementia plan
+Total population pushed below a relative poverty line by household health expenditures (60% of median daily per capita consumption or income) (millions)
+Commitments to recipient countries (Million constant 2009 US$)
+Dementia-specific adult day centre places (per 10000 population)
+Majority provider of palliative and end-of-life care services in community for dementia [public private]
+Improving access to content and experts
+Most sold brand of cigarettes - taxes as a % of price - total tax
+Postnatal care visit within two days of birth - born outside a health facility (in the five years preceding the survey) (%)
+Funding method for substance use disorder prevention
+Number of nursing and midwifery personnel
+Water sanitation and hygiene  attributable DALYs per 100'000 children under 5 years
+Persistence to last grade of primary (% of cohort)
+BCG immunization coverage among one-year-olds (%)
+Second-hand smoke attributable DALYs per 100'000 capita
+System for monitoring alcohol-related harm
+Evaluation of any government-sponsored telehealth programmes
+People with MDR/RR-TB (%)
+Number of investigational pharmaceutical trials for dementia
+Consumption type
+Central coordinating entity for alcohol policy implementation
+Demand for family planning satisfied - modern methods (%)
+Zoonotic Events and the Human-animal Interface
+Second-hand smoke attributable deaths per 100'000 capita
+Household Net Possession - Percentage with more than one (Insecticide treated mosquito nets (ITNs) )
+Percentage of sites for which organophosphate resistance was reported
+Density of outpatient social centres (per 100000 population)
+Tax stamps fiscal marks banderole or other types of marking are applied on cigarettes
+Antenatal care coverage - at least four visits (%)
+Alcohol use disorders (15+) 12 month prevalence (%) age standardized with 95%CI
+Level of taxation adjusted for inflation
+Children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy physical development social-emotional development and learning (%)
+Existence of legislation to end coercieve practices for people with dementia
+Health warnings on smokeless tobacco packaging law requires or establishes fines for violations
+Percentage of principal display area mandated to be covered by health warnings - front and back of other smoked tobacco packaging
+Clinical supervision of health care staff
+Inclusion of basic dementia competencies in training of personal support workers
+Types of AST standards followed by countries
+Youth smokeless tobacco use indicator definition
+Psychologists working in mental health sector (per 100000)
+Climate change  attributable DALYs per 100'000 children under 5 years
+Prevalence of treatment (taking medicine) for hypertension among adults aged 30-79 with hypertension age-standardized
+Existence of community-based health or social care services for dementia
+Lifetime prevalence of child emotional abuse (%)
+Existence of other laws that apply to the rights of people with dementia
+Compliance with smoke-free government facilities law (score)
+Number of environment and public health workers
+Ambient and household air pollution attributable death rate (per 100 000 population age-standardized)
+Voluntary treatment for people with drug use disorders in the criminal justice system
+Buprenorphine/naloxone provision in clinical and community-based settings
+Representativeness of survey of adults
+Authorization/accreditation required for prevention/mitigation service providers
+Treatment
+New cases: pulmonary smear-negative
+Legally-binding controls on lead paint
+Number of diarrhoea deaths from inadequate water
+Status of endemicity of Taenia solium
+Five years change in international cooperation for treatment of substance use disorders
+Percentage of principal display area mandated to be covered by health warnings - back of other smoked tobacco packaging
+Number of medical assistants
+Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in mathematics (%)
+Publication year of the policy or plan (latest revision)
+Number of households targeted for spraying
+Adult indicator 2 rate
+Existence of national radon action plan
+Existence of standards/ guidelines/ protocols for management of dementia
+Ambient air pollution attributable deaths
+Number of prevalent tuberculosis cases
+Commencement of treatment with opioid agonists
+Percentage of the adults (15+ years) with blood lead levels above 10ug/dl
+Adolescent fertility rate (per 1000 women aged 15-19 years)
+Number of meningitis epidemic districts
+Graduated licensing
+Existence of dementia training for retail and hospitality staff
+Deaths due to tuberculosis among HIV-negative people (per 100 000 population)
+Prevalence of previous diagnosis of hypertension among adults aged 30-79 with hypertension age-standardized
+Household air pollution  attributable DALYs per 100'000 children under 5 years
+Medical doctors (per 10000)
+Existence of a national multisectoral commission agency or mechanism for NCDs
+Timeframe of opioid agonist treatment
+Second-hand smoke  attributable DALYs per 100'000 children under 5 years
+Existence of national regulation
+The sale of all smokeless tobacco products is completely banned
+Health management & support workers density (per 1000 population)
+Varenicline - place available
+Nursing personnel (number)
+Disbursements to recipient countries (Million constant 2009 US$)
+Existence of financial benefits/social protection for dementia carers
+Existence of information on legal rights for dementia carers
+Suicide mortality rate (per 100 000 population) [Female]
+Do health warnings on cigarette packaging describe the harmful effects of tobacco use on health?
+Hypothecated taxes to be spent on prevention and treatment for substance use disorders
+Existence of dementia-friendly initiative with assistive technology for loss of capacity
+Smear-positive tuberculosis case-detection rate (%)
+Ban on deceitful terms on cigarette packaging
+Deaths attributable to the environment
+Lack of demand by health professionals and patients
+Varenicline - cost covered
+Most sold brand of cigarettes - currency reported
+Number of women of reproductive age (aged 15-49 years) with anaemia (thousands)
+Health warnings on cigarette packaging law applys to products whether manufactured domestically imported AND for duty-free sale
+15-19 years old heavy episodic drinkers (population) % with 95%CI
+Implementation of diet and/or physical activity public awareness program
+Elder abuse: Extent of implementation  of caregiver-support programmes
+General availability of palliative care in community or home-based care in the public health system
+Population with household spending on health greater than 10% of total household budget (SDG 3.8.2 reported data) (%)
+Priorities
+Inclusion of basic dementia competencies in training of physicians
+Availability of routine pharmaceutical records for people with dementia for monitoring purposes
+Comprehensive correct knowledge about AIDS among young people (%) [Females]
+Compliance with smoke-free indoor offices law (score)
+Percentage of the adults (15+ years) with blood lead levels above 5ug/dl
+Civil registration coverage of births (%)
+Prevalence of hypertension among adults aged 30-79 years crude
+Mandatory preventive measures (new buildings)
+Suicide mortality rate (per 100 000 population) [Male]
+Age-standardized mortality rate by cause (per 100 000 population) - Cancer
+Do the health warnings on smokeless tobacco packaging include a photograph or graphic?
+Prevalence of daily e-cigarette use among adolescents (%)
+Estimated number of people with dementia receiving social and financial protection for dementia
+Health warnings on other smoked tobacco packaging do not remove or diminish the liability of the tobacco industry
+Existence of implementation plan for dementia carer support services
+Recommendations for screening and brief interventions for substance use in antenatal services
+Smokeless tobacco packaging and labelling must not display expiry dates
+Projection of number of deaths
+Overweight prevalence among children under 5 years of age (%)
+Community Action
+Alcohol expenditure as a per cent of total household expenditure
+Compliance of ban on smoking in HEALTH-CARE FACILITIES
+Number of biomedical engineers
+Vehicle standards
+Children with fever - Percentage of children who took drug the same or next day: Chloroquine
+National smoking ban: CITIZEN COMPLAINTS AND INVESTIGATIONS
+Age-standardized death rates alcohol use disorders per 100000
+Availability of funding for national road safety strategy
+Status of endemicity of buruli ulcder
+Banning the publicity of financial or other sponsorship or support by the tobacco industry of events activities individuals
+Year
+Adopted written national policy on alcohol
+Women age 15-49 years who received a health check within 2 days after delivery of their most recent live birth in the last 2 years (%)
+Cheapest brand of cigarettes - price in PPP$
+New or unknown treatment history cases: Pulmonary bacteriologically confirmed
+Tax administration: Tax stamps applied on tobacco products
+Child maltreatment: Extent of implementation of home-visiting programmes
+Postnatal care visit within two days of birth - born outside a health facility (in the x years preceding the survey) (%)
+Off-premise sales restrictions at specific events
+Dementia-specific hospital beds (per 10000 population)
+Prevalence of tobacco use among persons over 15 (%)
+Age-standardized death rates liver cancer per 100000
+Penalties for drink driving
+Health warnings on cigarette packaging must not be obscured in any way including by required markings such as tax stamps
+Percentage of women (15+ years) exposed to second-hand smoke
+Pharmacotherapy with buprenorphine
+Complete ban on tobacco vending machines
+Number of pregnant women (aged 15-49 years) with anaemia (thousands)
+BCG immunization coverage among 1-year-olds (%)
+Schools with basic hygiene services (%)
+Prevalence of daily tobacco use among adults (%)
+Population  pushed below the $1.90 a day  poverty line by household  health expenditures (%)
+To protect privacy of personally identifiable data of individuals irrespective of whether it is paper or digital format
+Number of licensed qualified obstetricians actively working
+Number of pigs in the country
+Per capita government expenditure on health at average exchange rate (US$)
+Estimated number of dementia carers receiving psycho-social supports
+Climate change attributable deaths ('000) in children under 5 years
+Age-standardized death rates other unintentional injuries per 100000
+Effective cataract surgical coverage of adults aged 50 and over (%)
+Number of mixed infections
+Laboratory health workers density (per 1000 population)
+Age-standardized DALYs (per 100000)
+Dentistry personnel density (per 10 000 population)
+Total population  pushed below the $3.10 a day  poverty line by household  health expenditures (millions)
+Points of Entry
+General availability of CC blockers in the public health sector
+Private funding for eHealth
+Community Health Workers (number)
+Number of deaths due to HIV/AIDS
+Availability of national standards or recommended lists of medical devices
+Most sold brand of cigarettes - taxes as a % of price - value added tax
+Organophosphate resistance reported for at least one site
+Status of endemicity of cutaneous leishmaniasis
+Number of nursing personnel
+Proportion of children at the end of primary achieving at least a minimum proficiency level in reading (%)
+Underweight prevalence in children aged < 3 years (%)
+Involvement of representatives of affected or targeted populations in the development and formulation of policies and strategies for prevention for alcohol and drugs
+Low birth weight prevalence (%)
+Children with fever - Percentage of children who took drug: Combination with artemisinin
+Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%
+Restrictions on sponsorship of sporting events
+Age-standardized death rates poisoning per 100000
+Tax incentives for production low/no alcohol content beer
+Data sources used to routinely monitor people with dementia (Other)
+Number of people with dementia involved in research routinely monitored
+Lack of evidence showing cost-effectiveness or EHR
+13-15-years old first drink before age 14 (%)
+European Union (USD)
+Availability of atleast one housing adjustment for people with dementia
+Water sanitation and hygiene attributable DALYs per 100'000 capita
+Number of diarrhoea DALYs from inadequate water
+Mean fasting blood glucose (mmol/l) (crude estimate)
+Age-standardized DALYs violence per 100000
+Demand for family planning satisfied - use of modern and traditional methods (%)
+Treatment for tobacco dependence in other settings cost covered
+Early initiation of breastfeeding (%)
+Sunbed facility staff training requirements
+Women and girls aged 15-49 years having a private place to wash and change during menstruation (%)
+Cigarette packaging and labelling must display qualitative information on relevant constituents and emissions
+Prevalence of treatment (taking medicine) for hypertension among adults aged 30-79 with hypertension crude
+Licensing required for wholesale/distribution of alcoholic beverages
+Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission
+Advertising restrictions on the internet
+Regulating mobile devices and software
+Cautions and arrests for drink-driving per 100000 population
+Youth indicator 1 definition
+National organization for monitoring alcohol
+Drug courts
+Alcohol heavy episodic drinking (15+) drinkers only past 30 days (%)
+Compliance of ban on advertising at point of sale
+Supervision requirements for buprenorphine administration
+Standards of care for professionals providing treatment for alcohol and drug use disorders
+Power frequency (Hz)
+Mental health day treatment facilities (per 100000)
+General availability of coronary bypass or stenting in the public health system
+Alcohol total (recorded 3 year average + unrecorded) per capita (15+) consumption (in litres of pure alcohol) with 95%CI
+ex - expectation of life at age x
+UHC Service Coverage sub-index on service capacity and access
+Children aged <5 years with fever who received treatment with any antimalarial (%)
+Previously treated cases tested for RR-/MDR-TB (%)
+Number of deaths
+Estimate of current tobacco smoking prevalence (%)
+Perceived trend in sales
+SUBSTANCE_ABUSE_SOCIAL_COST_TYPES
+Women and girls aged 15-49 years using reusable menstrual materials (%)
+Population with household spending on health greater than 25% of total household budget (SDG 3.8.2 reported data) (%)
+15-years old any alcoholic beverage consumed in past 30 days (%)
+Age range of latest adult prevalence survey (nonsmoked)
+Age-standardized DALYs fires per 100000
+Preparedness
+Maternal mortality ratio (per 100 000 live births)
+Prevalence of daily cigarette smoking among adults (%)
+Existence of operational policy/strategy/action plan for chronic respiratory diseases
+Name of survey of youth
+UV radiation attributable DALYs ('000)
+Name of survey of youth - smokeless
+Tax structure: Type of excise tax applied
+Health warnings on smokeless tobacco packaging do not remove or diminish the liability of the tobacco industry
+National treatment policy for alcohol use disorders
+Five-year change in government resources for treatment of substance use disorders
+Occupational risk factors attributable DALYs per 100'000 capita
+Lack of legislation or regulations covering use of EHR
+Private prepaid plans as a percentage of private expenditure on health
+Prescription requirements for buprenorphine
+Inclusion of basic dementia competencies in training of nurses
+Do health warnings on other smoked tobacco packaging describe the harmful effects of tobacco use on health?
+Accessibility of respite care for dementia carers [Capital/capital and main cities/capital main cities rural areas]
+Community and traditional health workers density (per 1000 population)
+Power density (W/m^2)
+National  health information system (HIS) policy or strategy
+General government expenditure on health as a percentage of total government expenditure
+Existence of operational policy/strategy/action plan to decrease tobacco use
+Deaths per 100 000 population
+Proportion of countries that have conducted at least one population and housing census in the last 10 years (%)
+Restrictions on product placement on cable television
+Best-practice policy implemented for industrially produced trans-fatty acids (TFA) (Y/N)
+Alcohol-related road traffic crashes (% of all traffic crashes)
+Availability of dementia diagnostic rate
+Proportion of ever-partnered women and girls aged 15-49 years subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months
+Harm reduction programmes for IDUs
+External health expenditure (EXT) per capita in US$
+Prevalence of severely wasted children under 5 years of age   (% weight-for-height <-3 SD)
+Strategy implementation funding available for eHealth
+Traditional and Complementary Medicine Professionals  (number)
+Age Group
+Advertising restrictions at cinemas
+Road User Type
+UHC Service Coverage Index (SDG 3.8.1)
+Prevalence of insufficient physical activity among adults aged 18+ years (crude estimate) (%)
+Report with data from health services on alcohol use and AUDs
+Prevalence of controlled hypertension among adults aged 30-79 years with hypertension age-standardized
+Comprehensive bans in place subnationally
+Law requires fines for violations of indirect advertising bans
+Value-added tax (VAT) on alcohol (%)
+Occupational airborne particulates attributable deaths per 100'000 capita
+Interventions/projects actively involving young people and civil society
+Physiotherapists (number)
+RSUD_OPEN_ACCESS_SERVICES
+Alcohol average daily intake in grams among drinkers with 95%CI
+15-years old any alcoholic beverage consumed in past 12 months (%)
+Prevalence of current cigarette smoking among adolescents (%)
+Availability of estimates on impoverishment due to out-of-pocket health expenditures
+Measles immunization coverage among one-year-olds (%)
+Medical doctors (%)
+Infants exclusively breastfed for the first six months of life (%)
+Handwashing with soap after using the toilet (%)
+Mental health policy
+Archive date
+Malaria - number of reported deaths
+Educational programmes involving target groups in school curriculum
+Varenicline - legally sold
+Human resources / health workforce
+Cooking fuel
+Prevalence of raised blood pressure among persons aged 18+ years (age-standardized) (%)
+Radionuclear
+How many health warnings are approved by the law for smokeless tobacco packaging?
+Number of isolates tested for ciprofloxacin
+Out-of-pocket expenditure as a percentage of total expenditure on health
+Inclusion of radon education for building professionals
+DTP3 immunization coverage among one-year-olds (%)
+Lack of integration between various health services
+Estimated direct deaths from major conflicts (per 100 000 population)
+SUBSTANCE_ABUSE_HARM_AND_CONSEQUENCES
+Earned media/public relations were used to promote the campaign
+Majority provider of information on financial benefits/social protection for dementia carers (Private sector)
+Complete ban on sponsorship
+Total environment  attributable deaths per 100'000 children under 5 years
+Advertising restrictions at point-of-sale
+Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years)
+Action Plan for implementation of alcohol policy
+General availability of metformin in the public health sector
+Most widely used screening method in national cervical cancer screening program
+Occupational ergonomic stressors attributable DALYs ('000)
+UN Region
+Reducing cost of delivering content
+Reported treatment coverage for substance dependence
+General availability of Angiotensin II receptor blockers (ARBs) in the public health sector
+Age-standardized DALYs alcohol use disorders per 100000
+Laboratories providing drug susceptibility testing (DST) (per 5 million population)
+RSUD_DRUG_SUPERVISION
+Population using surface water (%)
+Radon in national drinking-water regulations
+Dementia care facilities [hospitals]
+Cheapest brand of cigarettes - price in currency reported
+Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%)
+Promoting standards and interoperability
+Advertising restrictions on local radio
+Implementation level [national/subnational] of research plan in which dementia is integrated
+General availability of dialysis in the public health system
+Children aged < 5 years with diarrhoea receiving oral rehydration salts (%)
+Accessibility of social and financial protection for dementia [Capital/capital and main cities/capital main cities rural areas]
+Has a STEPS survey or a comprehensive health examination survey every 5 years
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%)
+Alcohol total (recorded + unrecorded) per capita (15+) consumption projected estimates for 2016
+Health warnings on other smoked tobacco packaging law requires or establishes fines for violations
+Estimates of rates of homicides per 100 000 population
+Main sector for treatment for alcohol use disorders
+Institutional Births (birth taken place in a facility) (%)
+Biomedical technicians density (per 10 000 population)
+Households further impoverished by out-of-pocket payments (relative poverty line reflecting basic needs: food housing utilities) (%)
+mHealth programmes are sponsored by government
+Average - taxes as a % of cigarette price - value added tax
+Practice of backyard pig production
+Residential long-term care beds (per 10 000 population)
+Comments
+Standards of care for health professionals maintenance
+Reporting countries
+Testing for HIV and receiving results in the last 12 months among sexually active young people (%) [Females]
+Existence of standards/ guidelines/ protocols of care in nursing & residential care facilities for people with dementia
+Per capita total expenditure on health at average exchange rate (US$)
+Government unit for substance use disorder treatment
+Tax administration: If duty free imports are limited duty free allowance (number of cigarette sticks)
+SUBSTANCE_ABUSE_AWARENESS_ACTIVITY_TYPES
+Existence of dementia training for police and fire services
+Number of licensed qualified surgeons actively working
+Density of adult day centres (per 100000 population)
+Age-standardized DALYs liver cirrhosis per 100000
+Adult survey age range
+Most sold brand of cigarettes - taxes as a % of price - other taxes
+Prevalence of current tobacco smoking among adults (%)
+Funding
+Mean systolic blood pressure (age-standardized estimate)
+National legislation to prevent illegal alcohol sales
+Dementia-specific residential long-term care beds (per 10000 population)
+Lifetime prevalence of child sexual abuse (%)
+Attribution of road traffic deaths to alcohol (%)
+National strategy does not promote the adoption of EHR
+Applicability of seat-belt law to all occupants
+Beverage Types
+National legislation to prevent illegal alcohol
+Families affected by TB facing catastrophic costs due to TB (%)
+Attributable fraction of diarrhoea to inadequate hygiene
+Existence of dementia legislation
+Ban on advertising at point of sale
+15-years old any alcoholic beverage consumed at least once a week (%)
+SUBSTANCE_ABUSE_PUBLIC_PLACES
+Safety requirements
+Registration of medications for opioid withdrawal
+Total density per 100 000 population: District/rural hospitals
+National guidelines policies or recommendations on the procurement of medical devices
+Process evaluation was employed to assess implementation
+Accessibility of diagnostic services in community for dementia [Capital/capital and main cities/capital main cities rural areas]
+Primary data availability for UHC Service Coverage Index (SDG 3.8.1) (%)
+Majority provider of information  on legal rights for dementia carers (Public sector)
+Groups and agencies involved in prevention programs
+Population with household spending on health greater than 10% of total household budget (SDG 3.8.2 estimated data) (%)
+Maternal mortality ratio (per 100 000 live births) - Country reported estimates
+Pharmacotherapy options
+HIV incidence (new infections per 1000 population)
+Lead attributable DALYs ('000)
+Importance of measures for enhancing compliance with age limits
+Provision for care of acute stroke and rehabilitation in more than 50% of public sector health facilities
+Policy documents on the pharmacological treatment of substance use disorders
+Cytisine - place available
+Total environment  attributable DALYs per 100'000 children under 5 years
+Testing for HIV and receiving results (ever) (%) [Males]
+NGOs for drug use disorders
+Existence of standards/ guidelines/ protocols for prevention and risk reduction of dementia
+Confirmed cases of MDR-TB
+National smoking ban in PUBS AND BARS
+Screening and brief intervention for substance use in antenatal services
+Perceived trend in imports
+Length of stay for inpatient detoxification days
+Ban on tobacco companies/the tobacco industry publicizing their CSR activities
+Number of ACT only treatment doses received (public facilities and community)
+National surveys on youth alcohol consumption
+Types of lists recommending health technology for high burden diseases
+Average death rate due to natural disasters (per 100 000 population)
+Climate change attributable DALYs per 100'000 capita
+Health care facilities with no sanitation services (%)
+Designation of alcohol tax revenues to health services
+Treatment for tobacco dependence available in other settings
+Existence of legislation to end discrimination against people with dementia
+Training in screening and brief interventions for alcohol problems
+Beds for the treatment of substance use disorders per 100 000
+Affordability: Specific tax component automatically adjusted for inflation (or other)
+On-premise sales restrictions at specific events
+National system of epidemiological data collection for alcohol use
+Government-supported health internet sites provide information in multiple languages
+Financial support provided for mitigation (existing dwellings)
+country
+Identification of different sectors in dementia care coordination (Justice)
+Reported number of people requiring interventions against NTDs
+Malaria prevalence in children aged <5 years (according to rapid diagnostic testing) (%)
+Estimated percentage of residential long-term care facilities following national dementia standards
+Other smoked tobacco packaging and labelling must display qualitative information on relevant constituents and emissions
+Births attended by skilled health personnel among girls aged 15-19 (%)
+Total density per million population: Computed tomography units
+Physiotherapy Technicians and Assistants  (number)
+People living with HIV on antiretroviral therapy (%)
+Age-standardized death rates cerebrovascular disease per 100000
+Number of new leprosy cases
+Public funding for eHealth
+Percentage of sites for which organochlorine resistance was reported
+Advertising restrictions on national television
+Deaths attributable to the environment in children under 5 years (%)
+Reported number of human rabies deaths
+Identification of other plans in which dementia is integrated (Mental health)
+Inclusion of dementia-friendly communities as a specific action of the dementia plan
+Most recent census (year)
+Compliance with ban on advertising in local magazines and newspapers (score)
+Number of midwifery personnel
+Proportion of ever-partnered women and girls aged 15\u201349 years subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months
+Workplace representatives nationally involved to prevent and address alcohol-related harm
+Total NCD Deaths (in thousands)
+National alcohol policy specifically involves young people activities
+Country has specific legislation governing the use of national EHR system
+Occupational noise attributable DALYs ('000)
+Age-standardized DALYs ischaemic heart disease per 100000
+Age-standardized deaths attributable to the environment (per 100 000 population)
+Alcohol-attributable fractions (15+) liver cirrhosis deaths (%)
+Total density per 100 000 population: Provincial hospitals
+Annual tax revenues - tobacco products included
+Outcome evaluation was employed to assess effectiveness
+Cautions and arrests for public drunkenness per 100000 population
+Representatives
+Postgraduate training programme in prevention
+Health professionals providing treatment for alcohol and drug use disorders
+WHO Income Region
+Antiretroviral therapy coverage among people with advanced HIV infection (%) WHO 2006 guidelines
+Offering help to quit tobacco use
+Other smoked tobacco packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas
+Existence of legislation to promote monitoring of human rights conditions of people with dementia in facilities where they reside
+Cigarette packaging and labelling must not use descriptors depicting flavours
+Supervision requirements for buprenorphine/naloxone administration
+Retreatment cases: treatment after failure (pulmonary smear and/or culture positive)
+Legal requirement for size of health warning labels
+Increase in poverty gap due to household  health expenditures expressed as a proportion of the 3.10 a-day poverty line (%)
+RSUD_DRUGS
+Annual tax revenues - year
+Adolescent birth rate (per 1000 women aged 15-19 years)
+Identification of other plans in which dementia is integrated (Other)
+Prevalence of current cigarette smoking among adults (%)
+Existence of a national road safety strategy
+Proportion of population with >10% household expenditures on health (%)
+Epidemiological data collection system for substance use among children and adolescents
+Name of latest youth prevalence survey (nonsmoked)
+Data on substance use disorders disseminated in national annual reports
+Water sanitation and hygiene  attributable deaths per 100'000 children under 5 years
+Minimum legal drinking age
+Existence of standards/ guidelines/ protocols for palliative and end-of-life care for people with dementia
+Majority provider of information on financial benefits/social protection for dementia carers (NGO)
+Alcohol abstainers lifetime (%)
+Cost-effectiveness
+Adopted written national policy on alcohol year revised
+Availability of investigational pharmaceutical trials for dementia
+Nicotine replacement therapy - cost covered
+Treatment history unknown
+Subnational region
+Alcohol patterns of drinking score
+Age-standardized DALYs breast cancer per 100000
+Existence of operational policy/strategy/action plan for cancer
+Existence of national policies on trans-fatty acid elimination
+Health warnings on smokeless tobacco packaging law applys to products whether manufactured domestically imported AND for duty-free sale
+Pharmacotherapy with buprenorphine/naloxone
+Schools with no hygiene services (%)
+Second-hand smoke attributable DALYs ('000) in children under 5 years
+Number of isolates tested for azithromycin
+Alcohol-attributable fractions (15+) cancer deaths
+Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)
+Representativeness of most recent survey of adults
+Household Net Possession - Percentage with at least one (Ever treated mosquito net )
+Alcohol unrecorded per capita (15+) consumption (in litres of pure alcohol) with 95%CI
+Existence of dementia standards/ guidelines/ protocols
+Number of non-pregnant women (aged 15-49 years) with anaemia (thousands)
+Water sanitation and hygiene attributable deaths per 100'000 capita
+Capacity building required for new skills
+Existence of legislation to file appeals protecting the rights of people with dementia
+Alcohol content displayed on containers
+Age-standardized DALYs oesophagus cancer per 100000
+Are the health warnings on other smoked tobacco packaging rotating?
+Reported number of individuals treated for onchocerciasis
+Women accessing antenatal care (ANC) services who were tested for syphilis (%)
+Estimate of current tobacco use prevalence (%) (age-standardized rate)
+Standard drink measures in grams per unit
+Proportion of women aged 20-24 years who were married or in a union by age 15 (%)
+Anti-tobacco mass media campaigns
+Bupropion - cost covered
+Provision of governmental funding to dementia nongovernmental organization for activities/services
+Contraceptive prevalence - modern methods (%)
+Special housing services for alcohol use disorders
+Percentage of principal display area mandated to be covered by health warnings - front of smokeless tobacco packaging
+Compliance of ban on appearance of tobacco brands in TV and/or films (product placement)
+Adopted written national policy on alcohol year adopted
+Tax administration: Bans or limits on duty free imports by travellers
+Estimated number of people with dementia living in residential long-term care
+Raised blood pressure (SBP>=140 OR DBP>=90) (age-standardized estimate)
+General availability of statins in the public health sector
+Number of radiographers
+Tax stamps fiscal marks banderole or other types of marking are applied on other tobacco products
+Reported number of tests performed where results were received by a person (testing volume)
+TB prevalence (cases per 100 000 population)
+Testing for HIV and receiving results in the last 12 months among sexually active young people (%)
+Youth survey age range
+Ban on advertising: Billboards and outdoor advertising
+Environmental and Occupational Health and Hygiene Professionals  (number)
+Stand-alone mental health legislation
+Existence of standards
+Lack of funding
+General availability of palliative care in primary health care in the public health system
+Affordability \u2013 category of change 2010-2020 (Yes (less affordable) No (more affordable) No change).
+Number of national population surveys -  HIV prevalence
+General availability of cervical cytology at the primary health care level
+Existence of standards/ guidelines/ protocols for treatment and support of carers and families of people with dementia
+Number of traditional birth attendants
+Age-standardized DALYs drownings per 100000
+EQA provided to the national reference laboratory (NRL)
+Adolescent mortality rate (per 100 000 population)
+Pharmaceutical personnel density (per 1000 population)
+Policy
+Proportion of children at the end of primary achieving at least a minimum proficiency level in mathematics (%)
+Availability of funding for dementia national plan
+Premium brand of cigarettes - price in currency reported
+GLASS pathogens testing covered by EQA
+Estimate of current cigarette smoking prevalence (%)
+National guidelines for alcohol problem prevention and counselling at workplaces
+Advertising restrictions on national radio
+Requirement to present prescribed anti-tobacco ads before during or after the broadcasting or showing of any visual entertainment media product that depicts tobacco products use or images
+Essential list of medicines
+Regular reports from national monitoring systems
+Medical doctors (number)
+Demand
+Wasted prevalence among children under 5 years of age (%)
+Second-hand smoke attributable DALYs ('000)
+National smoking ban: DEDICATED FUNDS FOR ENFORCEMENT
+Methadone provision in clinical and community-based settings
+Household air pollution  attributable deaths per 100'000 children under 5 years
+Polio (Pol3) immunization coverage among 1-year-olds (%)
+Second-hand smoke attributable deaths ('000) in children under 5 years
+Prevalence of HIV among adults aged 15 to 49 (%)
+Existence of national radon action plan - Years covered
+Cancer age-standardized death rates (15+) per 100000 population
+Consumer information about calories additives etc on containers
+Status of yaws endemicity
+Percentage of sites for which carbamate resistance was reported
+Nursing and midwifery personnel density (per 1000 population)
+Access restrictions to maintenance treatment
+Lead attributable DALYs ('000) in children under 5 years
+Compliance with international health regulations
+Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%)
+Total expenditure on dementia clinical/translational research (local currency self-report)
+Mental hospital admissions (per 100000)
+Identification of other research plans in which dementia is integrated (Neuro or neurodegenerative disease)
+Are the health warnings on smokeless tobacco packaging rotating?
+Household air pollution attributable death rate (per 100 000 population age-standardized)
+Tested TB patients HIV-positive (%)
+Children aged < 5 years sleeping under insecticide-treated nets (%)
+Radon concentration measurements for new buildings
+Beds in community residential facilities (per 100000)
+Household Net Possession - Percentage with more than one (Any type of mosquito net )
+Estimated number of people eligible for antiretroviral therapy according to 2010 guidelines
+Prevalence of daily tobacco smoking among adults (%)
+Household air pollution attributable DALYs in children under 5 years
+Economic status (wealth decile)
+Chemical Events
+Epidemiological data collection for substance use
+Skilled health professionals density (per 10 000 population)
+Proportion of population with primary reliance on polluting fuels and technologies for cooking (%)
+Existence of dementia training for first responders
+Abstainers (15-19 years) lifetime (%)
+UV radiation attributable deaths per 100'000 capita
+Neonatal mortality rate (deaths per 1000 live births)
+Total density per million population: Gamma camera or Nuclear medicine
+ICT Development Index (IDI)
+Data sources used to routinely monitor people with dementia (Administrative data)
+Monopoly on exports of alcoholic beverages
+Not possible to gain a health sciences degree entirely through eLearning
+Percentage of the children under 15 years with blood lead levels above 10ug/dl
+Ban on free distribution of tobacco products in the mail or through other means
+System of monitoring drugs involvement in forensic pathology
+General availability of renal replacement by transplantation in the public health system
+NGOs for alcohol use disorders
+Annual tax revenues - total excise (specific and ad valorem)
+Treatment for tobacco dependence available in the community
+Abstainers (15-19 years) past 12 months (%)
+Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
+Overall compliance with bans on direct advertising (score)
+Youth indicator 2 definition
+Current health expenditure (CHE) per capita in US$
+Tuberculosis effective treatment coverage (%)
+Number of new leprosy cases with G2D among children (less than 15 years of age)
+Ambient air pollution attributable deaths in children under 5 years

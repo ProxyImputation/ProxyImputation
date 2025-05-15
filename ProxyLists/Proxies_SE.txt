@@ -1,0 +1,1060 @@
+Age-standardized DALYs falls per 100000,DALYs attributable to ambient air pollution (age-standardized),0.5988
+Age-standardized DALYs falls per 100000,Age-standardized DALYs breast cancer per 100000,0.5968
+Age-standardized DALYs falls per 100000,Age-standardized suicide rates (per 100 000 population),0.5903
+Age-standardized DALYs falls per 100000,Total environment  attributable DALYs per 100'000 children under 5 years,0.5896
+Age-standardized DALYs falls per 100000,Lead attributable DALYs ('000),0.5871
+Age-standardized DALYs falls per 100000,Years of life lost from mortality (YLLs),0.5865
+Age-standardized DALYs falls per 100000,Age-standardized DALYs alcohol use disorders per 100000,0.5847
+Age-standardized DALYs falls per 100000,Disability-adjusted life years (DALYs) attributable to the environment (%),0.5818
+Age-standardized DALYs falls per 100000,Age-standardized death rates prematurity and low birth rate per 100000,0.5812
+Age-standardized DALYs falls per 100000,Age-standardized NCD mortality rate  (per 100 000 population),0.5771
+Age-standardized DALYs falls per 100000,Age-standardized death rates road traffic accidents per 100000,0.5762
+Age-standardized DALYs falls per 100000,Age-standardized mortality rate by cause (per 100 000 population) - Cancer,0.5707
+Age-standardized DALYs falls per 100000,Age-standardized death rates violence per 100000,0.5700
+Age-standardized DALYs falls per 100000,Age-standardized death rates fires per 100000,0.5659
+Age-standardized DALYs falls per 100000,Age-standardized death rates (15+ years) violence per 100000,0.5637
+Age-standardized DALYs falls per 100000,Age-standardized death rates other unintentional injuries per 100000,0.5630
+Age-standardized DALYs falls per 100000,Age-standardized death rates ischaemic heart disease per 100000,0.5630
+Age-standardized DALYs falls per 100000,Age-standardized DALYs liver cirrhosis per 100000,0.5616
+Age-standardized DALYs falls per 100000,Age-standardized death rates diabetes mellitus per 100000,0.5582
+Age-standardized DALYs falls per 100000,Total environment attributable DALYs ('000) in children under 5 years,0.5582
+Age-standardized DALYs falls per 100000,Occupational risk factors attributable DALYs per 100'000 capita,0.5576
+Age-standardized DALYs falls per 100000,Climate change attributable DALYs per 100'000 capita,0.5567
+Age-standardized DALYs falls per 100000,Road traffic crash deaths age-standardized death rates (15+) per 100000 population,0.5558
+Age-standardized DALYs falls per 100000,Under-five mortality rate (deaths per 1000 live births),0.5518
+Age-standardized DALYs falls per 100000,Age-standardized DALYs alcohol and drug use disorders per 100 000,0.5514
+Age-standardized DALYs falls per 100000,DALYs attributable to the environment in children under 5 years (%),0.5499
+Age-standardized DALYs falls per 100000,Ambient air pollution attributable DALYs  (per 100 000 population age-standardized),0.5498
+Age-standardized DALYs falls per 100000,Occupational risk factors attributable DALYs ('000),0.5474
+Age-standardized DALYs falls per 100000,Climate change  attributable DALYs per 100'000 children under 5 years,0.5455
+Age-standardized DALYs falls per 100000,Age-standardized death rates drownings per 100000,0.5453
+Age-standardized DALYs falls per 100000,Disability-adjusted life years (DALYs) attributable to the environment,0.5443
+Age-standardized DALYs falls per 100000,Age-standardized DALYs liver cancer per 100000,0.5418
+Age-standardized DALYs falls per 100000,Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),0.5396
+Age-standardized DALYs falls per 100000,Age-standardized death rates cerebrovascular disease per 100000,0.5293
+Age-standardized DALYs falls per 100000,Age-standardized death rates poisoning per 100000,0.5287
+Age-standardized DALYs falls per 100000,Lead attributable DALYs per 100'000 children under 5 years,0.5280
+Age-standardized DALYs falls per 100000,Age-standardized deaths attributable to the environment (per 100 000 population),0.5270
+Age-standardized DALYs falls per 100000,Household air pollution attributable DALYs (per 100 000 age-standardized),0.5246
+Age-standardized DALYs falls per 100000,Distribution of years of life lost by broader causes (%) - Injuries,0.5169
+Age-standardized DALYs falls per 100000,Adolescent mortality rate (per 100 000 population),0.5146
+Age-standardized DALYs falls per 100000,Distribution of years of life lost by major cause group,0.5145
+Age-standardized DALYs falls per 100000,Age range of latest adult prevalence survey (nonsmoked),0.5135
+Age-standardized DALYs falls per 100000,Age-standardized death rates alcohol use disorders per 100000,0.5129
+Age-standardized DALYs falls per 100000,Cancer age-standardized death rates (15+) per 100000 population,0.5128
+Age-standardized DALYs falls per 100000,Years of healthy life lost due to disability (YLDs),0.5113
+Age-standardized DALYs falls per 100000,Representation of latest adult prevalence survey (nonsmoked),0.5108
+Age-standardized DALYs falls per 100000,Lead attributable DALYs ('000) in children under 5 years,0.5078
+Age-standardized DALYs falls per 100000,Total dementia hospital admissions (per 100000),0.5076
+Age-standardized DALYs falls per 100000,nMx - age-specific death rate between ages x and x+n,0.5066
+Age-standardized DALYs falls per 100000,Age-standardized death rates breast cancer per 100000,0.5064
+Age-standardized DALYs falls per 100000,Mean Non-HDL cholesterol age-standardized,0.5048
+Age-standardized DALYs falls per 100000,Mean HDL cholesterol age-standardized,0.5046
+Age-standardized DALYs falls per 100000,Ambient air pollution attributable DALYs  (per 100 000 population),0.5040
+Age-standardized DALYs falls per 100000,Alcohol-attributable Years of Life Lost (YLL) score,0.5015
+Age-standardized DALYs falls per 100000,Age-standardized death rates alcohol and drug use disorders per 100 000,0.5011
+Age-standardized DALYs falls per 100000,Number of geriatricians or psychogeriatricians (per 100000),0.4977
+Age-standardized DALYs falls per 100000,Youth indicator 1 rate,0.4973
+Age-standardized DALYs falls per 100000,Infant mortality rate (deaths per 1000 live births),0.4971
+Age-standardized DALYs falls per 100000,Density of residential long-term care facilities (per 100000 population),0.4965
+Age-standardized DALYs falls per 100000,Age-standardized death rates (15+ years) poisoning per 100000,0.4952
+Age-standardized DALYs falls per 100000,Crude suicide rates (per 100 000 population),0.4947
+Age-standardized DALYs falls per 100000,Under-five mortality rate (probability of dying by age 5 per 1000 live births),0.4945
+Age-standardized DALYs falls per 100000,Occupational injuries attributable DALYs per 100'000 capita,0.4943
+Age-standardized DALYs falls per 100000,Mortality rate among children ages 10 to 14 years (per 1000 children aged 10),0.4932
+Age-standardized DALYs falls per 100000,Climate change attributable DALYs ('000),0.4930
+Age-standardized DALYs falls per 100000,Youth indicator 2 rate,0.4923
+Age-standardized DALYs falls per 100000,lx - number of people left alive at age x,0.4911
+Age-standardized DALYs falls per 100000,Climate change attributable DALYs ('000) in children under 5 years,0.4910
+Age-standardized DALYs falls per 100000,Age-standardized death rates self-inflicted injury per 100000,0.4907
+Age-standardized DALYs falls per 100000,ndx - number of people dying between ages x and x+n,0.4906
+Age-standardized DALYs falls per 100000,Mean total cholesterol  age-standardized,0.4902
+Age-standardized DALYs falls per 100000,Total density per 100 000 population: Health posts,0.4876
+Age-standardized DALYs falls per 100000,Prevalence to notification ratio (years),0.4863
+Age-standardized DALYs falls per 100000,Adult indicator 1 rate,0.4853
+Age-standardized DALYs falls per 100000,Household air pollution attributable DALYs (per 100 000 population),0.4815
+Age-standardized DALYs falls per 100000,Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years),0.4789
+Age-standardized DALYs falls per 100000,Alcohol use disorders (15+) 12 month prevalence (%) age standardized with 95%CI,0.4788
+Age-standardized DALYs falls per 100000,Occupational injuries attributable DALYs ('000),0.4760
+Age-standardized DALYs falls per 100000,Mortality rate among children ages 5 to 9 years (per 1000 children aged 5),0.4748
+Age-standardized DALYs falls per 100000,Age range of most recent survey of adults,0.4742
+Age-standardized DALYs falls per 100000,Age-standardized death rates liver cancer per 100000,0.4740
+Age-standardized DALYs falls per 100000,Neonatal mortality rate (deaths per 1000 live births),0.4698
+Age-standardized DALYs falls per 100000,Representativeness of most recent survey of adults,0.4689
+Age-standardized DALYs falls per 100000,Neonatal mortality rate (per 1000 live births),0.4672
+Age-standardized DALYs falls per 100000,Mean fasting blood glucose (mmol/l) (age-standardized estimate),0.4663
+Age-standardized DALYs falls per 100000,Residential long-term care beds (per 10 000 population),0.4660
+Age-standardized DALYs falls per 100000,Treatment admissions (inpatient) alcohol dependence per 100000,0.4659
+Age-standardized DALYs falls per 100000,Age-standardized DALYs oesophagus cancer per 100000,0.4649
+Age-standardized DALYs falls per 100000,Second-hand smoke attributable DALYs per 100'000 capita,0.4646
+Age-standardized DALYs falls per 100000,Healthy life expectancy (HALE) at birth (years),0.4626
+Age-standardized DALYs falls per 100000,Total density per 100 000 population: Provincial hospitals,0.4621
+Age-standardized DALYs falls per 100000,Age-standardized DALYs colon and rectum cancers per 100000,0.4612
+Age-standardized DALYs falls per 100000,Ambient air pollution attributable death rate (per 100 000 population age-standardized),0.4606
+Age-standardized DALYs falls per 100000,Age range of latest youth prevalence survey (nonsmoked),0.4603
+Age-standardized DALYs falls per 100000,Adult indicator 2 rate,0.4599
+Age-standardized DALYs falls per 100000,Household air pollution attributable death rate (per 100 000 population age-standardized),0.4595
+Age-standardized DALYs falls per 100000,Infant mortality rate (probability of dying between birth and age 1 per 1000 live births),0.4589
+Age-standardized DALYs falls per 100000,Deaths per 1 000 live births,0.4585
+Age-standardized DALYs falls per 100000,Age-standardized death rates liver cirrhosis per 100000,0.4560
+Age-standardized DALYs falls per 100000,Projection of deaths per 100 000 population,0.4548
+Age-standardized NCD mortality rate  (per 100 000 population),Mortality rate among children ages 5 to 9 years (per 1000 children aged 5),0.6000
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates liver cancer per 100000,0.5995
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates liver cirrhosis per 100000,0.5984
+Age-standardized NCD mortality rate  (per 100 000 population),Road traffic crash deaths age-standardized death rates (15+) per 100000 population,0.5976
+Age-standardized NCD mortality rate  (per 100 000 population),Ambient air pollution attributable death rate (per 100 000 population age-standardized),0.5972
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates poisoning per 100000,0.5947
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized suicide rates (per 100 000 population),0.5945
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates prematurity and low birth rate per 100000,0.5918
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates violence per 100000,0.5865
+Age-standardized NCD mortality rate  (per 100 000 population),Disability-adjusted life years (DALYs) (per 100 000 population),0.5852
+Age-standardized NCD mortality rate  (per 100 000 population),Number of national population surveys - child mortality,0.5840
+Age-standardized NCD mortality rate  (per 100 000 population),Estimated road traffic death rate (per 100 000 population),0.5820
+Age-standardized NCD mortality rate  (per 100 000 population),Liver cirrhosis age-standardized death rates (15+) per 100000 population,0.5819
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates drownings per 100000,0.5778
+Age-standardized NCD mortality rate  (per 100 000 population),Crude suicide rates (per 100 000 population),0.5775
+Age-standardized NCD mortality rate  (per 100 000 population),Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years),0.5773
+Age-standardized NCD mortality rate  (per 100 000 population),Deaths per 100 000 population,0.5773
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates alcohol and drug use disorders per 100 000,0.5771
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized DALYs falls per 100000,0.5771
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates (15+ years) violence per 100000,0.5747
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates (15+ years) poisoning per 100000,0.5729
+Age-standardized NCD mortality rate  (per 100 000 population),Existence of an NCD surveillance and monitoring system in place to enable reporting against the nine global NCD targets,0.5688
+Age-standardized NCD mortality rate  (per 100 000 population),Household air pollution attributable death rate (per 100 000 population age-standardized),0.5685
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates breast cancer per 100000,0.5650
+Age-standardized NCD mortality rate  (per 100 000 population),Under-five mortality rate (probability of dying by age 5 per 1000 live births),0.5635
+Age-standardized NCD mortality rate  (per 100 000 population),Suicide mortality rate (per 100 000 population),0.5626
+Age-standardized NCD mortality rate  (per 100 000 population),Ambient and household air pollution attributable death rate (per 100 000 population age-standardized),0.5611
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized DALYs ischaemic heart disease per 100000,0.5609
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized DALYs drownings per 100000,0.5606
+Age-standardized NCD mortality rate  (per 100 000 population),Ambient air pollution attributable death rate (per 100 000 population),0.5582
+Age-standardized NCD mortality rate  (per 100 000 population),Projection of deaths per 100 000 population,0.5575
+Age-standardized NCD mortality rate  (per 100 000 population),Average death rate due to natural disasters (per 100 000 population),0.5572
+Age-standardized NCD mortality rate  (per 100 000 population),Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease cancer diabetes or chronic respiratory disease,0.5563
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates alcohol use disorders per 100000,0.5556
+Age-standardized NCD mortality rate  (per 100 000 population),Mortality rate attributed to CV disease cancer diabetes or CR disease (%),0.5555
+Age-standardized NCD mortality rate  (per 100 000 population),Deaths per 1 000 live births,0.5544
+Age-standardized NCD mortality rate  (per 100 000 population),Representation of latest adult prevalence survey (nonsmoked),0.5518
+Age-standardized NCD mortality rate  (per 100 000 population),AIDS-related mortality (deaths per 1000 population),0.5514
+Age-standardized NCD mortality rate  (per 100 000 population),Suicide mortality rate (per 100 000 population) [Male],0.5504
+Age-standardized NCD mortality rate  (per 100 000 population),Number of deaths,0.5482
+Age-standardized NCD mortality rate  (per 100 000 population),Maternal mortality ratio (per 100 000 live births),0.5479
+Age-standardized NCD mortality rate  (per 100 000 population),Number of deaths attributed to non-communicable diseases by type of disease and sex,0.5452
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized DALYs fires per 100000,0.5450
+Age-standardized NCD mortality rate  (per 100 000 population),Ambient air pollution attributable deaths (per 100 000 population age-standardized),0.5445
+Age-standardized NCD mortality rate  (per 100 000 population),Mortality rate attributed to unintentional poisoning (per 100 000 population),0.5424
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized death rates (15+ years) alcoholic liver disease per 100000,0.5401
+Age-standardized NCD mortality rate  (per 100 000 population),Years of healthy life lost due to disability (YLDs) (per 100 000 population),0.5398
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized DALYs diabetes mellitus per 100000,0.5397
+Age-standardized NCD mortality rate  (per 100 000 population),Mortality rate attributed to household and ambient air pollution (per 100 000 population),0.5392
+Age-standardized NCD mortality rate  (per 100 000 population),International Statistical Classification of Diseases and Related Health Problems (ICD),0.5384
+Age-standardized NCD mortality rate  (per 100 000 population),Age-standardized DALYs poisoning per 100000,0.5383
+Age-standardized death rates violence per 100000,Age-standardized death rates alcohol and drug use disorders per 100 000,0.5978
+Age-standardized death rates violence per 100000,Years of life lost from mortality (YLLs) (per 100 000 population),0.5972
+Age-standardized death rates violence per 100000,Estimated road traffic death rate (per 100 000 population),0.5968
+Age-standardized death rates violence per 100000,Age-standardized death rates prematurity and low birth rate per 100000,0.5930
+Age-standardized death rates violence per 100000,Projection of deaths per 100 000 population,0.5928
+Age-standardized death rates violence per 100000,Mortality rate attributed to unintentional poisoning (per 100 000 population),0.5869
+Age-standardized death rates violence per 100000,Age-standardized NCD mortality rate  (per 100 000 population),0.5865
+Age-standardized death rates violence per 100000,Mortality rate among children ages 10 to 14 years (per 1000 children aged 10),0.5836
+Age-standardized death rates violence per 100000,Age-standardized death rates alcohol use disorders per 100000,0.5812
+Age-standardized death rates violence per 100000,Proportion of ever-partnered women and girls aged 15\u201349 years subjected to physical and/or sexual violence by a current or former intimate partner in their lifetime,0.5810
+Age-standardized death rates violence per 100000,Lifetime prevalence of child physical abuse (%),0.5802
+Age-standardized death rates violence per 100000,Suicide mortality rate (per 100 000 population) [Male],0.5799
+Age-standardized death rates violence per 100000,Number of under-five deaths,0.5788
+Age-standardized death rates violence per 100000,Age-standardized DALYs fires per 100000,0.5755
+Age-standardized death rates violence per 100000,Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),0.5742
+Age-standardized death rates violence per 100000,Age-standardized death rates ischaemic heart disease per 100000,0.5710
+Age-standardized death rates violence per 100000,Age-standardized DALYs falls per 100000,0.5700
+Age-standardized death rates violence per 100000,Deaths per 1 000 live births,0.5689
+Age-standardized death rates violence per 100000,Number of deaths among children ages 10 to 14 years,0.5682
+Age-standardized death rates violence per 100000,Age-standardized DALYs poisoning per 100000,0.5665
+Age-standardized death rates violence per 100000,Mortality rate among children ages 5 to 9 years (per 1000 children aged 5),0.5615
+Age-standardized death rates violence per 100000,Proportion of ever-partnered women and girls aged 15\u201349 years subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months,0.5614
+Age-standardized death rates violence per 100000,Non-partner sexual violence prevalence (%),0.5610
+Age-standardized death rates violence per 100000,Age-standardized death rates diabetes mellitus per 100000,0.5602
+Age-standardized death rates violence per 100000,Age-standardized DALYs drownings per 100000,0.5601
+Age-standardized death rates violence per 100000,Age-standardized DALYs (per 100000),0.5595
+Age-standardized death rates violence per 100000,Number of deaths among children ages 5 to 9 years,0.5588
+Age-standardized death rates violence per 100000,Total NCD Deaths (in thousands),0.5574
+Age-standardized death rates violence per 100000,Age-standardized DALYs other unintentional injuries per 100000,0.5553
+Age-standardized death rates violence per 100000,Neonatal mortality rate (deaths per 1000 live births),0.5529
+Age-standardized death rates violence per 100000,Projection of number of deaths,0.5527
+Age-standardized death rates violence per 100000,Youth violence: Extent of implementation of life-skills and social development programmes,0.5468
+Age-standardized death rates violence per 100000,AIDS-related mortality (deaths per 1000 population),0.5462
+Age-standardized death rates violence per 100000,Cancer age-standardized death rates (15+) per 100000 population,0.5447
+Age-standardized death rates violence per 100000,Average death rate due to natural disasters (per 100 000 population),0.5424
+Age-standardized death rates violence per 100000,Suicide mortality rate (per 100 000 population) [Female],0.5417
+Age-standardized death rates violence per 100000,Distribution of road traffic deaths by type of road user (%),0.5416
+Age-standardized death rates violence per 100000,Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years),0.5371
+Age-standardized death rates violence per 100000,Neonatal mortality rate (per 1000 live births),0.5369
+Age-standardized death rates violence per 100000,Deaths due to HIV/AIDS (per 100 000 population),0.5365
+Age-standardized death rates violence per 100000,Ambient air pollution attributable death rate (per 100 000 population age-standardized),0.5354
+Age-standardized death rates violence per 100000,ndx - number of people dying between ages x and x+n,0.5330
+Age-standardized death rates violence per 100000,TB mortality (deaths per 100 000 population),0.5327
+Age-standardized death rates violence per 100000,Age-standardized death rates breast cancer per 100000,0.5314
+Age-standardized death rates violence per 100000,Proportion of ever-partnered women and girls aged 15-49 years subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months,0.5311
+Age-standardized death rates violence per 100000,Deaths attributable to the environment (%),0.5305
+Age-standardized death rates violence per 100000,Lifetime prevalence of child sexual abuse (%),0.5231
+Age-standardized death rates violence per 100000,Distribution of years of life lost by broader causes (%) - Injuries,0.5230
+Age-standardized death rates violence per 100000,Under-five mortality rate (probability of dying by age 5 per 1000 live births),0.5212
+Age-standardized death rates violence per 100000,Age-standardized death rates liver cirrhosis per 100000,0.5195
+Age-standardized death rates violence per 100000,Household air pollution attributable death rate (per 100 000 population age-standardized),0.5195
+Births attended by skilled health personnel (%),Community and traditional health workers density (per 1000 population),0.5999
+Births attended by skilled health personnel (%),Antenatal care coverage - at least one visit among girls aged 15-19 (%),0.5995
+Births attended by skilled health personnel (%),Number of licensed qualified obstetricians actively working,0.5985
+Births attended by skilled health personnel (%),Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%,0.5928
+Births attended by skilled health personnel (%),Women age 15-49 years who received a health check within 2 days after delivery of their most recent live birth in the last 2 years (%),0.5917
+Births attended by skilled health personnel (%),Antenatal care coverage - at least four visits (%),0.5891
+Births attended by skilled health personnel (%),Nursing and midwifery personnel (per 10000),0.5881
+Births attended by skilled health personnel (%),Stillbirth rate (per 1000 total births),0.5876
+Births attended by skilled health personnel (%),Antenatal care coverage - at least four visits (in the two or three years preceding the survey) (%),0.5865
+Births attended by skilled health personnel (%),Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%),0.5862
+Births attended by skilled health personnel (%),Health management & support workers density (per 1000 population),0.5808
+Births attended by skilled health personnel (%),Preterm birth rate (per 100 live births),0.5789
+Births attended by skilled health personnel (%),Number of midwifery personnel,0.5784
+Births attended by skilled health personnel (%),Density of environment and public health workers (per 10 000 population),0.5777
+Births attended by skilled health personnel (%),Antenatal care coverage - at least one visit (%),0.5775
+Births attended by skilled health personnel (%),Community health workers density (per 10 000 population),0.5729
+Births attended by skilled health personnel (%),Neonatal mortality rate (per 1000 live births),0.5720
+Births attended by skilled health personnel (%),UHC Service Coverage sub-index on reproductive maternal newborn and child health,0.5706
+Births attended by skilled health personnel (%),Neonatal mortality rate (deaths per 1000 live births),0.5629
+Births attended by skilled health personnel (%),Laboratory health workers density (per 1000 population),0.5611
+Births attended by skilled health personnel (%),Hospital beds (per 10 000 population),0.5586
+Births attended by skilled health personnel (%),Age-standardized death rates prematurity and low birth rate per 100000,0.5579
+Births attended by skilled health personnel (%),Infant mortality rate (deaths per 1000 live births),0.5567
+Births attended by skilled health personnel (%),Age-standardized DALYs prematurity and low birth rate per 100000,0.5548
+Births attended by skilled health personnel (%),Physicians density (per 1000 population),0.5536
+Births attended by skilled health personnel (%),Number of community and traditional health workers,0.5512
+Births attended by skilled health personnel (%),Midwifery personnel (number),0.5491
+Births attended by skilled health personnel (%),Deaths per 1 000 live births,0.5461
+Births attended by skilled health personnel (%),Maternal mortality ratio (per 100 000 live births),0.5458
+Births attended by skilled health personnel (%),Density of outpatient health centres (per 100000 population),0.5455
+Births attended by skilled health personnel (%),Antenatal care attendees who were positive for syphilis (%),0.5444
+Births attended by skilled health personnel (%),Total density per 100 000 population: Specialized hospitals,0.5441
+Births attended by skilled health personnel (%),Environmental and public health workers density (per 1000 population),0.5436
+Births attended by skilled health personnel (%),Under-five mortality rate (deaths per 1000 live births),0.5375
+Births attended by skilled health personnel (%),Biomedical technicians density (per 10 000 population),0.5373
+Births attended by skilled health personnel (%),Low birth weight prevalence (%),0.5337
+Births attended by skilled health personnel (%),Population using limited hygiene services (%),0.5293
+Births attended by skilled health personnel (%),Nursing personnel (%),0.5292
+Births attended by skilled health personnel (%),Adolescent birth rate (per 1000 women aged 15-19 years),0.5280
+Births attended by skilled health personnel (%),Number of national population surveys - maternal mortality,0.5265
+Births attended by skilled health personnel (%),Population using basic hygiene services (%),0.5258
+Births attended by skilled health personnel (%),Total density per 100 000 population: Hospitals,0.5248
+Births attended by skilled health personnel (%),Number of health management & support workers,0.5241
+Births attended by skilled health personnel (%),Density of outpatient social centres (per 100000 population),0.5219
+Births attended by skilled health personnel (%),Health care facilities with limited hygiene services (%),0.5199
+Births attended by skilled health personnel (%),Total density per 100 000 population: Provincial hospitals,0.5187
+Births attended by skilled health personnel (%),Number of environment and public health workers,0.5173
+Births attended by skilled health personnel (%),Health care facilities with basic hygiene services (%),0.5166
+Births attended by skilled health personnel (%),Number of nursing personnel,0.5160
+Births attended by skilled health personnel (%),Total density per 100 000 population: Health centres,0.5131
+Community health workers density (per 10 000 population),Nurses working in mental health sector (per 100000),0.5815
+Community health workers density (per 10 000 population),Human resources / health workforce,0.5793
+Community health workers density (per 10 000 population),Number of personal care workers,0.5786
+Community health workers density (per 10 000 population),Number of nursing and midwifery personnel,0.5781
+Community health workers density (per 10 000 population),Births attended by skilled health personnel (in the five years preceding the survey) (%),0.5752
+Community health workers density (per 10 000 population),Births attended by skilled health personnel (%),0.5729
+Community health workers density (per 10 000 population),Density of residential long-term care facilities (per 100000 population),0.5655
+Community health workers density (per 10 000 population),Beds in community residential facilities (per 100000),0.5646
+Community health workers density (per 10 000 population),Community residential facilities (per 100000),0.5640
+Community health workers density (per 10 000 population),Births attended by skilled health personnel (in the two or three years preceding the survey) (%),0.5563
+Community health workers density (per 10 000 population),Psychiatrists working in mental health sector (per 100000),0.5517
+Community health workers density (per 10 000 population),Density of adult day centres (per 100000 population),0.5516
+Community health workers density (per 10 000 population),Number of licensed qualified surgeons actively working,0.5433
+Community health workers density (per 10 000 population),Current health expenditure (CHE) per capita in US$,0.5423
+Community health workers density (per 10 000 population),Number of national population surveys -  adult health,0.5331
+Community health workers density (per 10 000 population),Psychologists working in mental health sector (per 100000),0.5327
+Community health workers density (per 10 000 population),Number of nursing personnel,0.5317
+Community health workers density (per 10 000 population),Number of geriatricians or psychogeriatricians (per 100000),0.5303
+Community health workers density (per 10 000 population),Proportion of population with >10% household expenditures on health (%),0.5277
+Community health workers density (per 10 000 population),HIV incidence (cases per 1000 population),0.5245
+Community health workers density (per 10 000 population),Number of licensed qualified obstetricians actively working,0.5239
+Community health workers density (per 10 000 population),Outpatient visits (per 100000),0.5229
+Community health workers density (per 10 000 population),Nursing personnel (%),0.5220
+Community health workers density (per 10 000 population),Mental health units in general hospitals (per 100000),0.5218
+Community health workers density (per 10 000 population),Residential long-term care beds (per 10 000 population),0.5204
+Community health workers density (per 10 000 population),Environmental and Occupational Health and Hygiene Professionals  (number),0.5171
+Community health workers density (per 10 000 population),Hospice centre beds (per 10 000 population),0.5171
+Community health workers density (per 10 000 population),Testing and counselling facilities estimated number per 100 000 adult population,0.5146
+Community health workers density (per 10 000 population),Number of licensed qualified anaesthesiologists actively working,0.5136
+Community health workers density (per 10 000 population),Number of national population surveys -  HIV prevalence,0.5105
+Community health workers density (per 10 000 population),HIV incidence (new infections per 1000 population),0.5085
+Community health workers density (per 10 000 population),Total net official development assistance to medical research and basic health sectors per capita (constant 2014 US$) by recipient,0.5057
+Community health workers density (per 10 000 population),Pharmacists  (per 10000),0.5036
+Community health workers density (per 10 000 population),Number of midwifery personnel,0.5015
+Community health workers density (per 10 000 population),Medical doctors (per 10000),0.5004
+Community health workers density (per 10 000 population),Proportion of population with >25% household expenditures on health (%),0.4989
+Community health workers density (per 10 000 population),Population with household spending on health greater than 10% of total household budget (SDG 3.8.2 estimated data) (millions),0.4960
+Community health workers density (per 10 000 population),Number of national population surveys - child mortality,0.4935
+Community health workers density (per 10 000 population),Population using basic hygiene services (%),0.4917
+Community health workers density (per 10 000 population),Age-standardized NCD mortality rate  (per 100 000 population),0.4915
+Community health workers density (per 10 000 population),Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%),0.4905
+Community health workers density (per 10 000 population),Population,0.4901
+Community health workers density (per 10 000 population),Population using limited hygiene services (%),0.4876
+Community health workers density (per 10 000 population),Deaths due to HIV/AIDS (per 100 000 population),0.4874
+Community health workers density (per 10 000 population),New HIV infections (per 1000 uninfected population),0.4873
+Community health workers density (per 10 000 population),Occupational risk factors attributable deaths per 100'000 capita,0.4872
+Community health workers density (per 10 000 population),Beds in mental hospitals (per 100000),0.4864
+Community health workers density (per 10 000 population),Number of physicians,0.4838
+Community health workers density (per 10 000 population),Mental hospitals (per 100000),0.4835
+Community health workers density (per 10 000 population),Number of national population surveys - maternal mortality,0.4827
+DTP3 immunization coverage among one-year-olds (%),Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),0.5452
+DTP3 immunization coverage among one-year-olds (%),Neonates protected at birth against neonatal tetanus (PAB) (%),0.5294
+DTP3 immunization coverage among one-year-olds (%),Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),0.5244
+DTP3 immunization coverage among one-year-olds (%),Neonatal tetanus - number of reported cases,0.4934
+DTP3 immunization coverage among one-year-olds (%),Proportion of vaccination cards seen (%),0.4910
+DTP3 immunization coverage among one-year-olds (%),Children aged < 5 years with pneumonia symptoms taken to a healthcare provider (%),0.4409
+DTP3 immunization coverage among one-year-olds (%),Children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy physical development social-emotional development and learning (%),0.4341
+DTP3 immunization coverage among one-year-olds (%),Children aged < 5 years with pneumonia symptoms taken to a health facility (%),0.4242
+DTP3 immunization coverage among one-year-olds (%),Girls aged 15 years old that received the recommended doses of HPV vaccine (%),0.4181
+DTP3 immunization coverage among one-year-olds (%),Children aged <5 years with diarrhoea receiving ORT (%),0.4151
+DTP3 immunization coverage among one-year-olds (%),Estimated antiretroviral therapy coverage among children,0.4122
+DTP3 immunization coverage among one-year-olds (%),Total tetanus - number of reported cases,0.4084
+DTP3 immunization coverage among one-year-olds (%),Children aged 6-59 months who received vitamin A supplementation (%),0.4080
+DTP3 immunization coverage among one-year-olds (%),Reported number of children receiving antiretroviral therapy month and year of report,0.3948
+DTP3 immunization coverage among one-year-olds (%),Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%,0.3932
+DTP3 immunization coverage among one-year-olds (%),Number of incident tuberculosis cases in children aged 0 - 14,0.3915
+DTP3 immunization coverage among one-year-olds (%),Births attended by skilled health personnel (in the two or three years preceding the survey) (%),0.3912
+DTP3 immunization coverage among one-year-olds (%),Tuberculosis treatment coverage,0.3911
+DTP3 immunization coverage among one-year-olds (%),Mumps - number of reported cases,0.3901
+DTP3 immunization coverage among one-year-olds (%),Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%),0.3887
+DTP3 immunization coverage among one-year-olds (%),Under-five mortality rate (deaths per 1000 live births),0.3886
+DTP3 immunization coverage among one-year-olds (%),Tuberculosis effective treatment coverage (%),0.3842
+DTP3 immunization coverage among one-year-olds (%),Early initiation of breastfeeding (in the two or three years preceding the survey) (%),0.3828
+DTP3 immunization coverage among one-year-olds (%),Existence of national HPV vaccination programme,0.3800
+DTP3 immunization coverage among one-year-olds (%),Antenatal care coverage - at least one visit (%),0.3784
+DTP3 immunization coverage among one-year-olds (%),Antenatal care coverage - at least four visits (in the two or three years preceding the survey) (%),0.3775
+DTP3 immunization coverage among one-year-olds (%),Prevalence of anaemia in children aged 6\u201359 months (%),0.3746
+DTP3 immunization coverage among one-year-olds (%),Children aged <5 years with fever who received treatment with any antimalarial (%),0.3745
+DTP3 immunization coverage among one-year-olds (%),Antenatal care coverage - at least one visit (in the five years preceding the survey) (%),0.3740
+DTP3 immunization coverage among one-year-olds (%),Distribution of causes of death among children aged < 5 years (%),0.3733
+DTP3 immunization coverage among one-year-olds (%),Antenatal care coverage - at least four visits (%),0.3733
+DTP3 immunization coverage among one-year-olds (%),Use of ≥3 doses of intermittent preventive treatment in pregnancy (%),0.3729
+DTP3 immunization coverage among one-year-olds (%),Births attended by skilled health personnel (in the five years preceding the survey) (%),0.3722
+DTP3 immunization coverage among one-year-olds (%),Antenatal care coverage - at least four visits (in the five years preceding the survey) (%),0.3711
+DTP3 immunization coverage among one-year-olds (%),Antenatal care coverage - at least one visit among girls aged 15-19 (%),0.3704
+DTP3 immunization coverage among one-year-olds (%),Mortality rate among children ages 5 to 9 years (per 1000 children aged 5),0.3696
+DTP3 immunization coverage among one-year-olds (%),Postnatal care visit within two days of birth (in the three years preceding the survey) (%),0.3675
+DTP3 immunization coverage among one-year-olds (%),Reported number of children receiving antiretroviral therapy,0.3668
+DTP3 immunization coverage among one-year-olds (%),Number of children aged 6\u201359 months with anaemia (thousands),0.3659
+DTP3 immunization coverage among one-year-olds (%),Underweight prevalence in children aged < 3 years (%),0.3655
+DTP3 immunization coverage among one-year-olds (%),Proportion of newborns who have postnatal contact with a health provider within 2 days of delivery (%),0.3655
+DTP3 immunization coverage among one-year-olds (%),Children aged <5 years with diarrhoea receiving ORS (%),0.3638
+DTP3 immunization coverage among one-year-olds (%),Postnatal care visit within two days of birth - born outside a health facility (in the three years preceding the survey) (%),0.3629
+DTP3 immunization coverage among one-year-olds (%),Educational attainment in prevention,0.3624
+DTP3 immunization coverage among one-year-olds (%),Pertussis - number of reported cases,0.3621
+DTP3 immunization coverage among one-year-olds (%),Proportion of children aged 6-23 months who receive a minimum acceptable diet,0.3608
+DTP3 immunization coverage among one-year-olds (%),Estimated number of children needing antiretroviral therapy based on WHO methods,0.3608
+DTP3 immunization coverage among one-year-olds (%),Postnatal care visit within two days of birth - born outside a health facility (in the x years preceding the survey) (%),0.3598
+DTP3 immunization coverage among one-year-olds (%),Deaths attributable to the environment in children under 5 years (%),0.3579
+DTP3 immunization coverage among one-year-olds (%),Early initiation of breastfeeding (in the two years preceding the survey) (%),0.3566
+Disability-adjusted life years (DALYs),Age-standardized DALYs self-inflicted injury per 100000,0.5924
+Disability-adjusted life years (DALYs),Occupational risk factors attributable DALYs ('000),0.5894
+Disability-adjusted life years (DALYs),Occupational injuries attributable DALYs per 100'000 capita,0.5881
+Disability-adjusted life years (DALYs),DALYs attributable to ambient air pollution (age-standardized),0.5854
+Disability-adjusted life years (DALYs),Age-standardized DALYs ischaemic heart disease per 100000,0.5786
+Disability-adjusted life years (DALYs),Climate change attributable DALYs per 100'000 capita,0.5732
+Disability-adjusted life years (DALYs),Alcohol-attributable Years of Life Lost (YLL) score,0.5680
+Disability-adjusted life years (DALYs),Occupational injuries attributable DALYs ('000),0.5680
+Disability-adjusted life years (DALYs),Age-standardized DALYs cerebrovascular disease per 100000,0.5671
+Disability-adjusted life years (DALYs),Age-standardized DALYs diabetes mellitus per 100000,0.5651
+Disability-adjusted life years (DALYs),Total environment attributable DALYs ('000) in children under 5 years,0.5584
+Disability-adjusted life years (DALYs),Lead attributable DALYs per 100'000 capita,0.5567
+Disability-adjusted life years (DALYs),DALYs attributable to the environment in children under 5 years (%),0.5511
+Disability-adjusted life years (DALYs),Life expectancy at birth (years),0.5437
+Disability-adjusted life years (DALYs),Life expectancy at age 60 (years),0.5375
+Disability-adjusted life years (DALYs),Climate change  attributable DALYs per 100'000 children under 5 years,0.5347
+Disability-adjusted life years (DALYs),Age-standardized DALYs fires per 100000,0.5338
+Disability-adjusted life years (DALYs),Age-standardized DALYs violence per 100000,0.5301
+Disability-adjusted life years (DALYs),Age-standardized DALYs road traffic accidents per 100000,0.5248
+Disability-adjusted life years (DALYs),Healthy life expectancy (HALE) at birth (years),0.5233
+Disability-adjusted life years (DALYs),Age-standardized DALYs drownings per 100000,0.5228
+Disability-adjusted life years (DALYs),Age-standardized DALYs poisoning per 100000,0.5226
+Disability-adjusted life years (DALYs),Distribution of years of life lost by broader causes (%) - Injuries,0.5188
+Disability-adjusted life years (DALYs),Healthy life expectancy (HALE) at age 60 (years),0.5144
+Disability-adjusted life years (DALYs),Age-standardized DALYs alcohol use disorders per 100000,0.5099
+Disability-adjusted life years (DALYs),Age-standardized DALYs alcohol and drug use disorders per 100 000,0.5069
+Disability-adjusted life years (DALYs),Age-standardized DALYs prematurity and low birth rate per 100000,0.5064
+Disability-adjusted life years (DALYs),Age-standardized DALYs breast cancer per 100000,0.5054
+Disability-adjusted life years (DALYs),Lead attributable DALYs ('000),0.5008
+Disability-adjusted life years (DALYs),Age-standardized death rates other unintentional injuries per 100000,0.4953
+Disability-adjusted life years (DALYs),Occupational ergonomic stressors attributable DALYs ('000),0.4923
+Disability-adjusted life years (DALYs),Age-standardized DALYs liver cancer per 100000,0.4916
+Disability-adjusted life years (DALYs),Climate change attributable DALYs ('000),0.4907
+Disability-adjusted life years (DALYs),Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular,0.4898
+Disability-adjusted life years (DALYs),Age-standardized mortality rate by cause (per 100 000 population) - Cancer,0.4896
+Disability-adjusted life years (DALYs),Ambient air pollution attributable DALYs  (per 100 000 population age-standardized),0.4872
+Disability-adjusted life years (DALYs),Occupational ergonomic stressors attributable DALYs per 100'000 capita,0.4842
+Disability-adjusted life years (DALYs),Distribution of years of life lost by major cause group,0.4832
+Disability-adjusted life years (DALYs),Age-standardized NCD mortality rate  (per 100 000 population),0.4775
+Disability-adjusted life years (DALYs),Water sanitation and hygiene attributable DALYs per 100'000 capita,0.4774
+Disability-adjusted life years (DALYs),Identification of other plans in which dementia is integrated (Disability),0.4754
+Disability-adjusted life years (DALYs),Water sanitation and hygiene attributable DALYs ('000),0.4750
+Disability-adjusted life years (DALYs),Climate change attributable DALYs ('000) in children under 5 years,0.4732
+Disability-adjusted life years (DALYs),Age-standardized DALYs liver cirrhosis per 100000,0.4729
+Disability-adjusted life years (DALYs),Estimated percentage of residential long-term care facilities following national dementia standards,0.4691
+Disability-adjusted life years (DALYs),Total dementia hospital admissions (per 100000),0.4650
+Disability-adjusted life years (DALYs),Ambient air pollution attributable DALYs  (per 100 000 population),0.4634
+Disability-adjusted life years (DALYs),Household air pollution attributable DALYs (per 100 000 age-standardized),0.4609
+Disability-adjusted life years (DALYs),Dementia-specific residential long-term care beds (per 10000 population),0.4606
+Disability-adjusted life years (DALYs),Residential long-term care beds (per 10 000 population),0.4595
+Distribution of causes of death among children aged < 5 years (%),Children aged <5 years wasted for age (%),0.5950
+Distribution of causes of death among children aged < 5 years (%),Household air pollution  attributable deaths per 100'000 children under 5 years,0.5939
+Distribution of causes of death among children aged < 5 years (%),Household air pollution attributable deaths in children under 5 years,0.5936
+Distribution of causes of death among children aged < 5 years (%),Number of deaths attributed to non-communicable diseases by type of disease and sex,0.5885
+Distribution of causes of death among children aged < 5 years (%),Age-standardized death rates other unintentional injuries per 100000,0.5861
+Distribution of causes of death among children aged < 5 years (%),Second-hand smoke  attributable deaths per 100'000 children under 5 years,0.5790
+Distribution of causes of death among children aged < 5 years (%),Second-hand smoke attributable deaths ('000) in children under 5 years,0.5763
+Distribution of causes of death among children aged < 5 years (%),Wasting prevalence in children aged < 5 years (%),0.5759
+Distribution of causes of death among children aged < 5 years (%),Underweight prevalence in children aged < 3 years (%),0.5757
+Distribution of causes of death among children aged < 5 years (%),Climate change  attributable deaths per 100'000 children under 5 years,0.5748
+Distribution of causes of death among children aged < 5 years (%),Water sanitation and hygiene  attributable deaths per 100'000 children under 5 years,0.5745
+Distribution of causes of death among children aged < 5 years (%),Stunting prevalence among children under 5 years of age (%),0.5715
+Distribution of causes of death among children aged < 5 years (%),Prevalence of severely wasted children under 5 years of age   (% weight-for-height <-3 SD),0.5708
+Distribution of causes of death among children aged < 5 years (%),Infant mortality rate (deaths per 1000 live births),0.5701
+Distribution of causes of death among children aged < 5 years (%),Prevalence of anaemia in children aged 6\u201359 months (%),0.5698
+Distribution of causes of death among children aged < 5 years (%),Overweight prevalence in children aged <three years (%),0.5698
+Distribution of causes of death among children aged < 5 years (%),Severe wasting prevalence in children aged < 5 years (%),0.5697
+Distribution of causes of death among children aged < 5 years (%),Stunting prevalence in children aged < 5 years (%),0.5659
+Distribution of causes of death among children aged < 5 years (%),Number of national population surveys - child mortality,0.5653
+Distribution of causes of death among children aged < 5 years (%),Children aged < 5 years with pneumonia symptoms taken to a healthcare provider (%),0.5643
+Distribution of causes of death among children aged < 5 years (%),Stunting numbers among children under 5 years of age (millions),0.5607
+Distribution of causes of death among children aged < 5 years (%),Number of infant deaths,0.5570
+Distribution of causes of death among children aged < 5 years (%),Malaria prevalence in children aged <5 years (according to rapid diagnostic testing) (%),0.5563
+Distribution of causes of death among children aged < 5 years (%),Children aged < 5 years with pneumonia symptoms taken to a health facility (%),0.5562
+Distribution of causes of death among children aged < 5 years (%),Wasted numbers among children under 5 years of age (millions),0.5531
+Distribution of causes of death among children aged < 5 years (%),Wasting prevalence in children aged < 3 years (%),0.5525
+Distribution of causes of death among children aged < 5 years (%),Age-standardized death rates (15+ years) poisoning per 100000,0.5509
+Distribution of causes of death among children aged < 5 years (%),Neonatal mortality rate (deaths per 1000 live births),0.5476
+Distribution of causes of death among children aged < 5 years (%),Total environment attributable DALYs ('000) in children under 5 years,0.5455
+Distribution of causes of death among children aged < 5 years (%),Age-standardized mortality rate by cause (per 100 000 population) - Cancer,0.5452
+Distribution of causes of death among children aged < 5 years (%),Distribution of years of life lost by broader causes (%) - Injuries,0.5412
+Distribution of causes of death among children aged < 5 years (%),Road traffic crash deaths age-standardized death rates (15+) per 100000 population,0.5404
+Distribution of causes of death among children aged < 5 years (%),Stunting prevalence in children aged < 3 years (%),0.5398
+Distribution of causes of death among children aged < 5 years (%),Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular,0.5363
+Distribution of causes of death among children aged < 5 years (%),Age-standardized death rates poisoning per 100000,0.5350
+Distribution of causes of death among children aged < 5 years (%),Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),0.5329
+Distribution of causes of death among children aged < 5 years (%),Regional prevalence AAFs (15+) road traffic crash deaths (%),0.5312
+Distribution of causes of death among children aged < 5 years (%),Percentage of the children under 15 years with blood lead levels above 5ug/dl,0.5308
+Distribution of causes of death among children aged < 5 years (%),Prevalence of obesity among children and adolescents (5-19) (%),0.5303
+Distribution of causes of death among children aged < 5 years (%),Total environment  attributable DALYs per 100'000 children under 5 years,0.5300
+Distribution of causes of death among children aged < 5 years (%),Mortality rate attributed to unintentional poisoning (per 100 000 population),0.5285
+Distribution of causes of death among children aged < 5 years (%),Lead attributable DALYs per 100'000 children under 5 years,0.5275
+Distribution of causes of death among children aged < 5 years (%),Age-standardized NCD mortality rate  (per 100 000 population),0.5274
+Distribution of causes of death among children aged < 5 years (%),Age-standardized death rates prematurity and low birth rate per 100000,0.5273
+Distribution of causes of death among children aged < 5 years (%),Neonatal mortality rate (per 1000 live births),0.5267
+Distribution of causes of death among children aged < 5 years (%),Age-standardized death rates (15+ years) violence per 100000,0.5264
+Distribution of causes of death among children aged < 5 years (%),Severe wasted prevalence among children under 5 years of age (%),0.5259
+Distribution of causes of death among children aged < 5 years (%),DALYs attributable to the environment in children under 5 years (%),0.5246
+Distribution of causes of death among children aged < 5 years (%),Age-standardized deaths attributable to the environment (per 100 000 population),0.5238
+Distribution of causes of death among children aged < 5 years (%),Number of children aged 6\u201359 months with anaemia (thousands),0.5232
+Distribution of causes of death among children aged < 5 years (%),Deaths attributable to the environment (%),0.5226
+Incidence of tuberculosis (per 100 000 population per year),TB patients with known HIV status (%),0.5956
+Incidence of tuberculosis (per 100 000 population per year),Treatment success rate: HIV-positive TB cases,0.5852
+Incidence of tuberculosis (per 100 000 population per year),Tuberculosis treatment coverage,0.5703
+Incidence of tuberculosis (per 100 000 population per year),New HIV infections (per 1000 uninfected population),0.5693
+Incidence of tuberculosis (per 100 000 population per year),Treatment success rate: XDR-TB cases,0.5687
+Incidence of tuberculosis (per 100 000 population per year),Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases,0.5645
+Incidence of tuberculosis (per 100 000 population per year),AIDS-related mortality (deaths per 1000 population),0.5617
+Incidence of tuberculosis (per 100 000 population per year),Confirmed cases of MDR-TB started treatment for MDR-TB (%),0.5611
+Incidence of tuberculosis (per 100 000 population per year),Cases started on MDR-TB treatment,0.5445
+Incidence of tuberculosis (per 100 000 population per year),Estimate of current tobacco use prevalence (%),0.5366
+Incidence of tuberculosis (per 100 000 population per year),Estimate of current tobacco smoking prevalence (%),0.5331
+Incidence of tuberculosis (per 100 000 population per year),People who would want a family member's TB kept secret (%) [Males],0.5268
+Incidence of tuberculosis (per 100 000 population per year),Biomedical technicians density (per 10 000 population),0.5240
+Incidence of tuberculosis (per 100 000 population per year),Total density per 100 000 population: Health centres,0.5204
+Incidence of tuberculosis (per 100 000 population per year),Previously treated cases tested for RR-/MDR-TB (%),0.5162
+Incidence of tuberculosis (per 100 000 population per year),Deaths per 100 000 population,0.5159
+Incidence of tuberculosis (per 100 000 population per year),Malaria - number of reported confirmed cases,0.5153
+Incidence of tuberculosis (per 100 000 population per year),Pertussis - number of reported cases,0.5150
+Incidence of tuberculosis (per 100 000 population per year),Leprosy - Number of cases registered for treatment,0.5136
+Incidence of tuberculosis (per 100 000 population per year),Laboratory health workers density (per 1000 population),0.5123
+Incidence of tuberculosis (per 100 000 population per year),Number of national population surveys -  HIV prevalence,0.5109
+Incidence of tuberculosis (per 100 000 population per year),Total density per 100 000 population: Health posts,0.5107
+Incidence of tuberculosis (per 100 000 population per year),Confirmed cases of MDR-TB,0.5098
+Incidence of tuberculosis (per 100 000 population per year),New cases tested for RR-/MDR-TB (%),0.5097
+Incidence of tuberculosis (per 100 000 population per year),Estimate of current tobacco use prevalence (%) (age-standardized rate),0.5091
+Incidence of tuberculosis (per 100 000 population per year),Estimate of current tobacco smoking prevalence (%) (age-standardized rate),0.5087
+Incidence of tuberculosis (per 100 000 population per year),Total tetanus - number of reported cases,0.5084
+Incidence of tuberculosis (per 100 000 population per year),New leprosy case detection rate per 1 000 000 population,0.5057
+Incidence of tuberculosis (per 100 000 population per year),People who would want a family member's TB kept secret (%) [Females],0.5053
+Incidence of tuberculosis (per 100 000 population per year),Leprosy - New leprosy cases with G2D rate per 1 000 000 population,0.5049
+Incidence of tuberculosis (per 100 000 population per year),Total density per 100 000 population: Hospitals,0.5040
+Incidence of tuberculosis (per 100 000 population per year),Physicians density (per 1000 population),0.5023
+Incidence of tuberculosis (per 100 000 population per year),HIV-positive TB patients on ART (antiretroviral therapy) (%),0.5014
+Incidence of tuberculosis (per 100 000 population per year),Number of new leprosy cases,0.5007
+Incidence of tuberculosis (per 100 000 population per year),Yellow fever - number of reported cases,0.5002
+Incidence of tuberculosis (per 100 000 population per year),Estimate of current cigarette smoking prevalence (%),0.4998
+Incidence of tuberculosis (per 100 000 population per year),Hospital beds (per 10 000 population),0.4988
+Incidence of tuberculosis (per 100 000 population per year),Malaria - number of reported deaths,0.4985
+Incidence of tuberculosis (per 100 000 population per year),Cholera case fatality rate,0.4979
+Incidence of tuberculosis (per 100 000 population per year),Projection of deaths per 100 000 population,0.4949
+Incidence of tuberculosis (per 100 000 population per year),Radiotherapy units (per 1 000 000 population),0.4936
+Incidence of tuberculosis (per 100 000 population per year),TB drug resistance,0.4923
+Incidence of tuberculosis (per 100 000 population per year),Estimated number of malaria cases,0.4918
+Incidence of tuberculosis (per 100 000 population per year),People who would want a family member's TB kept secret (%),0.4916
+Incidence of tuberculosis (per 100 000 population per year),Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%),0.4886
+Incidence of tuberculosis (per 100 000 population per year),Year of latest adult prevalence survey (nonsmoked),0.4883
+Incidence of tuberculosis (per 100 000 population per year),Infant mortality rate (deaths per 1000 live births),0.4877
+Incidence of tuberculosis (per 100 000 population per year),Other health workers density (per 1000 population),0.4869
+Incidence of tuberculosis (per 100 000 population per year),Mortality rate among children ages 10 to 14 years (per 1000 children aged 10),0.4852
+Incidence of tuberculosis (per 100 000 population per year),Leprosy - Number of new leprosy cases among children (less than 15 years of age),0.4840
+Life expectancy at birth (years),Under-five mortality rate (deaths per 1000 live births),0.5845
+Life expectancy at birth (years),Healthy life expectancy (HALE) at age 60 (years),0.5805
+Life expectancy at birth (years),Under-five mortality rate (probability of dying by age 5 per 1000 live births),0.5779
+Life expectancy at birth (years),Infant mortality rate (deaths per 1000 live births),0.5706
+Life expectancy at birth (years),Years of life lost from mortality (YLLs) (per 100 000 population),0.5641
+Life expectancy at birth (years),Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),0.5633
+Life expectancy at birth (years),Neonatal mortality rate (per 1000 live births),0.5625
+Life expectancy at birth (years),Neonatal mortality rate (deaths per 1000 live births),0.5625
+Life expectancy at birth (years),Tx - person-years lived above age x,0.5602
+Life expectancy at birth (years),Distribution of years of life lost by major cause group,0.5597
+Life expectancy at birth (years),Preterm birth rate (per 100 live births),0.5448
+Life expectancy at birth (years),Disability-adjusted life years (DALYs),0.5437
+Life expectancy at birth (years),nLx - person-years lived between ages x and x+n,0.5416
+Life expectancy at birth (years),Disability-adjusted life years (DALYs) (per 100 000 population),0.5320
+Life expectancy at birth (years),Age-standardized DALYs prematurity and low birth rate per 100000,0.5289
+Life expectancy at birth (years),Deaths per 1 000 live births,0.5236
+Life expectancy at birth (years),Years of healthy life lost due to disability (YLDs) (per 100 000 population),0.5108
+Life expectancy at birth (years),lx - number of people left alive at age x,0.5085
+Life expectancy at birth (years),nqx - probability of dying between ages x and x+n,0.5013
+Life expectancy at birth (years),Distribution of years of life lost by broader causes (%) - Injuries,0.5001
+Life expectancy at birth (years),Probability (%) of dying between age 30 and exact age 70 from any of cardiovascular disease cancer diabetes or chronic respiratory disease,0.4998
+Life expectancy at birth (years),Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years),0.4909
+Life expectancy at birth (years),nMx - age-specific death rate between ages x and x+n,0.4899
+Life expectancy at birth (years),Age-standardized death rates falls per 100000,0.4859
+Life expectancy at birth (years),Births attended by skilled health personnel (in the two or three years preceding the survey) (%),0.4841
+Life expectancy at birth (years),Years of healthy life lost due to disability (YLDs),0.4836
+Life expectancy at birth (years),Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular,0.4771
+Life expectancy at birth (years),ndx - number of people dying between ages x and x+n,0.4734
+Life expectancy at birth (years),Maternal mortality ratio (per 100 000 live births),0.4721
+Life expectancy at birth (years),Stillbirth rate (per 1000 total births),0.4714
+Life expectancy at birth (years),Institutional Births (birth taken place in a facility) (%),0.4677
+Life expectancy at birth (years),Births attended by skilled health personnel (in the five years preceding the survey) (%),0.4665
+Life expectancy at birth (years),Births by caesarean section (in the two or three years preceding the survey) (%),0.4635
+Life expectancy at birth (years),Disability-adjusted life years (DALYs) attributable to the environment,0.4616
+Life expectancy at birth (years),Age-standardized death rates other unintentional injuries per 100000,0.4562
+Life expectancy at birth (years),Mortality rate among children ages 5 to 9 years (per 1000 children aged 5),0.4538
+Life expectancy at birth (years),Mortality rate among children ages 10 to 14 years (per 1000 children aged 10),0.4512
+Life expectancy at birth (years),Disability-adjusted life years (DALYs) attributable to the environment (%),0.4469
+Life expectancy at birth (years),Age-standardized NCD mortality rate  (per 100 000 population),0.4446
+Life expectancy at birth (years),Age-standardized death rates ischaemic heart disease per 100000,0.4424
+Life expectancy at birth (years),Age-standardized mortality rate by cause (per 100 000 population) - Cancer,0.4422
+Life expectancy at birth (years),Number of cause-of-death registration years available,0.4404
+Life expectancy at birth (years),Age-standardized DALYs falls per 100000,0.4402
+Life expectancy at birth (years),Births by caesarean section (in the five years preceding the survey) (%),0.4378
+Life expectancy at birth (years),Age-standardized deaths attributable to the environment (per 100 000 population),0.4369
+Life expectancy at birth (years),Number of infant deaths,0.4362
+Life expectancy at birth (years),Cancer age-standardized death rates (15+) per 100000 population,0.4350
+Life expectancy at birth (years),Age-standardized death rates (15+ years) violence per 100000,0.4326
+Life expectancy at birth (years),Age-standardized DALYs (per 100000),0.4325
+Life expectancy at birth (years),Projection of number of deaths,0.4313
+Life expectancy at birth (years),Age-standardized death rates drownings per 100000,0.4295
+Malaria incidence (per 1 000 population at risk),TB incidence rate per 100000 population [Male],0.5933
+Malaria incidence (per 1 000 population at risk),Malaria diagnostic use in children aged <5 years with fever (%),0.5862
+Malaria incidence (per 1 000 population at risk),TB incidence rate per 100000 population [Female],0.5783
+Malaria incidence (per 1 000 population at risk),New HIV infections (per 1000 uninfected population),0.5625
+Malaria incidence (per 1 000 population at risk),Projection of deaths per 100 000 population,0.5546
+Malaria incidence (per 1 000 population at risk),Deaths per 100 000 population,0.5504
+Malaria incidence (per 1 000 population at risk),Mortality rate attributed to unintentional poisoning (per 100 000 population),0.5456
+Malaria incidence (per 1 000 population at risk),Infant mortality rate (deaths per 1000 live births),0.5419
+Malaria incidence (per 1 000 population at risk),Number of incident tuberculosis cases  (HIV-positive cases),0.5351
+Malaria incidence (per 1 000 population at risk),Leprosy registered prevalence rate per 1 000 000 population,0.5278
+Malaria incidence (per 1 000 population at risk),Cholera case fatality rate,0.5266
+Malaria incidence (per 1 000 population at risk),Average death rate due to natural disasters (per 100 000 population),0.5225
+Malaria incidence (per 1 000 population at risk),Adolescent mortality rate (per 100 000 population),0.5224
+Malaria incidence (per 1 000 population at risk),Estimates of rates of homicides per 100 000 population,0.5193
+Malaria incidence (per 1 000 population at risk),Poverty headcount ratio at $1.25 a day (PPP) (% of population),0.5141
+Malaria incidence (per 1 000 population at risk),Mortality rate among children ages 5 to 9 years (per 1000 children aged 5),0.5136
+Malaria incidence (per 1 000 population at risk),Estimated direct deaths from major conflicts (per 100 000 population),0.5130
+Malaria incidence (per 1 000 population at risk),Mortality rate among children ages 10 to 14 years (per 1000 children aged 10),0.5117
+Malaria incidence (per 1 000 population at risk),Water sanitation and hygiene attributable deaths per 100'000 capita,0.5086
+Malaria incidence (per 1 000 population at risk),Number of national population surveys -  HIV prevalence,0.5069
+Malaria incidence (per 1 000 population at risk),Number of children aged 6\u201359 months with anaemia (thousands),0.5062
+Malaria incidence (per 1 000 population at risk),Laboratory health workers density (per 1000 population),0.5050
+Malaria incidence (per 1 000 population at risk),Mortality rate attributed to unsafe water unsafe sanitation and lack of hygiene (per 100 000 population),0.5030
+Malaria incidence (per 1 000 population at risk),Age-standardized death rates poisoning per 100000,0.5015
+Malaria incidence (per 1 000 population at risk),Children aged <5 years with fever who received treatment with any antimalarial (%),0.5015
+Malaria incidence (per 1 000 population at risk),Maternal mortality ratio (per 100 000 live births),0.5004
+Malaria incidence (per 1 000 population at risk),Yellow fever - number of reported cases,0.4997
+Malaria incidence (per 1 000 population at risk),Rubella - number of reported cases,0.4996
+Malaria incidence (per 1 000 population at risk),Measles - number of reported cases,0.4975
+Malaria incidence (per 1 000 population at risk),Age-standardized death rates (15+ years) poisoning per 100000,0.4974
+Malaria incidence (per 1 000 population at risk),Number of prevalent tuberculosis cases,0.4954
+Malaria incidence (per 1 000 population at risk),Mumps - number of reported cases,0.4945
+Malaria incidence (per 1 000 population at risk),Under-five mortality rate (deaths per 1000 live births),0.4913
+Malaria incidence (per 1 000 population at risk),Use of mosquito nets - Percentage of all women age 15-49 who Slept under an ever treated net last night,0.4902
+Malaria incidence (per 1 000 population at risk),Physicians density (per 1000 population),0.4887
+Malaria incidence (per 1 000 population at risk),Neonatal mortality rate (deaths per 1000 live births),0.4880
+Malaria incidence (per 1 000 population at risk),Pharmaceutical personnel density (per 1000 population),0.4879
+Malaria incidence (per 1 000 population at risk),Households with at least one insecticide-treated net for every two people (%),0.4876
+Malaria incidence (per 1 000 population at risk),Number of reported deaths from cholera,0.4864
+Malaria incidence (per 1 000 population at risk),Prevalence of anaemia in children aged 6\u201359 months (%),0.4862
+Malaria incidence (per 1 000 population at risk),Number of national population surveys - child mortality,0.4853
+Malaria incidence (per 1 000 population at risk),Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%),0.4852
+Malaria incidence (per 1 000 population at risk),Estimated road traffic death rate (per 100 000 population),0.4846
+Malaria incidence (per 1 000 population at risk),Number of reported cases of cholera,0.4836
+Malaria incidence (per 1 000 population at risk),Maternal mortality ratio (per 100 000 live births) - Country reported estimates,0.4836
+Malaria incidence (per 1 000 population at risk),Total environment  attributable deaths per 100'000 children under 5 years,0.4819
+Malaria incidence (per 1 000 population at risk),Density of pharmaceutical personnel (per 10 000 population),0.4809
+Malaria incidence (per 1 000 population at risk),Suicide mortality rate (per 100 000 population),0.4807
+Malaria incidence (per 1 000 population at risk),Total density per 100 000 population: Health posts,0.4805
+Malaria incidence (per 1 000 population at risk),Number of incident tuberculosis cases,0.4802
+Maternal mortality ratio (per 100 000 live births),Low birth weight prevalence (%),0.5952
+Maternal mortality ratio (per 100 000 live births),Under-five mortality rate (probability of dying by age 5 per 1000 live births),0.5929
+Maternal mortality ratio (per 100 000 live births),Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular,0.5913
+Maternal mortality ratio (per 100 000 live births),Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),0.5879
+Maternal mortality ratio (per 100 000 live births),Deaths due to HIV/AIDS (per 100 000 population),0.5858
+Maternal mortality ratio (per 100 000 live births),Mortality rate among children ages 5 to 9 years (per 1000 children aged 5),0.5837
+Maternal mortality ratio (per 100 000 live births),Number of national population surveys - child mortality,0.5791
+Maternal mortality ratio (per 100 000 live births),Institutional Births (birth taken place in a facility) (%),0.5789
+Maternal mortality ratio (per 100 000 live births),Average death rate due to natural disasters (per 100 000 population),0.5769
+Maternal mortality ratio (per 100 000 live births),Mortality rate among children ages 10 to 14 years (per 1000 children aged 10),0.5762
+Maternal mortality ratio (per 100 000 live births),Age-standardized mortality rate by cause (per 100 000 population) - Cancer,0.5748
+Maternal mortality ratio (per 100 000 live births),Age-standardized death rates breast cancer per 100000,0.5704
+Maternal mortality ratio (per 100 000 live births),Births attended by skilled health personnel (in the two or three years preceding the survey) (%),0.5686
+Maternal mortality ratio (per 100 000 live births),Estimated road traffic death rate (per 100 000 population),0.5685
+Maternal mortality ratio (per 100 000 live births),Births attended by skilled health personnel (in the five years preceding the survey) (%),0.5676
+Maternal mortality ratio (per 100 000 live births),Adolescent fertility rate (births per 1000 women aged 15-19 years),0.5662
+Maternal mortality ratio (per 100 000 live births),Nursing and midwifery personnel density (per 1000 population),0.5640
+Maternal mortality ratio (per 100 000 live births),AIDS-related mortality (deaths per 1000 population),0.5633
+Maternal mortality ratio (per 100 000 live births),Nursing and midwifery personnel density (per 10 000 population),0.5628
+Maternal mortality ratio (per 100 000 live births),Mortality rate attributed to household and ambient air pollution (per 100 000 population),0.5586
+Maternal mortality ratio (per 100 000 live births),Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years),0.5556
+Maternal mortality ratio (per 100 000 live births),Total density per 100 000 population: Health posts,0.5542
+Maternal mortality ratio (per 100 000 live births),Ambient air pollution attributable death rate (per 100 000 population),0.5487
+Maternal mortality ratio (per 100 000 live births),Age-standardized NCD mortality rate  (per 100 000 population),0.5479
+Maternal mortality ratio (per 100 000 live births),Births attended by skilled health personnel (%),0.5458
+Maternal mortality ratio (per 100 000 live births),Deaths due to malaria (per 100 000 population),0.5435
+Maternal mortality ratio (per 100 000 live births),Estimates of rates of homicides per 100 000 population,0.5429
+Maternal mortality ratio (per 100 000 live births),Household air pollution attributable death rate (per 100 000 population),0.5412
+Maternal mortality ratio (per 100 000 live births),Number of pregnant women (aged 15-49 years) with anaemia (thousands),0.5406
+Maternal mortality ratio (per 100 000 live births),Age-standardized deaths attributable to the environment (per 100 000 population),0.5401
+Maternal mortality ratio (per 100 000 live births),Ambient air pollution attributable death rate (per 100 000 population age-standardized),0.5394
+Maternal mortality ratio (per 100 000 live births),UHC Service Coverage sub-index on reproductive maternal newborn and child health,0.5361
+Maternal mortality ratio (per 100 000 live births),Age-standardized death rates drownings per 100000,0.5360
+Maternal mortality ratio (per 100 000 live births),Age-standardized death rates falls per 100000,0.5344
+Maternal mortality ratio (per 100 000 live births),Suicide mortality rate (per 100 000 population) [Male],0.5317
+Maternal mortality ratio (per 100 000 live births),Household air pollution attributable death rate (per 100 000 population age-standardized),0.5313
+Maternal mortality ratio (per 100 000 live births),Nursing and midwifery personnel (per 10000),0.5293
+Maternal mortality ratio (per 100 000 live births),Low birth weight (in thousands),0.5253
+Maternal mortality ratio (per 100 000 live births),Deaths attributable to the environment (%),0.5230
+Maternal mortality ratio (per 100 000 live births),Ambient and household air pollution attributable death rate (per 100 000 population),0.5191
+Maternal mortality ratio (per 100 000 live births),Age-standardized death rates violence per 100000,0.5182
+Maternal mortality ratio (per 100 000 live births),Ambient and household air pollution attributable death rate (per 100 000 population age-standardized),0.5178
+Maternal mortality ratio (per 100 000 live births),TB mortality (deaths per 100 000 population),0.5170
+Maternal mortality ratio (per 100 000 live births),Mortality rate attributed to unsafe water unsafe sanitation and lack of hygiene (per 100 000 population),0.5165
+Maternal mortality ratio (per 100 000 live births),Total environment  attributable deaths per 100'000 children under 5 years,0.5155
+Maternal mortality ratio (per 100 000 live births),HIV incidence (cases per 1000 population),0.5138
+Maternal mortality ratio (per 100 000 live births),Adolescent fertility rate (per 1000 women aged 15-19 years),0.5127
+Maternal mortality ratio (per 100 000 live births),Contraceptive prevalence - modern methods (%),0.5103
+Maternal mortality ratio (per 100 000 live births),Women age 15-49 years who received a health check within 2 days after delivery of their most recent live birth in the last 2 years (%),0.5101
+Maternal mortality ratio (per 100 000 live births),Age-standardized suicide rates (per 100 000 population),0.5085
+Maternal mortality ratio (per 100 000 live births),Age-standardized death rates diabetes mellitus per 100000,0.5084
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),BCG immunization coverage among 1-year-olds (%),0.5656
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),BCG immunization coverage among one-year-olds (%),0.5617
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),BCG immunization coverage among children aged 1 year (%),0.5617
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Polio (Pol3) immunization coverage among 1-year-olds (%),0.5615
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Hib (Hib3) immunization coverage among 1-year-olds (%),0.5566
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),0.5552
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%),0.5444
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Polio immunization coverage among one-year-olds (%),0.5440
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),DTP3 immunization coverage among one-year-olds (%),0.5244
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),0.5145
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Girls aged 15 years old that received the recommended doses of HPV vaccine (%),0.5140
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),0.4964
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Existence of national HPV vaccination programme,0.4655
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Mumps - number of reported cases,0.4406
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Proportion of vaccination cards seen (%),0.4406
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Estimated antiretroviral therapy coverage among children,0.4401
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Coverage of national cervical cancer screening program (%),0.4071
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Neonates protected at birth against neonatal tetanus (PAB) (%),0.3970
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Women age 15-49 years who received a health check within 2 days after delivery of their most recent live birth in the last 2 years (%),0.3817
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Reported number of children receiving antiretroviral therapy month and year of report,0.3803
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Age range of most recent survey of adults,0.3678
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths,0.3632
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Educational attainment in prevention,0.3613
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Government budget for malaria (USD),0.3601
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),mHealth programmes are sponsored by government,0.3587
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),General availability of statins in the public health sector,0.3574
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),General availability of metformin in the public health sector,0.3528
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Children aged <5 years with fever who received treatment with any antimalarial (%),0.3505
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Children aged 6-59 months who received vitamin A supplementation (%),0.3491
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Age range of latest adult prevalence survey (nonsmoked),0.3472
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%,0.3453
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Pertussis - number of reported cases,0.3435
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Under-five mortality rate (deaths per 1000 live births),0.3430
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Government-sponsored mHealth programmes are being evaluated,0.3430
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Estimated number of people eligible for antiretroviral therapy according to 2010 guidelines,0.3424
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Reported number of children receiving antiretroviral therapy,0.3413
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Antenatal care coverage - at least one visit (in the two or three years preceding the survey) (%),0.3392
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Age range of latest youth prevalence survey (nonsmoked),0.3390
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Gov. expenditure on malaria (USD),0.3372
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Prompt treatment of children aged <5 years with fever with antimalarial medicines (%),0.3369
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),General availability of aspirin (100 mg) in the public health sector,0.3369
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Tuberculosis treatment coverage,0.3363
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Antiretroviral therapy coverage among people with HIV infection eligible for ART according to 2010 guidelines (%),0.3354
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Antenatal care coverage - at least four visits (in the two or three years preceding the survey) (%),0.3353
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Children aged < 5 years with pneumonia symptoms taken to a healthcare provider (%),0.3343
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Malaria prevalence in children aged <5 years (according to rapid diagnostic testing) (%),0.3341
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Antenatal care coverage - at least one visit (in the five years preceding the survey) (%),0.3338
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Estimated number of children needing antiretroviral therapy based on WHO methods,0.3334
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Neonatal tetanus - number of reported cases,0.3334
+Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),Antenatal care coverage - at least four visits (in the five years preceding the survey) (%),0.3325
+Neonatal mortality rate (per 1000 live births),Crude suicide rates (per 100 000 population),0.5976
+Neonatal mortality rate (per 1000 live births),Suicide mortality rate (per 100 000 population),0.5975
+Neonatal mortality rate (per 1000 live births),Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular,0.5960
+Neonatal mortality rate (per 1000 live births),Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),0.5959
+Neonatal mortality rate (per 1000 live births),Births attended by skilled health personnel (in the two or three years preceding the survey) (%),0.5902
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates falls per 100000,0.5892
+Neonatal mortality rate (per 1000 live births),Number of national population surveys - maternal mortality,0.5885
+Neonatal mortality rate (per 1000 live births),Births attended by skilled health personnel (in the five years preceding the survey) (%),0.5868
+Neonatal mortality rate (per 1000 live births),Number of national population surveys - child mortality,0.5786
+Neonatal mortality rate (per 1000 live births),Total environment  attributable deaths per 100'000 children under 5 years,0.5782
+Neonatal mortality rate (per 1000 live births),Low birth weight prevalence (%),0.5780
+Neonatal mortality rate (per 1000 live births),Births attended by skilled health personnel (%),0.5720
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates drownings per 100000,0.5711
+Neonatal mortality rate (per 1000 live births),Estimated road traffic death rate (per 100 000 population),0.5685
+Neonatal mortality rate (per 1000 live births),Life expectancy at birth (years),0.5625
+Neonatal mortality rate (per 1000 live births),Total fertility rate (births per woman),0.5614
+Neonatal mortality rate (per 1000 live births),Age-standardized mortality rate by cause (per 100 000 population) - Cancer,0.5588
+Neonatal mortality rate (per 1000 live births),Adolescent birth rate (per 1000 women aged 15-19 years),0.5585
+Neonatal mortality rate (per 1000 live births),Ambient air pollution attributable death rate (per 100 000 population),0.5530
+Neonatal mortality rate (per 1000 live births),Average death rate due to natural disasters (per 100 000 population),0.5528
+Neonatal mortality rate (per 1000 live births),Healthy life expectancy (HALE) at birth (years),0.5518
+Neonatal mortality rate (per 1000 live births),Deaths due to HIV/AIDS (per 100 000 population),0.5515
+Neonatal mortality rate (per 1000 live births),Ambient air pollution attributable death rate (per 100 000 population age-standardized),0.5502
+Neonatal mortality rate (per 1000 live births),Total NCD Deaths (in thousands),0.5457
+Neonatal mortality rate (per 1000 live births),AIDS-related mortality (deaths per 1000 population),0.5421
+Neonatal mortality rate (per 1000 live births),Mortality rate attributed to household and ambient air pollution (per 100 000 population),0.5412
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates (15+ years) violence per 100000,0.5383
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates violence per 100000,0.5369
+Neonatal mortality rate (per 1000 live births),Low birth weight (in thousands),0.5356
+Neonatal mortality rate (per 1000 live births),Proportion of newborns who have postnatal contact with a health provider within 2 days of delivery (%),0.5339
+Neonatal mortality rate (per 1000 live births),TB mortality (deaths per 100 000 population),0.5339
+Neonatal mortality rate (per 1000 live births),Age-standardized deaths attributable to the environment (per 100 000 population),0.5331
+Neonatal mortality rate (per 1000 live births),Deaths attributable to the environment in children under 5 years (%),0.5322
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates other unintentional injuries per 100000,0.5292
+Neonatal mortality rate (per 1000 live births),Household air pollution attributable death rate (per 100 000 population),0.5285
+Neonatal mortality rate (per 1000 live births),Estimates of rates of homicides per 100 000 population,0.5281
+Neonatal mortality rate (per 1000 live births),Distribution of causes of death among children aged < 5 years (%),0.5267
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates road traffic accidents per 100000,0.5260
+Neonatal mortality rate (per 1000 live births),Number of deaths among children ages 5 to 9 years,0.5250
+Neonatal mortality rate (per 1000 live births),Household air pollution attributable death rate (per 100 000 population age-standardized),0.5249
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates poisoning per 100000,0.5203
+Neonatal mortality rate (per 1000 live births),Mortality rate attributed to unintentional poisoning (per 100 000 population),0.5168
+Neonatal mortality rate (per 1000 live births),Postnatal care visit within two days of birth (in the x years preceding the survey) (%),0.5153
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates (15+ years) poisoning per 100000,0.5149
+Neonatal mortality rate (per 1000 live births),Road traffic crash deaths age-standardized death rates (15+) per 100000 population,0.5144
+Neonatal mortality rate (per 1000 live births),Age-standardized death rates diabetes mellitus per 100000,0.5141
+Neonatal mortality rate (per 1000 live births),Total density per 100 000 population: Health posts,0.5141
+Neonatal mortality rate (per 1000 live births),Postnatal care visit within two days of birth - born outside a health facility (in the x years preceding the survey) (%),0.5141
+Neonatal mortality rate (per 1000 live births),Ambient and household air pollution attributable death rate (per 100 000 population age-standardized),0.5139
+Neonatal mortality rate (per 1000 live births),Postnatal care visit within two days of birth (in the five years preceding the survey) (%),0.5134
+Number of maternal deaths,Births by caesarean section (%),0.5885
+Number of maternal deaths,Births by caesarean section (in the five years preceding the survey) (%),0.5872
+Number of maternal deaths,Births by caesarean section (in the two or three years preceding the survey) (%),0.5757
+Number of maternal deaths,Total fertility rate (births per woman),0.5742
+Number of maternal deaths,Number of deaths due to HIV/AIDS,0.5735
+Number of maternal deaths,Total NCD Deaths (in thousands),0.5720
+Number of maternal deaths,Infant mortality rate (probability of dying between birth and age 1 per 1000 live births),0.5678
+Number of maternal deaths,Number of under-five deaths,0.5629
+Number of maternal deaths,Estimated number of malaria deaths,0.5601
+Number of maternal deaths,Number of deaths among children ages 5 to 9 years,0.5595
+Number of maternal deaths,Suicide mortality rate (per 100 000 population) [Female],0.5562
+Number of maternal deaths,Preterm birth rate (per 100 live births),0.5551
+Number of maternal deaths,Projection of deaths per 100 000 population,0.5546
+Number of maternal deaths,Malaria - number of reported deaths,0.5524
+Number of maternal deaths,Projection of number of deaths,0.5495
+Number of maternal deaths,Estimated number of road traffic deaths,0.5486
+Number of maternal deaths,Number of reported deaths from cholera,0.5477
+Number of maternal deaths,Reported number of human rabies deaths,0.5470
+Number of maternal deaths,Deaths due to HIV/AIDS (per 100 000 population),0.5452
+Number of maternal deaths,Number of licensed qualified obstetricians actively working,0.5448
+Number of maternal deaths,Number of deaths among children ages 10 to 14 years,0.5430
+Number of maternal deaths,Number of deaths attributed to non-communicable diseases by type of disease and sex,0.5424
+Number of maternal deaths,Age-standardized DALYs prematurity and low birth rate per 100000,0.5419
+Number of maternal deaths,Adolescent birth rate (per 1000 women aged 15-19 years),0.5361
+Number of maternal deaths,Number of pregnant women (aged 15-49 years) with anaemia (thousands),0.5354
+Number of maternal deaths,Adolescent mortality rate (per 100 000 population),0.5346
+Number of maternal deaths,Years of life lost from mortality (YLLs) (per 100 000 population),0.5316
+Number of maternal deaths,Estimated road traffic death rate (per 100 000 population),0.5315
+Number of maternal deaths,Number of midwifery personnel,0.5266
+Number of maternal deaths,Births attended by skilled health personnel (in the five years preceding the survey) (%),0.5257
+Number of maternal deaths,AIDS-related mortality (deaths per 1000 population),0.5195
+Number of maternal deaths,Deaths attributable to the environment (%),0.5191
+Number of maternal deaths,Births attended by skilled health personnel (in the two or three years preceding the survey) (%),0.5179
+Number of maternal deaths,Average death rate due to natural disasters (per 100 000 population),0.5165
+Number of maternal deaths,Crude suicide rates (per 100 000 population),0.5138
+Number of maternal deaths,Suicide mortality rate (per 100 000 population),0.5106
+Number of maternal deaths,Institutional Births (birth taken place in a facility) (%),0.5086
+Number of maternal deaths,Births attended by skilled health personnel (%),0.5083
+Number of maternal deaths,Total fertility rate (per woman),0.5072
+Number of maternal deaths,Deaths due to malaria (per 100 000 population),0.5071
+Number of maternal deaths,Estimates of rates of homicides per 100 000 population,0.5052
+Number of maternal deaths,Number of nursing and midwifery personnel,0.5050
+Number of maternal deaths,Number of suspected meningitis deaths reported,0.5026
+Number of maternal deaths,Estimates of number of homicides,0.5012
+Number of maternal deaths,Age-standardized death rates breast cancer per 100000,0.5000
+Number of maternal deaths,Cholera case fatality rate,0.4985
+Number of maternal deaths,Age-standardized deaths attributable to the environment (per 100 000 population),0.4976
+Number of maternal deaths,Number of traditional birth attendants,0.4954
+Number of maternal deaths,UHC Service Coverage sub-index on reproductive maternal newborn and child health,0.4949
+Number of maternal deaths,Total environment  attributable deaths per 100'000 children under 5 years,0.4928
+Number of maternal deaths,Age-standardized death rates falls per 100000,0.4921
+Number of new HIV infections,Number of new leprosy cases,0.5992
+Number of new HIV infections,Estimated number of people eligible for antiretroviral therapy according to 2010 guidelines,0.5793
+Number of new HIV infections,Incidence of tuberculosis (per 100 000 population) (HIV-positive cases),0.5761
+Number of new HIV infections,People living with HIV who know their HIV-positive status (%),0.5590
+Number of new HIV infections,Reported number of children receiving antiretroviral therapy,0.5588
+Number of new HIV infections,Estimated antiretroviral therapy coverage among people living with HIV (%),0.5581
+Number of new HIV infections,Comprehensive correct knowledge about AIDS (%) [Males],0.5554
+Number of new HIV infections,Testing for HIV and receiving results in the last 12 months among sexually active young people (%),0.5476
+Number of new HIV infections,Comprehensive correct knowledge about AIDS among young people (%) [Males],0.5430
+Number of new HIV infections,Comprehensive correct knowledge about AIDS among young people (%),0.5424
+Number of new HIV infections,People living with HIV with suppressed viral load (%),0.5421
+Number of new HIV infections,Reported number of children receiving antiretroviral therapy month and year of report,0.5400
+Number of new HIV infections,Comprehensive correct knowledge about AIDS (%) [Females],0.5357
+Number of new HIV infections,Comprehensive correct knowledge about AIDS (%),0.5337
+Number of new HIV infections,Comprehensive correct knowledge about AIDS among young people (%) [Females],0.5304
+Number of new HIV infections,Testing for HIV and receiving results in the last 12 months among sexually active young people (%) [Males],0.5242
+Number of new HIV infections,People living with HIV on antiretroviral therapy (%),0.5240
+Number of new HIV infections,Testing for HIV and receiving results in the last 12 months among sexually active young people (%) [Females],0.5237
+Number of new HIV infections,TB incidence (new infections per 100 000 population),0.5226
+Number of new HIV infections,TB patients with known HIV status (%),0.5164
+Number of new HIV infections,Estimated number of children needing antiretroviral therapy based on WHO methods,0.5053
+Number of new HIV infections,Number of prevalent tuberculosis cases,0.5003
+Number of new HIV infections,Number of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission,0.4989
+Number of new HIV infections,Antiretroviral therapy coverage among people with advanced HIV infection (%) WHO 2006 guidelines,0.4965
+Number of new HIV infections,Deaths due to tuberculosis among HIV-negative people (per 100 000 population),0.4897
+Number of new HIV infections,Estimated antiretroviral therapy coverage among children,0.4856
+Number of new HIV infections,Number of new G2D leprosy cases,0.4844
+Number of new HIV infections,Number of reported cases of tuberculosis,0.4773
+Number of new HIV infections,Antiretroviral therapy coverage among people with HIV infection eligible for ART according to 2010 guidelines (%),0.4766
+Number of new HIV infections,Number of female leprosy new cases,0.4760
+Number of new HIV infections,Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission based on WHO methods,0.4754
+Number of new HIV infections,Leprosy registered prevalence rate per 1 000 000 population,0.4749
+Number of new HIV infections,Number of incident tuberculosis cases,0.4748
+Number of new HIV infections,Rubella - number of reported cases,0.4744
+Number of new HIV infections,Number of mixed infections,0.4744
+Number of new HIV infections,Tested TB patients HIV-positive (%),0.4738
+Number of new HIV infections,Number of reported cases of cholera,0.4678
+Number of new HIV infections,Testing for HIV and receiving results (ever) (%) [Males],0.4676
+Number of new HIV infections,Leprosy - Number of cases registered for treatment,0.4618
+Number of new HIV infections,New leprosy case detection rate per 1 000 000 population,0.4613
+Number of new HIV infections,Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission,0.4580
+Number of new HIV infections,Congenital syphilis rate per 100 000 live births,0.4566
+Number of new HIV infections,Incidence of tuberculosis (per 100 000 population per year),0.4558
+Number of new HIV infections,Testing for HIV and receiving results (ever) (%) [Females],0.4543
+Number of new HIV infections,Estimated number of malaria cases,0.4523
+Number of new HIV infections,Number of deaths due to tuberculosis excluding HIV,0.4496
+Number of new HIV infections,TB incidence rate per 100000 population,0.4420
+Number of new HIV infections,Year of latest adult prevalence survey (nonsmoked),0.4404
+Number of new HIV infections,Yellow fever - number of reported cases,0.4367
+Number of new HIV infections,TB incidence rate per 100000 population [Male],0.4336
+Number of new HIV infections,Pregnant women tested for HIV during antenatal care visit or labour and received results (%),0.4323
+Number of under-five deaths,Number of neonatal deaths,0.5981
+Number of under-five deaths,Total environment attributable deaths ('000) in children under 5 years,0.5949
+Number of under-five deaths,Age-standardized death rates violence per 100000,0.5788
+Number of under-five deaths,Road traffic crash deaths age-standardized death rates (15+) per 100000 population,0.5762
+Number of under-five deaths,Underweight numbers among children under 5 years of age (millions),0.5725
+Number of under-five deaths,Number of maternal deaths,0.5629
+Number of under-five deaths,ndx - number of people dying between ages x and x+n,0.5608
+Number of under-five deaths,Total NCD Deaths (in thousands),0.5583
+Number of under-five deaths,Deaths per 100 000 population,0.5556
+Number of under-five deaths,Prevalence of underweight children under 5 years of age   (% weight-for-age <-2 SD) (%),0.5531
+Number of under-five deaths,Age-standardized death rates other unintentional injuries per 100000,0.5523
+Number of under-five deaths,Estimated number of road traffic deaths,0.5474
+Number of under-five deaths,Age-standardized death rates falls per 100000,0.5449
+Number of under-five deaths,Overweight numbers among children under 5 years of age (millions),0.5444
+Number of under-five deaths,Age-standardized death rates road traffic accidents per 100000,0.5417
+Number of under-five deaths,Prevalence of wasted children under 5 years of age   (% weight-for-height <-2 SD),0.5405
+Number of under-five deaths,Age-standardized suicide rates (per 100 000 population),0.5399
+Number of under-five deaths,Climate change  attributable deaths per 100'000 children under 5 years,0.5351
+Number of under-five deaths,Infant mortality rate (deaths per 1000 live births),0.5338
+Number of under-five deaths,Deaths per 1 000 live births,0.5333
+Number of under-five deaths,Underweight prevalence among children under 5 years of age (%),0.5312
+Number of under-five deaths,Adult mortality rate (probability of dying between 15 and 60 years per 1000 population),0.5307
+Number of under-five deaths,Years of life lost from mortality (YLLs) (per 100 000 population),0.5304
+Number of under-five deaths,Age-standardized death rates (15+ years) poisoning per 100000,0.5286
+Number of under-five deaths,Projection of number of deaths,0.5268
+Number of under-five deaths,Number of deaths due to HIV/AIDS,0.5230
+Number of under-five deaths,Ambient air pollution  attributable deaths per 100'000 children under 5 years,0.5230
+Number of under-five deaths,Age range of latest youth prevalence survey (nonsmoked),0.5215
+Number of under-five deaths,Climate change attributable deaths ('000) in children under 5 years,0.5165
+Number of under-five deaths,Estimates of number of homicides,0.5163
+Number of under-five deaths,Age-standardized deaths attributable to the environment (per 100 000 population),0.5146
+Number of under-five deaths,Age-standardized NCD mortality rate  (per 100 000 population),0.5132
+Number of under-five deaths,Number of reported deaths from cholera,0.5129
+Number of under-five deaths,Underweight prevalence in children aged < 5 years (%),0.5123
+Number of under-five deaths,Age-standardized death rates self-inflicted injury per 100000,0.5095
+Number of under-five deaths,Overweight prevalence among children under 5 years of age (%),0.5093
+Number of under-five deaths,Estimated number of malaria deaths,0.5091
+Number of under-five deaths,Age-standardized death rates poisoning per 100000,0.5087
+Number of under-five deaths,Number of national population surveys - maternal mortality,0.5073
+Number of under-five deaths,Estimated road traffic death rate (per 100 000 population),0.5072
+Number of under-five deaths,Percentage of the children under 15 years with blood lead levels above 5ug/dl,0.5067
+Number of under-five deaths,Mortality rate attributed to unintentional poisoning (per 100 000 population),0.5066
+Number of under-five deaths,Number of deaths attributed to non-communicable diseases by type of disease and sex,0.5061
+Number of under-five deaths,Suicide mortality rate (per 100 000 population),0.5054
+Number of under-five deaths,Crude suicide rates (per 100 000 population),0.5052
+Number of under-five deaths,Ambient air pollution attributable deaths in children under 5 years,0.5051
+Number of under-five deaths,Cancer age-standardized death rates (15+) per 100000 population,0.5025
+Number of under-five deaths,Malaria - number of reported deaths,0.5024
+Number of under-five deaths,Age-standardized death rates alcohol and drug use disorders per 100 000,0.4996
+Number of under-five deaths,Water sanitation and hygiene attributable deaths ('000) in children under 5 years,0.4990
+Physicians density (per 1000 population),Total density per million population: Radiotherapy units,0.5993
+Physicians density (per 1000 population),Outpatient visits (per 100000),0.5959
+Physicians density (per 1000 population),Nursing and midwifery personnel (per 10000),0.5835
+Physicians density (per 1000 population),Medical doctors not further defined (number),0.5825
+Physicians density (per 1000 population),Number of radiographers,0.5784
+Physicians density (per 1000 population),Total density per million population: Computed tomography units,0.5674
+Physicians density (per 1000 population),Medical doctors (number),0.5668
+Physicians density (per 1000 population),Number of traditional medicine practitioners,0.5603
+Physicians density (per 1000 population),Radiotherapy units (per 1 000 000 population),0.5568
+Physicians density (per 1000 population),Projection of deaths per 100 000 population,0.5538
+Physicians density (per 1000 population),Births attended by skilled health personnel (%),0.5536
+Physicians density (per 1000 population),Mental health units in general hospitals (per 100000),0.5446
+Physicians density (per 1000 population),HIV incidence (cases per 1000 population),0.5444
+Physicians density (per 1000 population),Density of adult day centres (per 100000 population),0.5434
+Physicians density (per 1000 population),Births attended by skilled health personnel (in the five years preceding the survey) (%),0.5431
+Physicians density (per 1000 population),Number of licensed qualified obstetricians actively working,0.5425
+Physicians density (per 1000 population),Number of other health workers,0.5423
+Physicians density (per 1000 population),Total density per million population: Telecobalt Unit,0.5375
+Physicians density (per 1000 population),Generalist medical practitioners (number),0.5356
+Physicians density (per 1000 population),Testing and counselling facilities estimated number per 100 000 adult population,0.5353
+Physicians density (per 1000 population),Births attended by skilled health personnel (in the two or three years preceding the survey) (%),0.5351
+Physicians density (per 1000 population),Number of national population surveys -  adult health,0.5337
+Physicians density (per 1000 population),Current health expenditure (CHE) per capita in US$,0.5282
+Physicians density (per 1000 population),Number of pharmacists,0.5266
+Physicians density (per 1000 population),Total density per million population: Gamma camera or Nuclear medicine,0.5236
+Physicians density (per 1000 population),Proportion of population with >10% household expenditures on health (%),0.5215
+Physicians density (per 1000 population),Population,0.5215
+Physicians density (per 1000 population),HIV incidence (new infections per 1000 population),0.5212
+Physicians density (per 1000 population),Beds in mental hospitals (per 100000),0.5211
+Physicians density (per 1000 population),Psychologists working in mental health sector (per 100000),0.5203
+Physicians density (per 1000 population),Number of nursing and midwifery personnel,0.5196
+Physicians density (per 1000 population),Total net official development assistance to medical research and basic health sectors per capita (constant 2014 US$) by recipient,0.5195
+Physicians density (per 1000 population),Hospice centre beds (per 10 000 population),0.5173
+Physicians density (per 1000 population),Geriatric-specific hospital beds (per 10000 population),0.5168
+Physicians density (per 1000 population),Dentists (per 10000),0.5139
+Physicians density (per 1000 population),Beds in community residential facilities (per 100000),0.5136
+Physicians density (per 1000 population),Specialist medical practitioners (number),0.5135
+Physicians density (per 1000 population),Total density per million population: Magnetic Resonance Imaging,0.5117
+Physicians density (per 1000 population),Mental hospital admissions (per 100000),0.5116
+Physicians density (per 1000 population),Mental hospitals (per 100000),0.5115
+Physicians density (per 1000 population),Domestic private health expenditure (PVT-D) per capita in US$,0.5109
+Physicians density (per 1000 population),Number of community and traditional health workers,0.5094
+Physicians density (per 1000 population),Estimates of rates of homicides per 100 000 population,0.5073
+Physicians density (per 1000 population),Residential long-term care beds (per 10 000 population),0.5071
+Physicians density (per 1000 population),Number of licensed qualified anaesthesiologists actively working,0.5053
+Physicians density (per 1000 population),Proportion of health facilities with a core set of relevant essential medicines available and affordable on a sustainable basis,0.5042
+Physicians density (per 1000 population),Number of pharmaceutical personnel,0.5032
+Physicians density (per 1000 population),Incidence of tuberculosis (per 100 000 population per year),0.5023
+Physicians density (per 1000 population),Number of dentistry personnel,0.5015
+Physicians density (per 1000 population),Deaths per 100 000 population,0.5011
+Physicians density (per 1000 population),Cellular subscribers (per 100 population),0.5007
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%),0.5682
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%),0.5560
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Measles immunization coverage among one-year-olds (%),0.5509
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Hepatitis B (HepB3) immunization coverage among 1-year-olds (%),0.5463
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%),0.4964
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Proportion of vaccination cards seen (%),0.4954
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Girls aged 15 years old that received the recommended doses of HPV vaccine (%),0.4917
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged < 5 years with pneumonia symptoms taken to a healthcare provider (%),0.4697
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged < 5 years with pneumonia symptoms taken to a health facility (%),0.4425
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Neonates protected at birth against neonatal tetanus (PAB) (%),0.4363
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Estimated antiretroviral therapy coverage among children,0.4329
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Existence of national HPV vaccination programme,0.4216
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Reported number of children receiving antiretroviral therapy month and year of report,0.4130
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged 6-59 months who received vitamin A supplementation (%),0.3983
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Reported number of children receiving antiretroviral therapy,0.3895
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Estimated number of children needing antiretroviral therapy based on WHO methods,0.3821
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged <5 years with diarrhoea receiving ORT (%),0.3692
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged <5 years with fever who received treatment with any antimalarial (%),0.3686
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged <5 years with diarrhoea receiving ORS (%),0.3633
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Pertussis - number of reported cases,0.3629
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Coverage of national cervical cancer screening program (%),0.3617
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Mortality rate among children ages 5 to 9 years (per 1000 children aged 5),0.3586
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Distribution of causes of death among children aged < 5 years (%),0.3541
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Number of incident tuberculosis cases in children aged 0 - 14,0.3524
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Neonatal tetanus - number of reported cases,0.3513
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Number of reported cases of poliomyelitis by wild poliovirus (WPV),0.3511
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children with fever - Percentage of children who took drug the same or next day: Chloroquine,0.3435
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged < 5 years with diarrhoea receiving oral rehydration therapy and continued feeding (%),0.3394
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Underweight prevalence in children aged < 3 years (%),0.3384
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged <5 years with ARI symptoms who took antibiotic treatment (%),0.3371
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Prevalence of underweight children under 5 years of age   (% weight-for-age <-2 SD) (%),0.3357
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Number of deaths among children ages 5 to 9 years,0.3344
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Prompt care-seeking for children aged <5 years with fever (%),0.3329
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Prompt treatment of children aged <5 years with fever with antimalarial medicines (%),0.3295
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Mumps - number of reported cases,0.3213
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Underweight prevalence among children under 5 years of age (%),0.3211
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children aged < 5 years with diarrhoea receiving oral rehydration salts (%),0.3176
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Hepatitis B surface antigen (HBsAg) prevalence among children under 5 years (%),0.3175
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Antenatal care coverage - at least one visit among girls aged 15-19 (%),0.3167
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Underweight prevalence in children aged < 5 years (%),0.3141
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Under-five mortality rate (deaths per 1000 live births),0.3137
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Overweight prevalence in children aged <three years (%),0.3130
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Postnatal care visit within two days of birth (in the three years preceding the survey) (%),0.3104
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Condom use at last sexual intercourse among young people (%),0.3068
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Educational attainment in prevention,0.3065
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Children with fever - Percentage of children who took drug: Combination with artemisinin,0.3047
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Malaria prevalence in children aged <5 years (according to rapid diagnostic testing) (%),0.3044
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Underweight numbers among children under 5 years of age (millions),0.3041
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Mortality rate among children ages 10 to 14 years (per 1000 children aged 10),0.3034
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Postnatal care visit within two days of birth (in the five years preceding the survey) (%),0.3017
+Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%),Condom use at last sexual intercourse among young people (%) [Females],0.3005
+Total NCD Deaths (in thousands),Estimated number of road traffic deaths,0.5979
+Total NCD Deaths (in thousands),Existence of an NCD surveillance and monitoring system in place to enable reporting against the nine global NCD targets,0.5899
+Total NCD Deaths (in thousands),Number of deaths due to HIV/AIDS,0.5870
+Total NCD Deaths (in thousands),ndx - number of people dying between ages x and x+n,0.5823
+Total NCD Deaths (in thousands),Average death rate due to natural disasters (per 100 000 population),0.5818
+Total NCD Deaths (in thousands),AIDS-related mortality (deaths per 1000 population),0.5752
+Total NCD Deaths (in thousands),Suicide mortality rate (per 100 000 population),0.5727
+Total NCD Deaths (in thousands),Projection of number of deaths,0.5726
+Total NCD Deaths (in thousands),Number of maternal deaths,0.5720
+Total NCD Deaths (in thousands),Deaths per 1 000 live births,0.5679
+Total NCD Deaths (in thousands),Crude suicide rates (per 100 000 population),0.5676
+Total NCD Deaths (in thousands),Infant mortality rate (deaths per 1000 live births),0.5620
+Total NCD Deaths (in thousands),Number of national population surveys - child mortality,0.5617
+Total NCD Deaths (in thousands),Number of under-five deaths,0.5583
+Total NCD Deaths (in thousands),Age-standardized death rates violence per 100000,0.5574
+Total NCD Deaths (in thousands),Neonatal mortality rate (deaths per 1000 live births),0.5548
+Total NCD Deaths (in thousands),TB mortality (deaths per 100 000 population),0.5546
+Total NCD Deaths (in thousands),Years of life lost from mortality (YLLs) (per 100 000 population),0.5526
+Total NCD Deaths (in thousands),Reported number of people requiring interventions against NTDs,0.5521
+Total NCD Deaths (in thousands),Adolescent mortality rate (per 100 000 population),0.5486
+Total NCD Deaths (in thousands),Projection of deaths per 100 000 population,0.5461
+Total NCD Deaths (in thousands),Neonatal mortality rate (per 1000 live births),0.5457
+Total NCD Deaths (in thousands),Age-standardized death rates road traffic accidents per 100000,0.5419
+Total NCD Deaths (in thousands),Age-standardized death rates (15+ years) violence per 100000,0.5397
+Total NCD Deaths (in thousands),Number of reported deaths from cholera,0.5392
+Total NCD Deaths (in thousands),Deaths attributable to the environment (%),0.5386
+Total NCD Deaths (in thousands),Malaria - number of reported deaths,0.5386
+Total NCD Deaths (in thousands),Mortality rate attributed to unintentional poisoning (per 100 000 population),0.5372
+Total NCD Deaths (in thousands),Reported number of human rabies deaths,0.5371
+Total NCD Deaths (in thousands),Suicide mortality rate (per 100 000 population) [Male],0.5356
+Total NCD Deaths (in thousands),Age-standardized death rates other unintentional injuries per 100000,0.5299
+Total NCD Deaths (in thousands),Existence of an operational multisectoral national NCD policy strategy or action plan that integrates several NCDs and their risk factors,0.5280
+Total NCD Deaths (in thousands),Under-five mortality rate (deaths per 1000 live births),0.5263
+Total NCD Deaths (in thousands),Number of deaths among children ages 5 to 9 years,0.5246
+Total NCD Deaths (in thousands),Estimated number of malaria deaths,0.5210
+Total NCD Deaths (in thousands),Age-standardized death rates fires per 100000,0.5198
+Total NCD Deaths (in thousands),Road traffic crash deaths age-standardized death rates (15+) per 100000 population,0.5188
+Total NCD Deaths (in thousands),Estimates of rates of homicides per 100 000 population,0.5173
+Total NCD Deaths (in thousands),Number of deaths among children ages 10 to 14 years,0.5165
+Total NCD Deaths (in thousands),Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular,0.5157
+Total NCD Deaths (in thousands),Deaths due to malaria (per 100 000 population),0.5150
+Total NCD Deaths (in thousands),Ambient air pollution attributable death rate (per 100 000 population),0.5130
+Total NCD Deaths (in thousands),Premature deaths due to noncommunicable diseases (NCD) as a proportion of all NCD deaths,0.5124
+Total NCD Deaths (in thousands),Number of national population surveys - maternal mortality,0.5104
+Total NCD Deaths (in thousands),Cholera case fatality rate,0.5084
+Total NCD Deaths (in thousands),Age-standardized death rates poisoning per 100000,0.5083
+Total NCD Deaths (in thousands),Age-standardized deaths attributable to the environment (per 100 000 population),0.5040
+Total NCD Deaths (in thousands),Deaths attributable to the environment,0.5031
+Total NCD Deaths (in thousands),Distribution of road traffic deaths by type of road user (%),0.5023
+Total NCD Deaths (in thousands),Age-standardized mortality rate by cause (per 100 000 population) - Cancer,0.5000
+Total NCD Deaths (in thousands),Age-standardized death rates (15+ years) poisoning per 100000,0.4994
