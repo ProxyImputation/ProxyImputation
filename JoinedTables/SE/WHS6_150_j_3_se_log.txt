@@ -1,0 +1,15 @@
+----Joined----
+WHS6_150
+HRH_18
+WHS6_127
+HRH_24
+
+----Incompatible----
+MH_7
+RSUD_81
+RSUD_780
+RSUD_740
+RSUD_770
+RSUD_800
+RSUD_810
+RSUD_750

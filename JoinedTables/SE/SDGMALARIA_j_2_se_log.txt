@@ -1,0 +1,16 @@
+----Joined----
+SDGMALARIA
+NTD_LEPR4
+CCO_1
+
+----Incompatible----
+HEAT-database_3
+HEAT-database_150
+HEAT-database_125
+HEAT-database_78
+imr
+HEAT-database_117
+HEAT-database_89
+HEAT-database_99
+TB_e_inc_tbhiv_num
+CHOLERA_0000000003

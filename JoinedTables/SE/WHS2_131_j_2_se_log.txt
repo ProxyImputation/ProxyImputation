@@ -1,0 +1,6 @@
+----Joined----
+WHS2_131
+WHOSIS_000016
+SA_0000001446
+
+----Incompatible----

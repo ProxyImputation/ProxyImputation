@@ -1,0 +1,9 @@
+----Joined----
+WHOSIS_000003
+WHOSIS_000004
+SA_0000001442
+SA_0000001441
+
+----Incompatible----
+HEATPlus-repository-GPW13_76
+HEATPlus-repository-GPW13_65
