@@ -1,0 +1,40 @@
+Percentage: 10;    Deletion Mode: random
+Average RMSE File 1; 19.146425085636345
+Average MAE File 1; 8.988511323483994
+
+Percentage: 20;    Deletion Mode: random
+Average RMSE File 1; 25.31258601950801
+Average MAE File 1; 11.21101808523979
+
+Percentage: 30;    Deletion Mode: random
+Average RMSE File 1; 30.800515601314657
+Average MAE File 1; 14.402703830594186
+
+Percentage: 40;    Deletion Mode: random
+Average RMSE File 1; 37.04873049739831
+Average MAE File 1; 17.784448884791164
+
+Percentage: 50;    Deletion Mode: random
+Average RMSE File 1; 44.58356885145631
+Average MAE File 1; 22.303116435867548
+
+Percentage: 10;    Deletion Mode: not_random
+Average RMSE File 1; 15.56103997154755
+Average MAE File 1; 4.3666279964238415
+
+Percentage: 20;    Deletion Mode: not_random
+Average RMSE File 1; 122.73823926794292
+Average MAE File 1; 59.88801867003643
+
+Percentage: 30;    Deletion Mode: not_random
+Average RMSE File 1; 125.88612999513441
+Average MAE File 1; 66.33999532769906
+
+Percentage: 40;    Deletion Mode: not_random
+Average RMSE File 1; 153.06167985219156
+Average MAE File 1; 88.40605984873346
+
+Percentage: 50;    Deletion Mode: not_random
+Average RMSE File 1; 188.5843091287646
+Average MAE File 1; 130.45025537592053
+
