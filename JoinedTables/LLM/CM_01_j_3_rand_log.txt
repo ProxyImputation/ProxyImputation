@@ -1,0 +1,8 @@
+----Joined----
+CM_01
+WHOSIS_000016
+HEATPlus-repository-GPW13_15
+HEATPlus-repository-GPW13_26
+
+----Incompatible----
+HEATPlus-repository-GPW13_67

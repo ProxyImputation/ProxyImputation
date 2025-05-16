@@ -1,0 +1,7 @@
+----Joined----
+HIV_0000000026
+PercposMSM
+PercposSW
+RS_1845
+
+----Incompatible----
