@@ -1,0 +1,5 @@
+----Joined----
+MORT_MATERNALNUM
+
+----Incompatible----
+WHS4_115

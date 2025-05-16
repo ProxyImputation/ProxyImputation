@@ -1,0 +1,7 @@
+----Joined----
+MDG_0000000026
+LBW_PREVALENCE
+WHS2_138
+
+----Incompatible----
+SRHINSTITUTIONALBIRTH

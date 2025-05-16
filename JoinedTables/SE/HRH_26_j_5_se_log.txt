@@ -1,0 +1,9 @@
+----Joined----
+HRH_26
+DEVICES22
+MH_20
+HWF_0005
+DEVICES09
+HWF_0002
+
+----Incompatible----

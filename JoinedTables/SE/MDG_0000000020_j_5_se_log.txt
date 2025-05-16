@@ -1,0 +1,9 @@
+----Joined----
+MDG_0000000020
+TB_hivtest_pct
+TB_c_tbhiv_tsr
+TB_1
+TB_c_xdr_tsr
+TB_c_new_snep_tsr
+
+----Incompatible----

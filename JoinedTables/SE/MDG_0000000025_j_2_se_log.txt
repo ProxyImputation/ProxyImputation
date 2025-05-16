@@ -1,0 +1,7 @@
+----Joined----
+MDG_0000000025
+HRH_29
+HRH_42
+
+----Incompatible----
+WHS4_111_AGE1519

@@ -1,0 +1,14 @@
+----Joined----
+MDG_0000000025
+HRH_29
+HRH_42
+UNICEF_PNCMOTHER
+
+----Incompatible----
+WHS4_111_AGE1519
+HEAT-database_43
+HEAT-database_231
+HEAT-database_91
+HEAT-database_83
+HEAT-database_53
+HEAT-database_140

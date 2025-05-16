@@ -1,0 +1,6 @@
+----Joined----
+HIV_0000000026
+WHS3_45
+HIV_0000000022
+
+----Incompatible----

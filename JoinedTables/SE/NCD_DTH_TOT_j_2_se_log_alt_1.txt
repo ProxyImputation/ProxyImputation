@@ -1,0 +1,6 @@
+----Joined----
+NCD_DTH_TOT
+RS_196
+SDGDISASTER
+
+----Incompatible----

@@ -1,0 +1,12 @@
+----Joined----
+MORT_MATERNALNUM
+
+----Incompatible----
+WHS4_115
+HEAT-database_227
+csection5
+HEAT-database_65
+HEAT-database_175
+HEAT-database_126
+HEAT-database_214
+HEAT-database_118

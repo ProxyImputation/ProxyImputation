@@ -1,0 +1,10 @@
+----Joined----
+NCD_DTH_TOT
+RS_196
+SDGDISASTER
+HEATPlus-repository-GPW13_76
+
+----Incompatible----
+HEATPlus-repository-HIV_8
+HEATPlus-repository-HIV-yearly_3
+HEATPlus-repository-GPW13_65
