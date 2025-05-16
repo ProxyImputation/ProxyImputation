@@ -1,0 +1,8 @@
+----Joined----
+WHOSIS_000003
+GDO_q13x1x1
+SDGDISASTER
+
+----Incompatible----
+SA_0000001741_ARCHIVED
+SA_0000001741

@@ -1,0 +1,5 @@
+----Joined----
+WHOSIS_000001
+MDG_0000000001
+
+----Incompatible----

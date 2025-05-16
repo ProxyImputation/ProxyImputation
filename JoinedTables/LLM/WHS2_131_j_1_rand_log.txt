@@ -1,0 +1,9 @@
+----Joined----
+WHS2_131
+HEATPlus-repository-GPW13_24
+
+----Incompatible----
+HEATPlus-repository-GPW13_7
+HEATPlus-repository-GPW13_98
+HEATPlus-repository-GPW13_50
+HEATPlus-repository-GPW13_75

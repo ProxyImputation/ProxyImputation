@@ -1,0 +1,9 @@
+----Joined----
+SDGMALARIA
+MALARIA002
+MDG_0000000014
+WHS3_48
+UHC_SCI_INFECT
+CC_2
+
+----Incompatible----

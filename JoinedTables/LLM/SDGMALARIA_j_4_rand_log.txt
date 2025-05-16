@@ -1,0 +1,9 @@
+----Joined----
+SDGMALARIA
+NCD_CCS_paaware
+GDO_q8x2_6
+HRH_19
+NTCP_govt_obj
+
+----Incompatible----
+WHS6_517

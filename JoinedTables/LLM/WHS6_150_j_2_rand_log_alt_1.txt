@@ -1,0 +1,8 @@
+----Joined----
+WHS6_150
+RSUD_13
+AIR_18
+
+----Incompatible----
+GDO_q5x1x3
+RSUD_26

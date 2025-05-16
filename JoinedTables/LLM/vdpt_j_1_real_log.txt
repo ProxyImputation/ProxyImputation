@@ -1,0 +1,13 @@
+----Joined----
+vdpt
+HEAT-database_139
+
+----Incompatible----
+HEAT-database_21
+HEAT-database_48
+HEAT-database_185
+HEAT-database_85
+HEAT-database_163
+HEAT-database_93
+vfull
+fullv
