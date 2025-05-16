@@ -1,0 +1,16 @@
+Percentage: 20     Deletion Mode: random
+Average RMSE File 1, 7458.923998853857
+Average RMSE File 2, 7420.239701665744
+Average RMSE mean, 33079.985903645415
+Average MAE File 1, 2294.670980994152
+Average MAE File 2, 1609.7036652046784
+Average MAE mean, 9438.468616305017
+
+Percentage: 20     Deletion Mode: not_random
+Average RMSE File 1, 4979.971636428189
+Average RMSE File 2, 40738.499260969416
+Average RMSE mean, 7214.035608882683
+Average MAE File 1, 1420.6253903508773
+Average MAE File 2, 7696.75442982456
+Average MAE mean, 7214.035453216374
+

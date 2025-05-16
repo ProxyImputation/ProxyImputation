@@ -1,0 +1,6 @@
+----Joined----
+MORT_MATERNALNUM
+MDG_0000000032
+UHC_SCI_RMNCH
+
+----Incompatible----

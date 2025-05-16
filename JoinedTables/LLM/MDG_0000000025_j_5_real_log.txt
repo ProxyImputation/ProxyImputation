@@ -1,0 +1,9 @@
+----Joined----
+MDG_0000000025
+SDGSHP
+UHC_SCI_RMNCH
+UHC_SCI_CAPACITY
+HWF_0009
+HWF_0008
+
+----Incompatible----

@@ -1,0 +1,96 @@
+Percentage: 20     Deletion Mode: random
+Average RMSE File 1, 8355.115580084279
+Average RMSE File 2, 615.940871092747
+Average RMSE mean, 33238.00185869257
+Average MAE File 1, 1737.5455087719297
+Average MAE File 2, 134.41480263157897
+Average MAE mean, 9335.372376650079
+
+Percentage: 20     Deletion Mode: not_random
+Average RMSE File 1, 10385.89953925378
+Average RMSE File 2, 41605.592976165164
+Average RMSE mean, 7214.035608882683
+Average MAE File 1, 3277.761883040936
+Average MAE File 2, 7675.009782163742
+Average MAE mean, 7214.035453216374
+
+Percentage: 10     Deletion Mode: random
+Average RMSE File 1, 4710.929633337116
+Average RMSE File 2, 694.6476207753743
+Average RMSE mean, 29671.835442834777
+Average MAE File 1, 979.0133538011694
+Average MAE File 2, 122.47110818713449
+Average MAE mean, 8878.430486873454
+
+Percentage: 20     Deletion Mode: random
+Average RMSE File 1, 6843.9091895650245
+Average RMSE File 2, 817.3184818843158
+Average RMSE mean, 30259.191965291837
+Average MAE File 1, 1316.8783304093565
+Average MAE File 2, 146.39915643274853
+Average MAE mean, 8895.932570278035
+
+Percentage: 30     Deletion Mode: random
+Average RMSE File 1, 8622.146565947429
+Average RMSE File 2, 1021.7362024288941
+Average RMSE mean, 31213.618385382626
+Average MAE File 1, 1871.1394298245614
+Average MAE File 2, 201.3778538011696
+Average MAE mean, 9064.384747525084
+
+Percentage: 40     Deletion Mode: random
+Average RMSE File 1, 7909.935996658904
+Average RMSE File 2, 1734.8462051332735
+Average RMSE mean, 31460.763286577887
+Average MAE File 1, 1805.787282894737
+Average MAE File 2, 313.8034605263158
+Average MAE mean, 9062.506263109446
+
+Percentage: 50     Deletion Mode: random
+Average RMSE File 1, 11330.506111245777
+Average RMSE File 2, 2197.380769659178
+Average RMSE mean, 32002.895566003666
+Average MAE File 1, 2504.8043795321637
+Average MAE File 2, 413.2716842105263
+Average MAE mean, 9146.313226907423
+
+Percentage: 10     Deletion Mode: not_random
+Average RMSE File 1, 4246.168659681228
+Average RMSE File 2, 36557.316716925925
+Average RMSE mean, 6413.873025300376
+Average MAE File 1, 1369.5870614035086
+Average MAE File 2, 6126.8230994152045
+Average MAE mean, 6413.872969460688
+
+Percentage: 20     Deletion Mode: not_random
+Average RMSE File 1, 10762.371747047166
+Average RMSE File 2, 41605.60956278842
+Average RMSE mean, 7214.035608882683
+Average MAE File 1, 3418.0272339181283
+Average MAE File 2, 7675.749403508773
+Average MAE mean, 7214.035453216374
+
+Percentage: 30     Deletion Mode: not_random
+Average RMSE File 1, 8715.348592729617
+Average RMSE File 2, 39821.93759770525
+Average RMSE mean, 8241.923879281623
+Average MAE File 1, 3049.5812729044837
+Average MAE File 2, 7906.02746491228
+Average MAE mean, 8241.923280423278
+
+Percentage: 40     Deletion Mode: not_random
+Average RMSE File 1, 10068.751156671959
+Average RMSE File 2, 38908.942124735586
+Average RMSE mean, 9607.851393193794
+Average MAE File 1, 4278.838854532163
+Average MAE File 2, 8483.389158625732
+Average MAE mean, 9607.846491228067
+
+Percentage: 50     Deletion Mode: not_random
+Average RMSE File 1, 10834.276350796996
+Average RMSE File 2, 38478.54092292118
+Average RMSE mean, 11505.031449414619
+Average MAE File 1, 4985.62930994152
+Average MAE File 2, 9123.20445614035
+Average MAE mean, 11504.999415204675
+

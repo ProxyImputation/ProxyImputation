@@ -1,0 +1,10 @@
+----Joined----
+MDG_0000000026
+TB_new_ep
+GDO_q8x2_4
+SA_0000001812
+E19_movies_anti_tob_ads
+
+----Incompatible----
+RSUD_480
+W20_flavours_B

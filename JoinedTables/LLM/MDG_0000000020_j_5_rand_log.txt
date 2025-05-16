@@ -1,0 +1,9 @@
+----Joined----
+MDG_0000000020
+GDO_q13x3
+SHS_2
+GDO_Q2x2x1_NCD
+GDO_q12x2x1x1_1PUB
+TB_rr_mdr
+
+----Incompatible----

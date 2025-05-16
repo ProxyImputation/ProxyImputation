@@ -1,0 +1,7 @@
+----Joined----
+MDG_0000000025
+SA_0000001812
+GDO_q2x1
+
+----Incompatible----
+SHS_3

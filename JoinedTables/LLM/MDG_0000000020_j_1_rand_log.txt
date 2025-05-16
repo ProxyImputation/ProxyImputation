@@ -1,0 +1,5 @@
+----Joined----
+MDG_0000000020
+GDO_q13x3
+
+----Incompatible----
