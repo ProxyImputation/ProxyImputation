@@ -1,0 +1,6 @@
+----Joined----
+NCD_DTH_TOT
+SA_0000001820
+SA_0000001451
+
+----Incompatible----

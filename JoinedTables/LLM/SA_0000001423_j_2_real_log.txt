@@ -1,0 +1,6 @@
+----Joined----
+SA_0000001423
+SA_0000001688
+RSUD_1
+
+----Incompatible----

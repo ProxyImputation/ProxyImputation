@@ -1,0 +1,7 @@
+----Joined----
+PCV3
+RS_223_BIS
+IR_ORGANOCHLORINE_PRESENCE
+GDO_q2x4_1
+
+----Incompatible----

@@ -1,0 +1,8 @@
+----Joined----
+PCV3
+UHC_SCI_INFECT
+SDGSHP
+WHS7_108
+RS_1845
+
+----Incompatible----
