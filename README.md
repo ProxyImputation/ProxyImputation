@@ -21,6 +21,19 @@
 | 17    | vdpt             | 389328      | 12294      |
 | 18    | CM_01            | 849988      | 32862      |
 
+We took the table WHS6_150 which is the only table to be loaded into LLaMA 2 completely and asked the LLM to fill in missing values directly. We did 100 runs of which 95 failed to produce valid results:
+
+| Error type                                  | #Runs | priority |
+|---------------------------------------------|-------|----------|
+| Failed to parse returned table to CSV       | 72    | 2.       |
+| Returned table is shorter than the original | 12    | 3.       |
+| Failed to find table in answer              | 8     | 1.       |
+| Context attributes were changed             | 3     | 4.       |
+
+Please note that the error types are not disjoint. If an error is encountered the run is aborted. This means that additional errors might occur in the same run that are not counted. The error type with lower priority is checked first (i.e., Failed to find table in answer).
+
+
+
 # Proxy-Enriched Imputation
 
 ### Data Sets
