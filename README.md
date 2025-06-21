@@ -21,7 +21,7 @@
 | 17    | vdpt             | 389328      | 12294      |
 | 18    | CM_01            | 849988      | 32862      |
 
-We took the table WHS6_150 which is the only table to be loaded into LLaMA 2 completely and asked the LLM to fill in missing values directly. We did 100 runs of which 95 failed to produce valid results:
+We took the table WHS6_150 which is the only table that can be loaded into LLaMA 2 completely and asked the LLM to fill in missing values directly. We did 100 runs of which 95 failed to produce valid results:
 
 | Error type                                  | #Runs | priority |
 |---------------------------------------------|-------|----------|
