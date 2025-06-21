@@ -67,6 +67,16 @@ The ranked lists of proxy attributes identified by the LLM and by applying the S
 
 ### Evaluation
 
+## Identification of Proxies
+
+The identification of proxy attributes as done in our evaluation can be reproduced as follows (using the attribute list _WHOAttributes.txt_ in the folder _ProxyLists_ as input):
+
+-LLM: Provide the attribute list as input for LLaMA 2 (https://www.llama.com/llama2/) using the prompts as shown in our paper.
+-Sentence Embedding: Compute the pairwise cosine similarity using SBERT (https://sbert.net/) for the attribute list.
+-Random: Compute a random subset of the provided list.
+
+## Imputation
+
 The evaluation as described in our paper can be conducted by running the python script "evalScript_v2_10runs_all_modes.py" which can be found in the folder _Scripts_. It requires the following arguments:
 
   1) path to first table
