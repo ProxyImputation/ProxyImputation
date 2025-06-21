@@ -65,9 +65,9 @@ The narratives used in our evaluation can be found in the folder _Narratives_. T
 
 The ranked lists of proxy attributes identified by the LLM and by applying the Sentence Embedding can be found in the folder _ProxyLists_.
 
-### Evaluation
+## Evaluation
 
-## Identification of Proxies
+### Identification of Proxies
 
 The identification of proxy attributes as done in our evaluation can be reproduced as follows (using the attribute list _WHOAttributes.txt_ in the folder _ProxyLists_ as input):
 
@@ -75,7 +75,7 @@ The identification of proxy attributes as done in our evaluation can be reproduc
 - Sentence Embedding: Compute the pairwise cosine similarity using SBERT (https://sbert.net/) for the attribute list.
 - Random: Compute a random subset of the provided list.
 
-## Imputation
+### Imputation
 
 The evaluation as described in our paper can be conducted by running the python script "evalScript_v2_10runs_all_modes.py" which can be found in the folder _Scripts_. It requires the following arguments:
 
