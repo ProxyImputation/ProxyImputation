@@ -32,7 +32,14 @@ We took the table WHS6_150 which is the only table that can be loaded into LLaMA
 
 Please note that the error types are not disjoint. If an error is encountered the run is aborted. This means that additional errors might occur in the same run that are not counted. The error type with lower priority is checked first (i.e., Failed to find table in answer).
 
+We also collected a random sample of 100 records from CM_01 and repeated the process. We computed 1000 runs of which none resulted in a valid result:
 
+| Error type                                  | #Runs | priority |
+|---------------------------------------------|-------|----------|
+| Failed to parse returned table to CSV       | 340   | 2.       |
+| Returned table is shorter than the original | 340   | 3.       |
+| Failed to find table in answer              | 320   | 1.       |
+| Context attributes were changed             | 0     | 4.       |
 
 # Proxy-Enriched Imputation
 
