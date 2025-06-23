@@ -1,0 +1,28 @@
+Narrative,Witness,MatchedAttribute
+2020STAT06,MCV2,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%)
+2020STAT10,HIV_0000000026,Number of new HIV infections
+2021STAT11,WHOSIS_000007,Healthy life expectancy (HALE) at age 60 (years)
+2021STAT22,MDG_0000000025,Births attended by skilled health personnel (%)
+LCD11,SA_0000001423,Age-standardized DALYs falls per 100000
+LCD12,HIV_0000000006,Number of deaths due to HIV/AIDS
+LCD13,-,-
+LCD14,SA_0000001455,Age-standardized death rates violence per 100000
+LCD15,GHE_DALYNUM,Disability-adjusted life years (DALYs)
+WHO_DS_10,-,-
+WHO_DS_11,vdpt,DTP3 immunization coverage among one-year-olds (%)
+WHO_DS_12,HIV_0000000026,Number of new HIV infections
+WHO_DS_12,MDG_0000000020,Incidence of tuberculosis (per 100 000 population per year)
+WHO_DS_12,SDGMALARIA,Malaria incidence (per 1 000 population at risk)
+WHO_DS_18,-,-
+WHO_DS_19,PCV3,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%)
+WHO_DS_20,HRH_26,Physicians density (per 1000 population)
+WHO_DS_21,-,-
+WHO_DS_4,WHOSIS_000001,Life expectancy at birth (years)
+WHO_DS_6,WHS6_150,Community health workers density (per 10 000 population)
+WHO_DS_9,MORT_300,Distribution of causes of death among children aged < 5 years (%)
+WHS23_1,MORT_MATERNALNUM,Number of maternal deaths
+WHS23_2,MDG_0000000026,Maternal mortality ratio (per 100 000 live births)
+WHS23_3,CM_01,Number of under-five deaths
+WHS23_4,WHOSIS_000003,Neonatal mortality rate (per 1000 live births)
+WHS23_5,NCD_DTH_TOT,Total NCD Deaths (in thousands)
+WHS23_6,WHS2_131,Age-standardized NCD mortality rate  (per 100 000 population)
