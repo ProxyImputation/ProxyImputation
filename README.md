@@ -73,11 +73,16 @@ The ranked lists of proxy attributes identified by the LLM and by applying the S
 
 ### Identification of Proxies
 
-The identification of proxy attributes as done in our evaluation can be reproduced as follows (using the attribute list _WHOAttributes.txt_ in the folder _ProxyLists_ as input):
+The identification of proxy attributes requires
 
-- LLM: Provide the attribute list as input for LLaMA 2 (https://www.llama.com/llama2/) using the prompts as shown in our paper.
-- Sentence Embedding: Compute the pairwise cosine similarity using SBERT (https://sbert.net/) for the attribute list.
-- Random: Compute a random subset of the provided list.
+1) a list of attributes for which proxies should be computed (for our evaluation, we used the attributes in the _MatchedAttribute_ column of the _/Witnesses/IdentifiedWitnesses.csv_ file)
+2) a list of proxy candidates (for our evaluation, we used the attribute list _/ProxyLists/WHOAttributes.txt_)
+
+ The proxy identification of our evaluation can then be reproduced as follows:
+
+- LLM: Provide each pair of attribute (i) and proxy candidate (p) to LLaMA 2 (https://www.llama.com/llama2/) using the prompt as shown in figure 4 of our paper. A subsequent ranking of the identified proxies can be achieved by using the prompt as shown in figure 5 (use all pairings of proxies p<sub>a</sub> and p<sub>b</sub>).
+- Sentence Embedding: For each pair of attribute and proxy candidate compute the cosine similarity using SBERT (https://sbert.net/).
+- Random: Compute a random subset of the provided proxy candidates.
 
 ### Imputation
 
