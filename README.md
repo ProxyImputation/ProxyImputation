@@ -21,7 +21,7 @@
 | 17    | vdpt             | 389328      | 12294      |
 | 18    | CM_01            | 849988      | 32862      |
 
-We took the table WHS6_150 which is the only table that can be loaded into LLaMA 2 completely and asked the LLM to fill in missing values directly. We did 100 runs of which 95 failed to produce valid results:
+We took the table WHS6_150 which is the only table that can be loaded into LLaMA 2 completely, randomly removed 50% of the values for the attribute _"Community health workers density (per 10 000 population)"_ and asked the LLM to fill in those values directly. We did 100 runs of which 95 failed to produce valid results (a repeat of the experiment did not yield any run with valid results):
 
 | Error type                                  | #Runs | priority |
 |---------------------------------------------|-------|----------|
@@ -32,6 +32,8 @@ We took the table WHS6_150 which is the only table that can be loaded into LLaMA
 
 Please note that the error types are not disjoint. If an error is encountered the run is aborted. This means that additional errors might occur in the same run that are not counted. The error type with lower priority is checked first (i.e., Failed to find table in answer).
 
+When we repeated the experiment (first with 100 runs and then with 1000 runs) the LLM was not able to produce any valid results at all.
+
 We also collected a random sample of 100 records from CM_01 and repeated the process. We computed 1000 runs of which none resulted in a valid result:
 
 | Error type                                  | #Runs | priority |
@@ -40,6 +42,8 @@ We also collected a random sample of 100 records from CM_01 and repeated the pro
 | Returned table is shorter than the original | 340   | 3.       |
 | Failed to find table in answer              | 320   | 1.       |
 | Context attributes were changed             | 0     | 4.       |
+
+These experiments show that LLaMA 2 is not applicable as a replacement for established missing value imputation approaches.
 
 # Proxy-Enriched Imputation
 
