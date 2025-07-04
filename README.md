@@ -100,3 +100,5 @@ python3 evalScript_v2_10runs_all_modes.py SDGMALARIA_j_1_real.csv SDGMALARIA_j_1
 Please note that in the version of the script provided in the _Scripts_ folder the arguments (4) and (5) are not relevant. A single call of the script will compute results for both missing patterns (MCAR, MNAR) and all percentages of missing values (10%, 20%, 30%, 40%, 50%) applied in our paper.
 
 The script will generate a txt-file which contains the average MAE and RMSE over 10 runs for both missing patterns and all percentages of missing values for both tables provided as arguments. 
+
+The tables used in our evaluation can be found in the folders _Data Sets_ (original data sets without proxies) and _JoinedTables_. The latter contains the original data sets joined with the identified proxy attributes. They are split into two folders, of which _SE_ contains those tables with proxies identified via sentence embedding, while _LLM_ contains those tables with proxies identified by the LLM and those with random proxies (filenames contain _real and _rand respectively).
